@@ -1,0 +1,877 @@
+,Match_id,Score,Team,Opposite_Team,Innings
+0,1,Bairstow    c Daryl Mitchell b Santner  33 35 4 1 94.29,England,New Zealand,1
+1,1,Malan    c Latham b Matt Henry  14 24 2 0 58.33,England,New Zealand,1
+2,1,Root    b Glenn Phillips  77 86 4 1 89.53,England,New Zealand,1
+3,1,Harry Brook    c Conway b Rachin Ravindra  25 16 4 1 156.25,England,New Zealand,1
+4,1,Moeen    b Glenn Phillips  11 17 1 0 64.71,England,New Zealand,1
+5,1,Jos Buttler (c & wk)    c Latham b Matt Henry  43 42 2 2 102.38,England,New Zealand,1
+6,1,Livingstone    c Matt Henry b Boult  20 22 3 0 90.91,England,New Zealand,1
+7,1,Sam Curran    c Latham b Matt Henry  14 19 0 0 73.68,England,New Zealand,1
+8,1,Chris Woakes    c Will Young b Santner  11 12 1 0 91.67,England,New Zealand,1
+9,1,Adil Rashid    not out  15 13 0 1 115.38,England,New Zealand,1
+10,1,Mark Wood    not out  13 14 0 0 92.86,England,New Zealand,1
+11,2,Fakhar Zaman    c and b van Beek  12 15 3 0 80.00,Pakistan,Netherlands,1
+12,2,Imam-ul-Haq    c Aryan Dutt b van Meekeren  15 19 2 0 78.95,Pakistan,Netherlands,1
+13,2,Babar Azam (c)    c Saqib Zulfiqar b Ackermann  5 18 0 0 27.78,Pakistan,Netherlands,1
+14,2,Rizwan (wk)    b Bas de Leede  68 75 8 0 90.67,Pakistan,Netherlands,1
+15,2,Saud Shakeel    c Saqib Zulfiqar b Aryan Dutt  68 52 9 1 130.77,Pakistan,Netherlands,1
+16,2,Iftikhar Ahmed    c Edwards b Bas de Leede  9 11 1 0 81.82,Pakistan,Netherlands,1
+17,2,Mohammad Nawaz    run out (van Meekeren/Ackermann)  39 43 4 0 90.70,Pakistan,Netherlands,1
+18,2,Shadab Khan    b Bas de Leede  32 34 2 1 94.12,Pakistan,Netherlands,1
+19,2,Hasan Ali    lbw b Bas de Leede  0 1 0 0 0.00,Pakistan,Netherlands,1
+20,2,Shaheen Afridi    not out  13 12 2 0 108.33,Pakistan,Netherlands,1
+21,2,Haris Rauf    st Edwards b Ackermann  16 14 2 1 114.29,Pakistan,Netherlands,1
+22,3,Gurbaz (wk)    c Tanzid Hasan b Mustafizur  47 62 4 1 75.81,Afghanistan,Bangladesh,1
+23,3,Ibrahim Zadran    c Tanzid Hasan b Shakib  22 25 3 1 88.00,Afghanistan,Bangladesh,1
+24,3,Rahmat    c Litton Das b Shakib  18 25 1 0 72.00,Afghanistan,Bangladesh,1
+25,3,Shahidi (c)    c Towhid Hridoy b Mehidy Hasan Miraz  18 38 2 0 47.37,Afghanistan,Bangladesh,1
+26,3,Najibullah    b Shakib  5 13 0 0 38.46,Afghanistan,Bangladesh,1
+27,3,Nabi    b Taskin Ahmed  6 12 0 0 50.00,Afghanistan,Bangladesh,1
+28,3,Azmatullah    b Shoriful Islam  22 20 4 0 110.00,Afghanistan,Bangladesh,1
+29,3,Rashid Khan    b Mehidy Hasan Miraz  9 16 1 0 56.25,Afghanistan,Bangladesh,1
+30,3,Mujeeb    b Mehidy Hasan Miraz  1 4 0 0 25.00,Afghanistan,Bangladesh,1
+31,3,Naveen-ul-Haq    c Towhid Hridoy b Shoriful Islam  0 6 0 0 0.00,Afghanistan,Bangladesh,1
+32,3,Fazalhaq Farooqi    not out  0 3 0 0 0.00,Afghanistan,Bangladesh,1
+33,4,de Kock    c Dhananjaya de Silva b Matheesha Pathirana  100 84 12 3 119.05,South Africa,Sri Lanka,1
+34,4,Bavuma (c)    lbw b Dilshan Madushanka  8 5 2 0 160.00,South Africa,Sri Lanka,1
+35,4,van der Dussen    c Samarawickrama b Dunith Wellalage  108 110 13 2 98.18,South Africa,Sri Lanka,1
+36,4,Markram    c Rajitha b Dilshan Madushanka  106 54 14 3 196.30,South Africa,Sri Lanka,1
+37,4,Klaasen (wk)    c Shanaka b Rajitha  32 20 1 3 160.00,South Africa,Sri Lanka,1
+38,4,Miller    not out  39 21 3 2 185.71,South Africa,Sri Lanka,1
+39,4,Marco Jansen    not out  12 7 0 1 171.43,South Africa,Sri Lanka,1
+40,5,Warner    c and b Kuldeep Yadav  41 52 6 0 78.85,Australia,India,1
+41,5,Mitchell Marsh    c Kohli b Bumrah  0 6 0 0 0.00,Australia,India,1
+42,5,Steven Smith    b Ravindra Jadeja  46 71 5 0 64.79,Australia,India,1
+43,5,Labuschagne    c Rahul b Ravindra Jadeja  27 41 1 0 65.85,Australia,India,1
+44,5,Maxwell    b Kuldeep Yadav  15 25 1 0 60.00,Australia,India,1
+45,5,Alex Carey (wk)    lbw b Ravindra Jadeja  0 2 0 0 0.00,Australia,India,1
+46,5,Green    c Hardik Pandya b Ashwin  8 20 0 0 40.00,Australia,India,1
+47,5,Cummins (c)    c Shreyas Iyer b Bumrah  15 24 1 1 62.50,Australia,India,1
+48,5,Starc    c Shreyas Iyer b Siraj  28 35 2 1 80.00,Australia,India,1
+49,5,Zampa    c Kohli b Hardik Pandya  6 20 0 0 30.00,Australia,India,1
+50,5,Hazlewood    not out  1 1 0 0 100.00,Australia,India,1
+51,6,Conway    c Bas de Leede b van der Merwe  32 40 5 1 80.00,New Zealand,Netherlands,1
+52,6,Will Young    c Bas de Leede b van Meekeren  70 80 7 2 87.50,New Zealand,Netherlands,1
+53,6,Rachin Ravindra    c Edwards b van der Merwe  51 51 3 1 100.00,New Zealand,Netherlands,1
+54,6,Daryl Mitchell    b van Meekeren  48 47 5 2 102.13,New Zealand,Netherlands,1
+55,6,Latham (c & wk)    st Edwards b Aryan Dutt  53 46 6 1 115.22,New Zealand,Netherlands,1
+56,6,Glenn Phillips    c Edwards b Bas de Leede  4 4 1 0 100.00,New Zealand,Netherlands,1
+57,6,Chapman    c van der Merwe b Aryan Dutt  5 13 0 0 38.46,New Zealand,Netherlands,1
+58,6,Santner    not out  36 17 3 2 211.76,New Zealand,Netherlands,1
+59,6,Matt Henry    not out  10 4 0 1 250.00,New Zealand,Netherlands,1
+60,7,Bairstow    b Shakib  52 59 8 0 88.14,England,Bangladesh,1
+61,7,Malan    b Mahedi Hasan  140 107 16 5 130.84,England,Bangladesh,1
+62,7,Root    c Mushfiqur Rahim b Shoriful Islam  82 68 8 1 120.59,England,Bangladesh,1
+63,7,Jos Buttler (c & wk)    b Shoriful Islam  20 10 1 1 200.00,England,Bangladesh,1
+64,7,Harry Brook    c Litton Das b Mahedi Hasan  20 15 3 0 133.33,England,Bangladesh,1
+65,7,Livingstone    b Shoriful Islam  0 1 0 0 0.00,England,Bangladesh,1
+66,7,Sam Curran    c Shanto b Mahedi Hasan  11 15 1 0 73.33,England,Bangladesh,1
+67,7,Chris Woakes    c Mahedi Hasan b Taskin Ahmed  14 11 2 0 127.27,England,Bangladesh,1
+68,7,Adil Rashid    c Shanto b Mahedi Hasan  11 7 1 0 157.14,England,Bangladesh,1
+69,7,Mark Wood    not out  6 5 1 0 120.00,England,Bangladesh,1
+70,7,R Topley    not out  1 2 0 0 50.00,England,Bangladesh,1
+71,8,Pathum Nissanka    c Shafique b Shadab Khan  51 61 7 1 83.61,Sri Lanka,Pakistan,1
+72,8,Kusal Perera    c Rizwan b Hasan Ali  0 4 0 0 0.00,Sri Lanka,Pakistan,1
+73,8,Kusal Mendis    c Imam-ul-Haq b Hasan Ali  122 77 14 6 158.44,Sri Lanka,Pakistan,1
+74,8,Samarawickrama (wk)    c Rizwan b Hasan Ali  108 89 11 2 121.35,Sri Lanka,Pakistan,1
+75,8,Asalanka    c Rizwan b Hasan Ali  1 3 0 0 33.33,Sri Lanka,Pakistan,1
+76,8,Dhananjaya de Silva    c Shaheen Afridi b Mohammad Nawaz  25 34 3 0 73.53,Sri Lanka,Pakistan,1
+77,8,Shanaka (c)    c Babar Azam b Shaheen Afridi  12 18 0 0 66.67,Sri Lanka,Pakistan,1
+78,8,Dunith Wellalage    c Shafique b Haris Rauf  10 8 1 0 125.00,Sri Lanka,Pakistan,1
+79,8,M Theekshana    b Haris Rauf  0 4 0 0 0.00,Sri Lanka,Pakistan,1
+80,8,Matheesha Pathirana    not out  1 3 0 0 33.33,Sri Lanka,Pakistan,1
+81,9,Gurbaz (wk)    c Thakur b Hardik Pandya  21 28 3 1 75.00,Afghanistan,India,1
+82,9,Ibrahim Zadran    c Rahul b Bumrah  22 28 4 0 78.57,Afghanistan,India,1
+83,9,Rahmat    lbw b Thakur  16 22 3 0 72.73,Afghanistan,India,1
+84,9,Shahidi (c)    lbw b Kuldeep Yadav  80 88 8 1 90.91,Afghanistan,India,1
+85,9,Azmatullah    b Hardik Pandya  62 69 2 4 89.86,Afghanistan,India,1
+86,9,Nabi    lbw b Bumrah  19 27 1 0 70.37,Afghanistan,India,1
+87,9,Najibullah    c Kohli b Bumrah  2 8 0 0 25.00,Afghanistan,India,1
+88,9,Rashid Khan    c Kuldeep Yadav b Bumrah  16 12 1 1 133.33,Afghanistan,India,1
+89,9,Mujeeb    not out  10 12 2 0 83.33,Afghanistan,India,1
+90,9,Naveen-ul-Haq    not out  9 8 1 0 112.50,Afghanistan,India,1
+91,10,de Kock (wk)    b Maxwell  109 106 8 5 102.83,South Africa,Australia,1
+92,10,Bavuma (c)    c Warner b Maxwell  35 55 2 0 63.64,South Africa,Australia,1
+93,10,van der Dussen    c (sub)Abbott b Zampa  26 30 2 0 86.67,South Africa,Australia,1
+94,10,Markram    c Hazlewood b Cummins  56 44 7 1 127.27,South Africa,Australia,1
+95,10,Klaasen    c Josh Inglis b Hazlewood  29 27 3 0 107.41,South Africa,Australia,1
+96,10,Miller    b Starc  17 13 1 1 130.77,South Africa,Australia,1
+97,10,Marco Jansen    c Warner b Starc  26 22 3 1 118.18,South Africa,Australia,1
+98,10,Rabada    not out  0 1 0 0 0.00,South Africa,Australia,1
+99,10,Maharaj    not out  0 2 0 0 0.00,South Africa,Australia,1
+100,11,Litton Das    c Matt Henry b Boult  0 1 0 0 0.00,Bangladesh,New Zealand,1
+101,11,Tanzid Hasan    c Conway b Lockie Ferguson  16 17 4 0 94.12,Bangladesh,New Zealand,1
+102,11,Mehidy Hasan Miraz    c Matt Henry b Lockie Ferguson  30 46 4 0 65.22,Bangladesh,New Zealand,1
+103,11,Shanto    c Conway b Glenn Phillips  7 8 1 0 87.50,Bangladesh,New Zealand,1
+104,11,Shakib (c)    c Latham b Lockie Ferguson  40 51 3 2 78.43,Bangladesh,New Zealand,1
+105,11,Mushfiqur Rahim (wk)    b Matt Henry  66 75 6 2 88.00,Bangladesh,New Zealand,1
+106,11,Towhid Hridoy    c Santner b Boult  13 25 0 0 52.00,Bangladesh,New Zealand,1
+107,11,Mahmudullah    not out  41 49 2 2 83.67,Bangladesh,New Zealand,1
+108,11,Taskin Ahmed    c Daryl Mitchell b Santner  17 19 0 2 89.47,Bangladesh,New Zealand,1
+109,11,Mustafizur    c Latham b Matt Henry  4 10 0 0 40.00,Bangladesh,New Zealand,1
+110,11,Shoriful Islam    not out  2 3 0 0 66.67,Bangladesh,New Zealand,1
+111,12,Shafique    lbw b Siraj  20 24 3 0 83.33,Pakistan,India,1
+112,12,Imam-ul-Haq    c Rahul b Hardik Pandya  36 38 6 0 94.74,Pakistan,India,1
+113,12,Babar Azam (c)    b Siraj  50 58 7 0 86.21,Pakistan,India,1
+114,12,Rizwan (wk)    b Bumrah  49 69 7 0 71.01,Pakistan,India,1
+115,12,Saud Shakeel    lbw b Kuldeep Yadav  6 10 0 0 60.00,Pakistan,India,1
+116,12,Iftikhar Ahmed    b Kuldeep Yadav  4 4 1 0 100.00,Pakistan,India,1
+117,12,Shadab Khan    b Bumrah  2 5 0 0 40.00,Pakistan,India,1
+118,12,Mohammad Nawaz    c Bumrah b Hardik Pandya  4 14 0 0 28.57,Pakistan,India,1
+119,12,Hasan Ali    c Shubman Gill b Ravindra Jadeja  12 19 2 0 63.16,Pakistan,India,1
+120,12,Shaheen Afridi    not out  2 10 0 0 20.00,Pakistan,India,1
+121,12,Haris Rauf    lbw b Ravindra Jadeja  2 6 0 0 33.33,Pakistan,India,1
+122,13,Gurbaz    run out ((sub)Willey/Jos Buttler)  80 57 8 4 140.35,Afghanistan,England,1
+123,13,Ibrahim Zadran    c Root b Adil Rashid  28 48 3 0 58.33,Afghanistan,England,1
+124,13,Rahmat    st Jos Buttler b Adil Rashid  3 8 0 0 37.50,Afghanistan,England,1
+125,13,Shahidi (c)    b Root  14 36 0 0 38.89,Afghanistan,England,1
+126,13,Azmatullah    c Chris Woakes b Livingstone  19 24 1 1 79.17,Afghanistan,England,1
+127,13,Ikram Alikhil (wk)    c Sam Curran b R Topley  58 66 3 2 87.88,Afghanistan,England,1
+128,13,Nabi    c Root b Mark Wood  9 15 1 0 60.00,Afghanistan,England,1
+129,13,Rashid Khan    c Root b Adil Rashid  23 22 3 0 104.55,Afghanistan,England,1
+130,13,Mujeeb    c Root b Mark Wood  28 16 3 1 175.00,Afghanistan,England,1
+131,13,Naveen-ul-Haq    run out (Jos Buttler)  5 6 1 0 83.33,Afghanistan,England,1
+132,13,Fazalhaq Farooqi    not out  2 4 0 0 50.00,Afghanistan,England,1
+133,14,Pathum Nissanka    c Warner b Cummins  61 67 8 0 91.04,Sri Lanka,Australia,1
+134,14,Kusal Perera    b Cummins  78 82 12 0 95.12,Sri Lanka,Australia,1
+135,14,Kusal Mendis (c & wk)    c Warner b Zampa  9 13 0 0 69.23,Sri Lanka,Australia,1
+136,14,Samarawickrama    lbw b Zampa  8 8 1 0 100.00,Sri Lanka,Australia,1
+137,14,Asalanka    c Labuschagne b Maxwell  25 39 0 1 64.10,Sri Lanka,Australia,1
+138,14,Dhananjaya de Silva    b Starc  7 13 1 0 53.85,Sri Lanka,Australia,1
+139,14,Dunith Wellalage    run out (Cummins)  2 9 0 0 22.22,Sri Lanka,Australia,1
+140,14,C Karunaratne    lbw b Zampa  2 11 0 0 18.18,Sri Lanka,Australia,1
+141,14,M Theekshana    lbw b Zampa  0 5 0 0 0.00,Sri Lanka,Australia,1
+142,14,Lahiru Kumara    b Starc  4 8 1 0 50.00,Sri Lanka,Australia,1
+143,14,Dilshan Madushanka    not out  0 6 0 0 0.00,Sri Lanka,Australia,1
+144,15,Vikramjit Singh    c Klaasen b Rabada  2 16 0 0 12.50,Netherlands,South Africa,1
+145,15,Max ODowd    c de Kock b Marco Jansen  18 25 4 0 72.00,Netherlands,South Africa,1
+146,15,Ackermann    b Gerald Coetzee  13 25 1 0 52.00,Netherlands,South Africa,1
+147,15,Bas de Leede    lbw b Rabada  2 7 0 0 28.57,Netherlands,South Africa,1
+148,15,Sybrand Engelbrecht    c Marco Jansen b Lungi Ngidi  19 37 1 1 51.35,Netherlands,South Africa,1
+149,15,Teja Nidamanuru    lbw b Marco Jansen  20 25 3 0 80.00,Netherlands,South Africa,1
+150,15,Edwards (c & wk)    not out  78 69 10 1 113.04,Netherlands,South Africa,1
+151,15,van Beek    st de Kock b Maharaj  10 27 1 0 37.04,Netherlands,South Africa,1
+152,15,van der Merwe    c de Kock b Lungi Ngidi  29 19 3 1 152.63,Netherlands,South Africa,1
+153,15,Aryan Dutt    not out  23 9 0 3 255.56,Netherlands,South Africa,1
+154,16,Conway    lbw b Mujeeb  20 18 3 0 111.11,New Zealand,Afghanistan,1
+155,16,Will Young    c Ikram Alikhil b Azmatullah  54 64 4 3 84.38,New Zealand,Afghanistan,1
+156,16,Rachin Ravindra    b Azmatullah  32 41 2 1 78.05,New Zealand,Afghanistan,1
+157,16,Daryl Mitchell    c Ibrahim Zadran b Rashid Khan  1 7 0 0 14.29,New Zealand,Afghanistan,1
+158,16,Latham (c & wk)    b Naveen-ul-Haq  68 74 3 2 91.89,New Zealand,Afghanistan,1
+159,16,Glenn Phillips    c Rashid Khan b Naveen-ul-Haq  71 80 4 4 88.75,New Zealand,Afghanistan,1
+160,16,Chapman    not out  25 12 2 1 208.33,New Zealand,Afghanistan,1
+161,16,Santner    not out  7 5 1 0 140.00,New Zealand,Afghanistan,1
+162,17,Tanzid Hasan    lbw b Kuldeep Yadav  51 43 5 3 118.60,Bangladesh,India,1
+163,17,Litton Das    c Shubman Gill b Ravindra Jadeja  66 82 7 0 80.49,Bangladesh,India,1
+164,17,Shanto (c)    lbw b Ravindra Jadeja  8 17 0 0 47.06,Bangladesh,India,1
+165,17,Mehidy Hasan Miraz    c Rahul b Siraj  3 13 0 0 23.08,Bangladesh,India,1
+166,17,Towhid Hridoy    c Shubman Gill b Thakur  16 35 0 0 45.71,Bangladesh,India,1
+167,17,Mushfiqur Rahim (wk)    c Ravindra Jadeja b Bumrah  38 46 1 1 82.61,Bangladesh,India,1
+168,17,Mahmudullah    b Bumrah  46 36 3 3 127.78,Bangladesh,India,1
+169,17,Nasum Ahmed    c Rahul b Siraj  14 18 2 0 77.78,Bangladesh,India,1
+170,17,Mustafizur    not out  1 7 0 0 14.29,Bangladesh,India,1
+171,17,Shoriful Islam    not out  7 3 0 1 233.33,Bangladesh,India,1
+172,18,Warner    c (sub)Shadab Khan b Haris Rauf  163 124 14 9 131.45,Australia,Pakistan,1
+173,18,Mitchell Marsh    c Usama Mir b Shaheen Afridi  121 108 10 9 112.04,Australia,Pakistan,1
+174,18,Maxwell    c Babar Azam b Shaheen Afridi  0 1 0 0 0.00,Australia,Pakistan,1
+175,18,Steven Smith    c and b Usama Mir  7 9 0 0 77.78,Australia,Pakistan,1
+176,18,Stoinis    lbw b Shaheen Afridi  21 24 1 1 87.50,Australia,Pakistan,1
+177,18,Josh Inglis (wk)    c Rizwan b Haris Rauf  13 9 3 0 144.44,Australia,Pakistan,1
+178,18,Labuschagne    c (sub)Shadab Khan b Haris Rauf  8 12 1 0 66.67,Australia,Pakistan,1
+179,18,Cummins (c)    not out  6 8 0 0 75.00,Australia,Pakistan,1
+180,18,Starc    c Saud Shakeel b Shaheen Afridi  2 3 0 0 66.67,Australia,Pakistan,1
+181,18,Hazlewood    c Rizwan b Shaheen Afridi  0 1 0 0 0.00,Australia,Pakistan,1
+182,18,Zampa    not out  1 1 0 0 100.00,Australia,Pakistan,1
+183,19,Vikramjit Singh    lbw b Rajitha  4 13 1 0 30.77,Netherlands,Sri Lanka,1
+184,19,Max ODowd    b Rajitha  16 27 1 1 59.26,Netherlands,Sri Lanka,1
+185,19,Ackermann    c Kusal Mendis b Rajitha  29 31 5 0 93.55,Netherlands,Sri Lanka,1
+186,19,Bas de Leede    c Kusal Perera b Dilshan Madushanka  6 21 0 0 28.57,Netherlands,Sri Lanka,1
+187,19,Teja Nidamanuru    lbw b Dilshan Madushanka  9 16 0 0 56.25,Netherlands,Sri Lanka,1
+188,19,Edwards (c & wk)    b M Theekshana  16 16 0 0 100.00,Netherlands,Sri Lanka,1
+189,19,Sybrand Engelbrecht    b Dilshan Madushanka  70 82 4 1 85.37,Netherlands,Sri Lanka,1
+190,19,van Beek    c Asalanka b Rajitha  59 75 1 1 78.67,Netherlands,Sri Lanka,1
+191,19,van der Merwe    c Kusal Mendis b Dilshan Madushanka  7 7 0 0 100.00,Netherlands,Sri Lanka,1
+192,19,Aryan Dutt    not out  9 6 1 0 150.00,Netherlands,Sri Lanka,1
+193,19,van Meekeren    run out (Kusal Mendis/Dilshan Madushanka)  4 5 0 0 80.00,Netherlands,Sri Lanka,1
+194,20,de Kock (wk)    c Jos Buttler b R Topley  4 2 1 0 200.00,South Africa,England,1
+195,20,Reeza Hendricks    b Adil Rashid  85 75 9 3 113.33,South Africa,England,1
+196,20,van der Dussen    c Bairstow b Adil Rashid  60 61 8 0 98.36,South Africa,England,1
+197,20,Markram (c)    c Bairstow b R Topley  42 44 4 0 95.45,South Africa,England,1
+198,20,Klaasen    b Gus Atkinson  109 67 12 4 162.69,South Africa,England,1
+199,20,Miller    c Stokes b R Topley  5 6 1 0 83.33,South Africa,England,1
+200,20,Marco Jansen    not out  75 42 3 6 178.57,South Africa,England,1
+201,20,Gerald Coetzee    c (sub)Livingstone b Gus Atkinson  3 3 0 0 100.00,South Africa,England,1
+202,20,Maharaj    not out  1 1 0 0 100.00,South Africa,England,1
+203,21,Conway    c Shreyas Iyer b Siraj  0 9 0 0 0.00,New Zealand,India,1
+204,21,Will Young    b Shami  17 27 3 0 62.96,New Zealand,India,1
+205,21,Rachin Ravindra    c Shubman Gill b Shami  75 87 6 1 86.21,New Zealand,India,1
+206,21,Daryl Mitchell    c Kohli b Shami  130 127 9 5 102.36,New Zealand,India,1
+207,21,Latham (c & wk)    lbw b Kuldeep Yadav  5 7 1 0 71.43,New Zealand,India,1
+208,21,Glenn Phillips    c Rohit b Kuldeep Yadav  23 26 0 1 88.46,New Zealand,India,1
+209,21,Chapman    c Kohli b Bumrah  6 8 0 0 75.00,New Zealand,India,1
+210,21,Santner    b Shami  1 2 0 0 50.00,New Zealand,India,1
+211,21,Matt Henry    b Shami  0 1 0 0 0.00,New Zealand,India,1
+212,21,Lockie Ferguson    run out (Rahul)  1 5 0 0 20.00,New Zealand,India,1
+213,21,Boult    not out  0 1 0 0 0.00,New Zealand,India,1
+214,22,Shafique    lbw b Noor Ahmad  58 75 5 2 77.33,Pakistan,Afghanistan,1
+215,22,Imam-ul-Haq    c Naveen-ul-Haq b Azmatullah  17 22 2 0 77.27,Pakistan,Afghanistan,1
+216,22,Babar Azam (c)    c Nabi b Noor Ahmad  74 92 4 1 80.43,Pakistan,Afghanistan,1
+217,22,Rizwan (wk)    c Mujeeb b Noor Ahmad  8 10 0 1 80.00,Pakistan,Afghanistan,1
+218,22,Saud Shakeel    c Rashid Khan b Nabi  25 34 3 0 73.53,Pakistan,Afghanistan,1
+219,22,Shadab Khan    c Nabi b Naveen-ul-Haq  40 38 1 1 105.26,Pakistan,Afghanistan,1
+220,22,Iftikhar Ahmed    c Azmatullah b Naveen-ul-Haq  40 27 2 4 148.15,Pakistan,Afghanistan,1
+221,22,Shaheen Afridi    not out  3 3 0 0 100.00,Pakistan,Afghanistan,1
+222,23,de Kock    c Nasum Ahmed b Hasan Mahmud  174 140 15 7 124.29,South Africa,Bangladesh,1
+223,23,Reeza Hendricks    b Shoriful Islam  12 19 1 0 63.16,South Africa,Bangladesh,1
+224,23,van der Dussen    lbw b Mehidy Hasan Miraz  1 7 0 0 14.29,South Africa,Bangladesh,1
+225,23,Markram (c)    c Litton Das b Shakib  60 69 7 0 86.96,South Africa,Bangladesh,1
+226,23,Klaasen (wk)    c Mahmudullah b Hasan Mahmud  90 49 2 8 183.67,South Africa,Bangladesh,1
+227,23,Miller    not out  34 15 1 4 226.67,South Africa,Bangladesh,1
+228,23,Marco Jansen    not out  1 1 0 0 100.00,South Africa,Bangladesh,1
+229,24,Mitchell Marsh    c Ackermann b van Beek  9 15 2 0 60.00,Australia,Netherlands,1
+230,24,Warner    c Aryan Dutt b van Beek  104 93 11 3 111.83,Australia,Netherlands,1
+231,24,Steven Smith    c van der Merwe b Aryan Dutt  71 68 9 1 104.41,Australia,Netherlands,1
+232,24,Labuschagne    c Aryan Dutt b Bas de Leede  62 47 7 2 131.91,Australia,Netherlands,1
+233,24,Josh Inglis (wk)    c Sybrand Engelbrecht b Bas de Leede  14 12 1 1 116.67,Australia,Netherlands,1
+234,24,Maxwell    c Sybrand Engelbrecht b van Beek  106 44 9 8 240.91,Australia,Netherlands,1
+235,24,Green    run out (Sybrand Engelbrecht)  8 11 1 0 72.73,Australia,Netherlands,1
+236,24,Cummins (c)    not out  12 9 2 0 133.33,Australia,Netherlands,1
+237,24,Starc    c Ackermann b van Beek  0 1 0 0 0.00,Australia,Netherlands,1
+238,24,Zampa    not out  1 1 0 0 100.00,Australia,Netherlands,1
+239,25,Bairstow    c Dhananjaya de Silva b Rajitha  30 31 3 0 96.77,England,Sri Lanka,1
+240,25,Malan    c Kusal Mendis b Mathews  28 25 6 0 112.00,England,Sri Lanka,1
+241,25,Root    run out (Mathews/Kusal Mendis)  3 10 0 0 30.00,England,Sri Lanka,1
+242,25,Stokes    c (sub)Dushan Hemantha b Lahiru Kumara  43 73 6 0 58.90,England,Sri Lanka,1
+243,25,Jos Buttler (c & wk)    c Kusal Mendis b Lahiru Kumara  8 6 1 0 133.33,England,Sri Lanka,1
+244,25,Livingstone    lbw b Lahiru Kumara  1 6 0 0 16.67,England,Sri Lanka,1
+245,25,Moeen    c Kusal Perera b Mathews  15 15 1 0 100.00,England,Sri Lanka,1
+246,25,Chris Woakes    c Samarawickrama b Rajitha  0 4 0 0 0.00,England,Sri Lanka,1
+247,25,Willey    not out  14 17 1 1 82.35,England,Sri Lanka,1
+248,25,Adil Rashid    run out (Kusal Mendis)  2 7 0 0 28.57,England,Sri Lanka,1
+249,25,Mark Wood    st Kusal Mendis b M Theekshana  5 6 1 0 83.33,England,Sri Lanka,1
+250,26,Shafique    c Lungi Ngidi b Marco Jansen  9 17 1 0 52.94,Pakistan,South Africa,1
+251,26,Imam-ul-Haq    c Klaasen b Marco Jansen  12 18 2 0 66.67,Pakistan,South Africa,1
+252,26,Babar Azam (c)    c de Kock b Shamsi  50 65 4 1 76.92,Pakistan,South Africa,1
+253,26,Rizwan (wk)    c de Kock b Gerald Coetzee  31 27 4 1 114.81,Pakistan,South Africa,1
+254,26,Iftikhar Ahmed    c Klaasen b Shamsi  21 31 1 1 67.74,Pakistan,South Africa,1
+255,26,Saud Shakeel    c de Kock b Shamsi  52 52 7 0 100.00,Pakistan,South Africa,1
+256,26,Shadab Khan    c Maharaj b Gerald Coetzee  43 36 3 2 119.44,Pakistan,South Africa,1
+257,26,Mohammad Nawaz    c Miller b Marco Jansen  24 24 1 2 100.00,Pakistan,South Africa,1
+258,26,Shaheen Afridi    c Maharaj b Shamsi  2 4 0 0 50.00,Pakistan,South Africa,1
+259,26,Mohammad Wasim Jr    c de Kock b Lungi Ngidi  7 9 0 1 77.78,Pakistan,South Africa,1
+260,26,Haris Rauf    not out  0 1 0 0 0.00,Pakistan,South Africa,1
+261,27,Warner    c and b Glenn Phillips  81 65 5 6 124.62,Australia,New Zealand,1
+262,27,Head    b Glenn Phillips  109 67 10 7 162.69,Australia,New Zealand,1
+263,27,Mitchell Marsh    b Santner  36 51 2 0 70.59,Australia,New Zealand,1
+264,27,Steven Smith    c Boult b Glenn Phillips  18 17 2 0 105.88,Australia,New Zealand,1
+265,27,Labuschagne    c Rachin Ravindra b Santner  18 26 2 0 69.23,Australia,New Zealand,1
+266,27,Maxwell    c Boult b Neesham  41 24 5 2 170.83,Australia,New Zealand,1
+267,27,Josh Inglis (wk)    c Glenn Phillips b Boult  38 28 4 1 135.71,Australia,New Zealand,1
+268,27,Cummins (c)    lbw b Boult  37 14 2 4 264.29,Australia,New Zealand,1
+269,27,Starc    c Neesham b Matt Henry  1 3 0 0 33.33,Australia,New Zealand,1
+270,27,Zampa    b Boult  0 3 0 0 0.00,Australia,New Zealand,1
+271,27,Hazlewood    not out  0 0 0 0 0.00,Australia,New Zealand,1
+272,28,Vikramjit Singh    c Shakib b Taskin Ahmed  3 9 0 0 33.33,Netherlands,Bangladesh,1
+273,28,Max ODowd    c Tanzid Hasan b Shoriful Islam  0 3 0 0 0.00,Netherlands,Bangladesh,1
+274,28,Barresi    c Shakib b Mustafizur  41 41 8 0 100.00,Netherlands,Bangladesh,1
+275,28,Ackermann    c Mustafizur b Shakib  15 33 1 0 45.45,Netherlands,Bangladesh,1
+276,28,Edwards (c & wk)    c Mehidy Hasan Miraz b Mustafizur  68 89 6 0 76.40,Netherlands,Bangladesh,1
+277,28,Bas de Leede    c Mushfiqur Rahim b Taskin Ahmed  17 32 2 0 53.12,Netherlands,Bangladesh,1
+278,28,Sybrand Engelbrecht    lbw b Mahedi Hasan  35 61 3 0 57.38,Netherlands,Bangladesh,1
+279,28,van Beek    not out  23 16 2 1 143.75,Netherlands,Bangladesh,1
+280,28,Shariz Ahmad    run out (Mahmudullah/Mushfiqur Rahim)  6 8 0 0 75.00,Netherlands,Bangladesh,1
+281,28,Aryan Dutt    c Mehidy Hasan Miraz b Shoriful Islam  9 6 0 1 150.00,Netherlands,Bangladesh,1
+282,28,van Meekeren    lbw b Mahedi Hasan  0 2 0 0 0.00,Netherlands,Bangladesh,1
+283,29,Rohit (c)    c Livingstone b Adil Rashid  87 101 10 3 86.14,India,England,1
+284,29,Shubman Gill    b Chris Woakes  9 13 1 0 69.23,India,England,1
+285,29,Kohli    c Stokes b Willey  0 9 0 0 0.00,India,England,1
+286,29,Shreyas Iyer    c Mark Wood b Chris Woakes  4 16 0 0 25.00,India,England,1
+287,29,Rahul (wk)    c Bairstow b Willey  39 58 3 0 67.24,India,England,1
+288,29,Suryakumar Yadav    c Chris Woakes b Willey  49 47 4 1 104.26,India,England,1
+289,29,Ravindra Jadeja    lbw b Adil Rashid  8 13 0 0 61.54,India,England,1
+290,29,Shami    c Jos Buttler b Mark Wood  1 5 0 0 20.00,India,England,1
+291,29,Bumrah    run out (Jos Buttler)  16 25 1 0 64.00,India,England,1
+292,29,Kuldeep Yadav    not out  9 13 1 0 69.23,India,England,1
+293,30,Pathum Nissanka    c Gurbaz b Azmatullah  46 60 5 0 76.67,Sri Lanka,Afghanistan,1
+294,30,Karunaratne    lbw b Fazalhaq Farooqi  15 21 1 0 71.43,Sri Lanka,Afghanistan,1
+295,30,Kusal Mendis (c & wk)    c (sub)Najibullah b Mujeeb  39 50 3 0 78.00,Sri Lanka,Afghanistan,1
+296,30,Samarawickrama    lbw b Mujeeb  36 40 3 0 90.00,Sri Lanka,Afghanistan,1
+297,30,Asalanka    c Rashid Khan b Fazalhaq Farooqi  22 28 2 0 78.57,Sri Lanka,Afghanistan,1
+298,30,Dhananjaya de Silva    b Rashid Khan  14 26 1 0 53.85,Sri Lanka,Afghanistan,1
+299,30,Mathews    c Nabi b Fazalhaq Farooqi  23 26 1 1 88.46,Sri Lanka,Afghanistan,1
+300,30,Chameera    run out (Ibrahim Zadran)  1 4 0 0 25.00,Sri Lanka,Afghanistan,1
+301,30,M Theekshana    b Fazalhaq Farooqi  29 31 3 1 93.55,Sri Lanka,Afghanistan,1
+302,30,Rajitha    run out (Gurbaz)  5 7 0 0 71.43,Sri Lanka,Afghanistan,1
+303,30,Dilshan Madushanka    not out  0 4 0 0 0.00,Sri Lanka,Afghanistan,1
+304,31,Tanzid Hasan    lbw b Shaheen Afridi  0 5 0 0 0.00,Bangladesh,Pakistan,1
+305,31,Litton Das    c Agha Salman b Iftikhar Ahmed  45 64 6 0 70.31,Bangladesh,Pakistan,1
+306,31,Shanto    c Usama Mir b Shaheen Afridi  4 3 1 0 133.33,Bangladesh,Pakistan,1
+307,31,Mushfiqur Rahim (wk)    c Rizwan b Haris Rauf  5 8 1 0 62.50,Bangladesh,Pakistan,1
+308,31,Mahmudullah    b Shaheen Afridi  56 70 6 1 80.00,Bangladesh,Pakistan,1
+309,31,Shakib (c)    c Agha Salman b Haris Rauf  43 64 4 0 67.19,Bangladesh,Pakistan,1
+310,31,Towhid Hridoy    c Iftikhar Ahmed b Usama Mir  7 3 0 1 233.33,Bangladesh,Pakistan,1
+311,31,Mehidy Hasan Miraz    b Mohammad Wasim Jr  25 30 1 1 83.33,Bangladesh,Pakistan,1
+312,31,Taskin Ahmed    b Mohammad Wasim Jr  6 13 0 0 46.15,Bangladesh,Pakistan,1
+313,31,Mustafizur    b Mohammad Wasim Jr  3 7 0 0 42.86,Bangladesh,Pakistan,1
+314,31,Shoriful Islam    not out  1 4 0 0 25.00,Bangladesh,Pakistan,1
+315,32,de Kock (wk)    c Glenn Phillips b Southee  114 116 10 3 98.28,South Africa,New Zealand,1
+316,32,Bavuma (c)    c Daryl Mitchell b Boult  24 28 4 1 85.71,South Africa,New Zealand,1
+317,32,van der Dussen    b Southee  133 118 9 5 112.71,South Africa,New Zealand,1
+318,32,Miller    c Daryl Mitchell b Neesham  53 30 2 4 176.67,South Africa,New Zealand,1
+319,32,Klaasen    not out  15 7 1 1 214.29,South Africa,New Zealand,1
+320,32,Markram    not out  6 1 0 1 600.00,South Africa,New Zealand,1
+321,33,Rohit (c)    b Dilshan Madushanka  4 2 1 0 200.00,India,Sri Lanka,1
+322,33,Shubman Gill    c Kusal Mendis b Dilshan Madushanka  92 92 11 2 100.00,India,Sri Lanka,1
+323,33,Kohli    c Pathum Nissanka b Dilshan Madushanka  88 94 11 0 93.62,India,Sri Lanka,1
+324,33,Shreyas Iyer    c M Theekshana b Dilshan Madushanka  82 56 3 6 146.43,India,Sri Lanka,1
+325,33,Rahul (wk)    c Dushan Hemantha b Chameera  21 19 2 0 110.53,India,Sri Lanka,1
+326,33,Suryakumar Yadav    c Kusal Mendis b Dilshan Madushanka  12 9 2 0 133.33,India,Sri Lanka,1
+327,33,Ravindra Jadeja    run out (Samarawickrama/Kusal Mendis)  35 24 1 1 145.83,India,Sri Lanka,1
+328,33,Shami    run out (Kusal Mendis)  2 4 0 0 50.00,India,Sri Lanka,1
+329,33,Bumrah    not out  1 1 0 0 100.00,India,Sri Lanka,1
+330,34,Barresi    lbw b Mujeeb  1 4 0 0 25.00,Netherlands,Afghanistan,1
+331,34,Max ODowd    run out (Azmatullah)  42 40 9 0 105.00,Netherlands,Afghanistan,1
+332,34,Ackermann    run out (Rashid Khan/Ikram Alikhil)  29 35 4 0 82.86,Netherlands,Afghanistan,1
+333,34,Sybrand Engelbrecht    run out (Nabi/Ikram Alikhil)  58 86 6 0 67.44,Netherlands,Afghanistan,1
+334,34,Edwards (c & wk)    run out (Ikram Alikhil)  0 1 0 0 0.00,Netherlands,Afghanistan,1
+335,34,Bas de Leede    c Ikram Alikhil b Nabi  3 6 0 0 50.00,Netherlands,Afghanistan,1
+336,34,Saqib Zulfiqar    c Ikram Alikhil b Noor Ahmad  3 15 0 0 20.00,Netherlands,Afghanistan,1
+337,34,van Beek    st Ikram Alikhil b Nabi  2 13 0 0 15.38,Netherlands,Afghanistan,1
+338,34,van der Merwe    c Ibrahim Zadran b Noor Ahmad  11 33 0 0 33.33,Netherlands,Afghanistan,1
+339,34,Aryan Dutt    not out  10 22 0 0 45.45,Netherlands,Afghanistan,1
+340,34,van Meekeren    lbw b Nabi  4 24 0 0 16.67,Netherlands,Afghanistan,1
+341,35,Conway    c Rizwan b Hasan Ali  35 39 6 0 89.74,New Zealand,Pakistan,1
+342,35,Rachin Ravindra    c Saud Shakeel b Mohammad Wasim Jr  108 94 15 1 114.89,New Zealand,Pakistan,1
+343,35,Williamson (c)    c Fakhar Zaman b Iftikhar Ahmed  95 79 10 2 120.25,New Zealand,Pakistan,1
+344,35,Daryl Mitchell    b Haris Rauf  29 18 4 1 161.11,New Zealand,Pakistan,1
+345,35,Chapman    b Mohammad Wasim Jr  39 27 7 0 144.44,New Zealand,Pakistan,1
+346,35,Glenn Phillips    b Mohammad Wasim Jr  41 25 4 2 164.00,New Zealand,Pakistan,1
+347,35,Santner    not out  26 17 0 2 152.94,New Zealand,Pakistan,1
+348,35,Latham (wk)    not out  2 2 0 0 100.00,New Zealand,Pakistan,1
+349,36,Head    c Root b Chris Woakes  11 10 1 0 110.00,Australia,England,1
+350,36,Warner    c Willey b Chris Woakes  15 16 1 1 93.75,Australia,England,1
+351,36,Steven Smith    c Moeen b Adil Rashid  44 52 3 0 84.62,Australia,England,1
+352,36,Labuschagne    lbw b Mark Wood  71 83 7 0 85.54,Australia,England,1
+353,36,Josh Inglis (wk)    c Moeen b Adil Rashid  3 6 0 0 50.00,Australia,England,1
+354,36,Green    b Willey  47 52 5 0 90.38,Australia,England,1
+355,36,Stoinis    c Bairstow b Livingstone  35 32 3 2 109.38,Australia,England,1
+356,36,Cummins (c)    c Malan b Mark Wood  10 13 1 0 76.92,Australia,England,1
+357,36,Starc    c Moeen b Chris Woakes  10 13 0 0 76.92,Australia,England,1
+358,36,Zampa    c Jos Buttler b Chris Woakes  29 19 4 0 152.63,Australia,England,1
+359,36,Hazlewood    not out  1 1 0 0 100.00,Australia,England,1
+360,37,Rohit (c)    c Bavuma b Rabada  40 24 6 2 166.67,India,South Africa,1
+361,37,Shubman Gill    b Maharaj  23 24 4 1 95.83,India,South Africa,1
+362,37,Kohli    not out  101 121 10 0 83.47,India,South Africa,1
+363,37,Shreyas Iyer    c Markram b Lungi Ngidi  77 87 7 2 88.51,India,South Africa,1
+364,37,Rahul (wk)    c van der Dussen b Marco Jansen  8 17 0 0 47.06,India,South Africa,1
+365,37,Suryakumar Yadav    c de Kock b Shamsi  22 14 5 0 157.14,India,South Africa,1
+366,37,Ravindra Jadeja    not out  29 15 3 1 193.33,India,South Africa,1
+367,38,Pathum Nissanka    b Tanzim Hasan Sakib  41 36 8 0 113.89,Sri Lanka,Bangladesh,1
+368,38,Kusal Perera    c Mushfiqur Rahim b Shoriful Islam  4 5 1 0 80.00,Sri Lanka,Bangladesh,1
+369,38,Kusal Mendis (c & wk)    c Shoriful Islam b Shakib  19 30 1 1 63.33,Sri Lanka,Bangladesh,1
+370,38,Samarawickrama    c Mahmudullah b Shakib  41 42 4 0 97.62,Sri Lanka,Bangladesh,1
+371,38,Asalanka    c Litton Das b Tanzim Hasan Sakib  108 105 6 5 102.86,Sri Lanka,Bangladesh,1
+372,38,Mathews    timed out  0 0 0 0 0.00,Sri Lanka,Bangladesh,1
+373,38,Dhananjaya de Silva    st Mushfiqur Rahim b Mehidy Hasan Miraz  34 36 4 1 94.44,Sri Lanka,Bangladesh,1
+374,38,M Theekshana    c (sub)Nasum Ahmed b Shoriful Islam  22 31 3 0 70.97,Sri Lanka,Bangladesh,1
+375,38,Chameera    run out (Mushfiqur Rahim)  4 9 0 0 44.44,Sri Lanka,Bangladesh,1
+376,38,Rajitha    c Litton Das b Tanzim Hasan Sakib  0 2 0 0 0.00,Sri Lanka,Bangladesh,1
+377,38,Dilshan Madushanka    not out  0 1 0 0 0.00,Sri Lanka,Bangladesh,1
+378,39,Gurbaz    c Starc b Hazlewood  21 25 2 0 84.00,Afghanistan,Australia,1
+379,39,Ibrahim Zadran    not out  129 143 8 3 90.21,Afghanistan,Australia,1
+380,39,Rahmat    c Hazlewood b Maxwell  30 44 1 0 68.18,Afghanistan,Australia,1
+381,39,Shahidi (c)    b Starc  26 43 2 0 60.47,Afghanistan,Australia,1
+382,39,Azmatullah    c Maxwell b Zampa  22 18 1 2 122.22,Afghanistan,Australia,1
+383,39,Nabi    b Hazlewood  12 10 0 1 120.00,Afghanistan,Australia,1
+384,39,Rashid Khan    not out  35 18 2 3 194.44,Afghanistan,Australia,1
+385,40,Bairstow    c van Meekeren b Aryan Dutt  15 17 2 0 88.24,England,Netherlands,1
+386,40,Malan    run out (van Beek/Edwards)  87 74 10 2 117.57,England,Netherlands,1
+387,40,Root    b van Beek  28 35 1 0 80.00,England,Netherlands,1
+388,40,Stokes    c Sybrand Engelbrecht b van Beek  108 84 6 6 128.57,England,Netherlands,1
+389,40,Harry Brook    c Ackermann b Bas de Leede  11 16 2 0 68.75,England,Netherlands,1
+390,40,Jos Buttler (c & wk)    c Teja Nidamanuru b van Meekeren  5 11 0 0 45.45,England,Netherlands,1
+391,40,Moeen    c Bas de Leede b Aryan Dutt  4 15 0 0 26.67,England,Netherlands,1
+392,40,Chris Woakes    c Edwards b Bas de Leede  51 45 5 1 113.33,England,Netherlands,1
+393,40,Willey    c Sybrand Engelbrecht b Bas de Leede  6 2 0 1 300.00,England,Netherlands,1
+394,40,Gus Atkinson    not out  2 1 0 0 200.00,England,Netherlands,1
+395,40,Adil Rashid    not out  1 1 0 0 100.00,England,Netherlands,1
+396,41,Pathum Nissanka    c Latham b Southee  2 8 0 0 25.00,Sri Lanka,New Zealand,1
+397,41,Kusal Perera    c Santner b Lockie Ferguson  51 28 9 2 182.14,Sri Lanka,New Zealand,1
+398,41,Kusal Mendis (c & wk)    c Rachin Ravindra b Boult  6 7 1 0 85.71,Sri Lanka,New Zealand,1
+399,41,Samarawickrama    c Daryl Mitchell b Boult  1 2 0 0 50.00,Sri Lanka,New Zealand,1
+400,41,Asalanka    lbw b Boult  8 8 1 0 100.00,Sri Lanka,New Zealand,1
+401,41,Mathews    c Daryl Mitchell b Santner  16 27 2 0 59.26,Sri Lanka,New Zealand,1
+402,41,Dhananjaya de Silva    c Daryl Mitchell b Santner  19 24 2 1 79.17,Sri Lanka,New Zealand,1
+403,41,C Karunaratne    c Latham b Lockie Ferguson  6 17 1 0 35.29,Sri Lanka,New Zealand,1
+404,41,M Theekshana    not out  38 91 3 0 41.76,Sri Lanka,New Zealand,1
+405,41,Chameera    c Boult b Rachin Ravindra  1 20 0 0 5.00,Sri Lanka,New Zealand,1
+406,41,Dilshan Madushanka    c Latham b Rachin Ravindra  19 48 2 0 39.58,Sri Lanka,New Zealand,1
+407,42,Gurbaz    c Klaasen b Maharaj  25 22 3 1 113.64,Afghanistan,South Africa,1
+408,42,Ibrahim Zadran    c de Kock b Gerald Coetzee  15 30 3 0 50.00,Afghanistan,South Africa,1
+409,42,Rahmat    c Miller b Lungi Ngidi  26 46 2 0 56.52,Afghanistan,South Africa,1
+410,42,Shahidi (c)    c de Kock b Maharaj  2 7 0 0 28.57,Afghanistan,South Africa,1
+411,42,Azmatullah    not out  97 107 7 3 90.65,Afghanistan,South Africa,1
+412,42,Ikram Alikhil (wk)    c de Kock b Gerald Coetzee  12 14 1 1 85.71,Afghanistan,South Africa,1
+413,42,Nabi    c de Kock b Lungi Ngidi  2 3 0 0 66.67,Afghanistan,South Africa,1
+414,42,Rashid Khan    c de Kock b Phehlukwayo  14 30 0 0 46.67,Afghanistan,South Africa,1
+415,42,Noor Ahmad    c de Kock b Gerald Coetzee  26 32 4 0 81.25,Afghanistan,South Africa,1
+416,42,Mujeeb    c Markram b Gerald Coetzee  8 5 0 1 160.00,Afghanistan,South Africa,1
+417,42,Naveen-ul-Haq    run out (Rabada)  2 4 0 0 50.00,Afghanistan,South Africa,1
+418,43,Tanzid Hasan    c and b Abbott  36 34 6 0 105.88,Bangladesh,Australia,1
+419,43,Litton Das    c Labuschagne b Zampa  36 45 5 0 80.00,Bangladesh,Australia,1
+420,43,Shanto (c)    run out (Labuschagne/Josh Inglis)  45 57 6 0 78.95,Bangladesh,Australia,1
+421,43,Towhid Hridoy    c Labuschagne b Stoinis  74 79 5 2 93.67,Bangladesh,Australia,1
+422,43,Mahmudullah    run out (Labuschagne)  32 28 1 3 114.29,Bangladesh,Australia,1
+423,43,Mushfiqur Rahim (wk)    c Cummins b Zampa  21 24 0 1 87.50,Bangladesh,Australia,1
+424,43,Mehidy Hasan Miraz    c Cummins b Abbott  29 20 4 0 145.00,Bangladesh,Australia,1
+425,43,Nasum Ahmed    run out (Abbott)  7 11 0 0 63.64,Bangladesh,Australia,1
+426,43,Mahedi Hasan    not out  2 3 0 0 66.67,Bangladesh,Australia,1
+427,43,Taskin Ahmed    not out  0 1 0 0 0.00,Bangladesh,Australia,1
+428,44,Malan    c Rizwan b Iftikhar Ahmed  31 39 5 0 79.49,England,Pakistan,1
+429,44,Bairstow    c Agha Salman b Haris Rauf  59 61 7 1 96.72,England,Pakistan,1
+430,44,Root    c Shadab Khan b Shaheen Afridi  60 72 4 0 83.33,England,Pakistan,1
+431,44,Stokes    b Shaheen Afridi  84 76 11 2 110.53,England,Pakistan,1
+432,44,Jos Buttler (c & wk)    run out (Haris Rauf)  27 18 3 1 150.00,England,Pakistan,1
+433,44,Harry Brook    c Shaheen Afridi b Haris Rauf  30 17 2 2 176.47,England,Pakistan,1
+434,44,Moeen    b Haris Rauf  8 6 0 1 133.33,England,Pakistan,1
+435,44,Chris Woakes    not out  4 4 1 0 100.00,England,Pakistan,1
+436,44,Willey    c Iftikhar Ahmed b Mohammad Wasim Jr  15 5 2 1 300.00,England,Pakistan,1
+437,44,Gus Atkinson    b Mohammad Wasim Jr  0 1 0 0 0.00,England,Pakistan,1
+438,44,Adil Rashid    not out  0 1 0 0 0.00,England,Pakistan,1
+439,45,Rohit (c)    c Barresi b Bas de Leede  61 54 8 2 112.96,India,Netherlands,1
+440,45,Shubman Gill    c Teja Nidamanuru b van Meekeren  51 32 3 4 159.38,India,Netherlands,1
+441,45,Kohli    b van der Merwe  51 56 5 1 91.07,India,Netherlands,1
+442,45,Shreyas Iyer    not out  128 94 10 5 136.17,India,Netherlands,1
+443,45,Rahul (wk)    c Sybrand Engelbrecht b Bas de Leede  102 64 11 4 159.38,India,Netherlands,1
+444,45,Suryakumar Yadav    not out  2 1 0 0 200.00,India,Netherlands,1
+445,46,Rohit (c)    c Williamson b Southee  47 29 4 4 162.07,India,New Zealand,1
+446,46,Shubman Gill    not out  80 66 8 3 121.21,India,New Zealand,1
+447,46,Kohli    c Conway b Southee  117 113 9 2 103.54,India,New Zealand,1
+448,46,Shreyas Iyer    c Daryl Mitchell b Boult  105 70 4 8 150.00,India,New Zealand,1
+449,46,Rahul (wk)    not out  39 20 5 2 195.00,India,New Zealand,1
+450,46,Suryakumar Yadav    c Glenn Phillips b Southee  1 2 0 0 50.00,India,New Zealand,1
+451,47,de Kock (wk)    c Cummins b Hazlewood  3 14 0 0 21.43,South Africa,Australia,1
+452,47,Bavuma (c)    c Josh Inglis b Starc  0 4 0 0 0.00,South Africa,Australia,1
+453,47,van der Dussen    c Steven Smith b Hazlewood  6 31 0 0 19.35,South Africa,Australia,1
+454,47,Markram    c Warner b Starc  10 20 2 0 50.00,South Africa,Australia,1
+455,47,Klaasen    b Head  47 48 4 2 97.92,South Africa,Australia,1
+456,47,Miller    c Head b Cummins  101 116 8 5 87.07,South Africa,Australia,1
+457,47,Marco Jansen    lbw b Head  0 1 0 0 0.00,South Africa,Australia,1
+458,47,Gerald Coetzee    c Josh Inglis b Cummins  19 39 2 0 48.72,South Africa,Australia,1
+459,47,Maharaj    c Steven Smith b Starc  4 8 0 0 50.00,South Africa,Australia,1
+460,47,Rabada    c Maxwell b Cummins  10 12 0 1 83.33,South Africa,Australia,1
+461,47,Shamsi    not out  1 5 0 0 20.00,South Africa,Australia,1
+462,48,Rohit (c)    c Head b Maxwell  47 31 4 3 151.61,India,Australia,1
+463,48,Shubman Gill    c Zampa b Starc  4 7 0 0 57.14,India,Australia,1
+464,48,Kohli    b Cummins  54 63 4 0 85.71,India,Australia,1
+465,48,Shreyas Iyer    c Josh Inglis b Cummins  4 3 1 0 133.33,India,Australia,1
+466,48,Rahul (wk)    c Josh Inglis b Starc  66 107 1 0 61.68,India,Australia,1
+467,48,Ravindra Jadeja    c Josh Inglis b Hazlewood  9 22 0 0 40.91,India,Australia,1
+468,48,Suryakumar Yadav    c Josh Inglis b Hazlewood  18 28 1 0 64.29,India,Australia,1
+469,48,Shami    c Josh Inglis b Starc  6 10 1 0 60.00,India,Australia,1
+470,48,Bumrah    lbw b Zampa  1 3 0 0 33.33,India,Australia,1
+471,48,Kuldeep Yadav    run out (Labuschagne/Cummins)  10 18 0 0 55.56,India,Australia,1
+472,48,Siraj    not out  9 8 1 0 112.50,India,Australia,1
+0,1,Devon Conway    not out  152 121 19 3 125.62,New Zealand,England,2
+1,1,Will Young    c Jos Buttler b Sam Curran  0 1 0 0 0.00,New Zealand,England,2
+2,1,Rachin Ravindra    not out  123 96 11 5 128.12,New Zealand,England,2
+3,2,Vikramjit Singh    c Fakhar Zaman b Shadab Khan  52 67 4 1 77.61,Netherlands,Pakistan,2
+4,2,Max ODowd    c Shaheen Afridi b Hasan Ali  5 12 1 0 41.67,Netherlands,Pakistan,2
+5,2,Colin Ackermann    b Iftikhar Ahmed  17 21 3 0 80.95,Netherlands,Pakistan,2
+6,2,Bas de Leede    b Mohammad Nawaz  67 68 6 2 98.53,Netherlands,Pakistan,2
+7,2,Teja Nidamanuru    c Fakhar Zaman b Haris Rauf  5 9 1 0 55.56,Netherlands,Pakistan,2
+8,2,Scott Edwards (c & wk)    lbw b Haris Rauf  0 2 0 0 0.00,Netherlands,Pakistan,2
+9,2,Saqib Zulfiqar    lbw b Shaheen Afridi  10 18 1 0 55.56,Netherlands,Pakistan,2
+10,2,Roelof van der Merwe    run out (Babar Azam/Rizwan)  4 7 0 0 57.14,Netherlands,Pakistan,2
+11,2,Logan van Beek    not out  28 28 3 1 100.00,Netherlands,Pakistan,2
+12,2,Aryan Dutt    b Hasan Ali  1 2 0 0 50.00,Netherlands,Pakistan,2
+13,2,Paul van Meekeren    b Haris Rauf  7 12 1 0 58.33,Netherlands,Pakistan,2
+14,3,Tanzid Hasan    run out (Najibullah)  5 13 1 0 38.46,Bangladesh,Afghanistan,2
+15,3,Litton Das    b Fazalhaq Farooqi  13 18 2 0 72.22,Bangladesh,Afghanistan,2
+16,3,Mehidy Hasan Miraz    c Rahmat b Naveen-ul-Haq  57 73 5 0 78.08,Bangladesh,Afghanistan,2
+17,3,Najmul Hossain Shanto    not out  59 83 3 1 71.08,Bangladesh,Afghanistan,2
+18,3,Shakib Al Hasan (c)    c Fazalhaq Farooqi b Azmatullah  14 19 2 0 73.68,Bangladesh,Afghanistan,2
+19,3,Mushfiqur Rahim (wk)    not out  2 3 0 0 66.67,Bangladesh,Afghanistan,2
+20,4,Pathum Nissanka    b Marco Jansen  0 3 0 0 0.00,Sri Lanka,South Africa,2
+21,4,Kusal Perera    b Marco Jansen  7 15 1 0 46.67,Sri Lanka,South Africa,2
+22,4,Kusal Mendis (wk)    c Klaasen b Rabada  76 42 4 8 180.95,Sri Lanka,South Africa,2
+23,4,Sadeera Samarawickrama    c Marco Jansen b Gerald Coetzee  23 19 3 1 121.05,Sri Lanka,South Africa,2
+24,4,Charith Asalanka    c (sub)R Hendricks b Lungi Ngidi  79 65 8 4 121.54,Sri Lanka,South Africa,2
+25,4,Dhananjaya de Silva    c (sub)Phehlukwayo b Maharaj  11 14 1 0 78.57,Sri Lanka,South Africa,2
+26,4,Dasun Shanaka (c)    b Maharaj  68 62 6 3 109.68,Sri Lanka,South Africa,2
+27,4,Dunith Wellalage    c Klaasen b Gerald Coetzee  0 1 0 0 0.00,Sri Lanka,South Africa,2
+28,4,Kasun Rajitha    c Markram b Gerald Coetzee  33 31 4 1 106.45,Sri Lanka,South Africa,2
+29,4,Matheesha Pathirana    b Rabada  5 16 1 0 31.25,Sri Lanka,South Africa,2
+30,4,Dilshan Madushanka    not out  4 2 1 0 200.00,Sri Lanka,South Africa,2
+31,5,Rohit Sharma (c)    lbw b Hazlewood  0 6 0 0 0.00,India,Australia,2
+32,5,Ishan Kishan    c Green b Starc  0 1 0 0 0.00,India,Australia,2
+33,5,Virat Kohli    c Labuschagne b Hazlewood  85 116 6 0 73.28,India,Australia,2
+34,5,Shreyas Iyer    c Warner b Hazlewood  0 3 0 0 0.00,India,Australia,2
+35,5,KL Rahul (wk)    not out  97 115 8 2 84.35,India,Australia,2
+36,5,Hardik Pandya    not out  11 8 0 1 137.50,India,Australia,2
+37,6,Vikramjit Singh    b Matt Henry  12 20 1 0 60.00,Netherlands,New Zealand,2
+38,6,Max ODowd    lbw b Santner  16 31 2 0 51.61,Netherlands,New Zealand,2
+39,6,Colin Ackermann    c Matt Henry b Santner  69 73 5 0 94.52,Netherlands,New Zealand,2
+40,6,Bas de Leede    c Boult b Rachin Ravindra  18 25 3 0 72.00,Netherlands,New Zealand,2
+41,6,Teja Nidamanuru    run out (Lockie Ferguson/Latham)  21 26 2 1 80.77,Netherlands,New Zealand,2
+42,6,Scott Edwards (c & wk)    c and b Santner  30 27 2 1 111.11,Netherlands,New Zealand,2
+43,6,Sybrand Engelbrecht    c Conway b Matt Henry  29 34 3 0 85.29,Netherlands,New Zealand,2
+44,6,Roelof van der Merwe    c Matt Henry b Santner  1 6 0 0 16.67,Netherlands,New Zealand,2
+45,6,Ryan Klein    lbw b Santner  8 15 0 0 53.33,Netherlands,New Zealand,2
+46,6,Aryan Dutt    b Matt Henry  11 20 0 1 55.00,Netherlands,New Zealand,2
+47,6,Paul van Meekeren    not out  4 3 1 0 133.33,Netherlands,New Zealand,2
+48,7,Litton Das    c Jos Buttler b Chris Woakes  76 66 7 2 115.15,Bangladesh,England,2
+49,7,Tanzid Hasan    c Bairstow b R Topley  1 2 0 0 50.00,Bangladesh,England,2
+50,7,Najmul Hossain Shanto    c Livingstone b R Topley  0 1 0 0 0.00,Bangladesh,England,2
+51,7,Shakib Al Hasan (c)    b R Topley  1 9 0 0 11.11,Bangladesh,England,2
+52,7,Mehidy Hasan Miraz    c Jos Buttler b Chris Woakes  8 7 1 0 114.29,Bangladesh,England,2
+53,7,Mushfiqur Rahim (wk)    c Adil Rashid b R Topley  51 64 4 0 79.69,Bangladesh,England,2
+54,7,Towhid Hridoy    c Jos Buttler b Livingstone  39 61 2 0 63.93,Bangladesh,England,2
+55,7,Mahedi Hasan    b Adil Rashid  14 32 1 0 43.75,Bangladesh,England,2
+56,7,Taskin Ahmed    b Sam Curran  15 25 0 1 60.00,Bangladesh,England,2
+57,7,Shoriful Islam    b Mark Wood  12 14 2 0 85.71,Bangladesh,England,2
+58,7,Mustafizur Rahman    not out  3 9 0 0 33.33,Bangladesh,England,2
+59,8,Abdullah Shafique    c (sub)Dushan Hemantha b Matheesha Pathirana  113 103 10 3 109.71,Pakistan,Sri Lanka,2
+60,8,Imam-ul-Haq    c Kusal Perera b Dilshan Madushanka  12 12 1 0 100.00,Pakistan,Sri Lanka,2
+61,8,Babar Azam (c)    c Samarawickrama b Dilshan Madushanka  10 15 1 0 66.67,Pakistan,Sri Lanka,2
+62,8,Mohammad Rizwan (wk)    not out  131 121 8 3 108.26,Pakistan,Sri Lanka,2
+63,8,Saud Shakeel    c Dunith Wellalage b M Theekshana  31 30 2 0 103.33,Pakistan,Sri Lanka,2
+64,8,Iftikhar Ahmed    not out  22 10 4 0 220.00,Pakistan,Sri Lanka,2
+65,9,Rohit Sharma (c)    b Rashid Khan  131 84 16 5 155.95,India,Afghanistan,2
+66,9,Ishan Kishan    c Ibrahim Zadran b Rashid Khan  47 47 5 2 100.00,India,Afghanistan,2
+67,9,Virat Kohli    not out  55 56 6 0 98.21,India,Afghanistan,2
+68,9,Shreyas Iyer    not out  25 23 1 1 108.70,India,Afghanistan,2
+69,10,Mitchell Marsh    c Bavuma b Marco Jansen  7 15 0 0 46.67,Australia,South Africa,2
+70,10,David Warner    c van der Dussen b Lungi Ngidi  13 27 2 0 48.15,Australia,South Africa,2
+71,10,Steven Smith    lbw b Rabada  19 16 4 0 118.75,Australia,South Africa,2
+72,10,Marnus Labuschagne    c Bavuma b Maharaj  46 74 3 0 62.16,Australia,South Africa,2
+73,10,Josh Inglis (wk)    b Rabada  5 4 1 0 125.00,Australia,South Africa,2
+74,10,Glenn Maxwell    c and b Maharaj  3 17 0 0 17.65,Australia,South Africa,2
+75,10,Marcus Stoinis    c de Kock b Rabada  5 4 1 0 125.00,Australia,South Africa,2
+76,10,Mitchell Starc    c de Kock b Marco Jansen  27 51 3 0 52.94,Australia,South Africa,2
+77,10,Pat Cummins (c)    c Miller b Shamsi  22 21 4 0 104.76,Australia,South Africa,2
+78,10,Adam Zampa    not out  11 16 1 0 68.75,Australia,South Africa,2
+79,10,Josh Hazlewood    c Rabada b Shamsi  2 2 0 0 100.00,Australia,South Africa,2
+80,11,Devon Conway    lbw b Shakib  45 59 3 0 76.27,New Zealand,Bangladesh,2
+81,11,Rachin Ravindra    c Mushfiqur Rahim b Mustafizur  9 13 2 0 69.23,New Zealand,Bangladesh,2
+82,11,Kane Williamson (c)    retd hurt  78 107 8 1 72.90,New Zealand,Bangladesh,2
+83,11,Daryl Mitchell    not out  89 67 6 4 132.84,New Zealand,Bangladesh,2
+84,11,Glenn Phillips    not out  16 11 1 1 145.45,New Zealand,Bangladesh,2
+85,12,Rohit Sharma (c)    c Iftikhar Ahmed b Shaheen Afridi  86 63 6 6 136.51,India,Pakistan,2
+86,12,Shubman Gill    c Shadab Khan b Shaheen Afridi  16 11 4 0 145.45,India,Pakistan,2
+87,12,Virat Kohli    c Mohammad Nawaz b Hasan Ali  16 18 3 0 88.89,India,Pakistan,2
+88,12,Shreyas Iyer    not out  53 62 3 2 85.48,India,Pakistan,2
+89,12,KL Rahul (wk)    not out  19 29 2 0 65.52,India,Pakistan,2
+90,13,Jonny Bairstow    lbw b Fazalhaq Farooqi  2 4 0 0 50.00,England,Afghanistan,2
+91,13,Dawid Malan    c Ibrahim Zadran b Nabi  32 39 4 0 82.05,England,Afghanistan,2
+92,13,Joe Root    b Mujeeb  11 17 2 0 64.71,England,Afghanistan,2
+93,13,Harry Brook    c Ikram Alikhil b Mujeeb  66 61 7 1 108.20,England,Afghanistan,2
+94,13,Jos Buttler (c & wk)    b Naveen-ul-Haq  9 18 1 0 50.00,England,Afghanistan,2
+95,13,Liam Livingstone    lbw b Rashid Khan  10 14 1 0 71.43,England,Afghanistan,2
+96,13,Sam Curran    c Rahmat b Nabi  10 23 0 0 43.48,England,Afghanistan,2
+97,13,Chris Woakes    b Mujeeb  9 26 1 0 34.62,England,Afghanistan,2
+98,13,Adil Rashid    c Nabi b Rashid Khan  20 13 2 0 153.85,England,Afghanistan,2
+99,13,Mark Wood    b Rashid Khan  18 22 3 0 81.82,England,Afghanistan,2
+100,13,Reece Topley    not out  15 7 3 0 214.29,England,Afghanistan,2
+101,14,Mitchell Marsh    run out (C Karunaratne/Kusal Mendis)  52 51 9 0 101.96,Australia,Sri Lanka,2
+102,14,David Warner    lbw b Dilshan Madushanka  11 6 0 1 183.33,Australia,Sri Lanka,2
+103,14,Steven Smith    lbw b Dilshan Madushanka  0 5 0 0 0.00,Australia,Sri Lanka,2
+104,14,Marnus Labuschagne    c C Karunaratne b Dilshan Madushanka  40 60 2 0 66.67,Australia,Sri Lanka,2
+105,14,Josh Inglis (wk)    c M Theekshana b Dunith Wellalage  58 59 5 1 98.31,Australia,Sri Lanka,2
+106,14,Glenn Maxwell    not out  31 21 4 2 147.62,Australia,Sri Lanka,2
+107,14,Marcus Stoinis    not out  20 10 2 1 200.00,Australia,Sri Lanka,2
+108,15,Temba Bavuma (c)    b van der Merwe  16 31 2 1 51.61,South Africa,Netherlands,2
+109,15,Quinton de Kock (wk)    c Edwards b Ackermann  20 22 3 0 90.91,South Africa,Netherlands,2
+110,15,Rassie van der Dussen    c Aryan Dutt b van der Merwe  4 7 0 0 57.14,South Africa,Netherlands,2
+111,15,Aiden Markram    b van Meekeren  1 3 0 0 33.33,South Africa,Netherlands,2
+112,15,Heinrich Klaasen    c Vikramjit Singh b van Beek  28 28 4 0 100.00,South Africa,Netherlands,2
+113,15,David Miller    b van Beek  43 52 4 1 82.69,South Africa,Netherlands,2
+114,15,Marco Jansen    b van Meekeren  9 25 0 0 36.00,South Africa,Netherlands,2
+115,15,Gerald Coetzee    c Edwards b Bas de Leede  22 23 2 1 95.65,South Africa,Netherlands,2
+116,15,Keshav Maharaj    c Edwards b van Beek  40 37 5 1 108.11,South Africa,Netherlands,2
+117,15,Kagiso Rabada    c Sybrand Engelbrecht b Bas de Leede  9 6 0 1 150.00,South Africa,Netherlands,2
+118,15,Lungi Ngidi    not out  7 24 0 0 29.17,South Africa,Netherlands,2
+119,16,Rahmanullah Gurbaz    b Matt Henry  11 21 0 1 52.38,Afghanistan,New Zealand,2
+120,16,Ibrahim Zadran    c Santner b Boult  14 15 2 0 93.33,Afghanistan,New Zealand,2
+121,16,Rahmat Shah    c and b Rachin Ravindra  36 62 1 0 58.06,Afghanistan,New Zealand,2
+122,16,Hashmatullah Shahidi (c)    c Santner b Lockie Ferguson  8 29 1 0 27.59,Afghanistan,New Zealand,2
+123,16,Azmatullah Omarzai    c Latham b Boult  27 32 2 0 84.38,Afghanistan,New Zealand,2
+124,16,Ikram Alikhil (wk)    not out  19 21 3 0 90.48,Afghanistan,New Zealand,2
+125,16,Mohammad Nabi    b Santner  7 9 1 0 77.78,Afghanistan,New Zealand,2
+126,16,Rashid Khan    c Daryl Mitchell b Lockie Ferguson  8 13 0 1 61.54,Afghanistan,New Zealand,2
+127,16,Mujeeb Ur Rahman    c Will Young b Lockie Ferguson  4 3 1 0 133.33,Afghanistan,New Zealand,2
+128,16,Naveen-ul-Haq    c Chapman b Santner  0 1 0 0 0.00,Afghanistan,New Zealand,2
+129,16,Fazalhaq Farooqi    c Daryl Mitchell b Santner  0 2 0 0 0.00,Afghanistan,New Zealand,2
+130,17,Rohit Sharma (c)    c Towhid Hridoy b Hasan Mahmud  48 40 7 2 120.00,India,Bangladesh,2
+131,17,Shubman Gill    c Mahmudullah b Mehidy Hasan Miraz  53 55 5 2 96.36,India,Bangladesh,2
+132,17,Virat Kohli    not out  103 97 6 4 106.19,India,Bangladesh,2
+133,17,Shreyas Iyer    c Mahmudullah b Mehidy Hasan Miraz  19 25 2 0 76.00,India,Bangladesh,2
+134,17,KL Rahul (wk)    not out  34 34 3 1 100.00,India,Bangladesh,2
+135,18,Abdullah Shafique    c Maxwell b Stoinis  64 61 7 2 104.92,Pakistan,Australia,2
+136,18,Imam-ul-Haq    c Starc b Stoinis  70 71 10 0 98.59,Pakistan,Australia,2
+137,18,Babar Azam (c)    c Cummins b Zampa  18 14 3 0 128.57,Pakistan,Australia,2
+138,18,Mohammad Rizwan (wk)    lbw b Zampa  46 40 5 0 115.00,Pakistan,Australia,2
+139,18,Saud Shakeel    c Stoinis b Cummins  30 31 5 0 96.77,Pakistan,Australia,2
+140,18,Iftikhar Ahmed    lbw b Zampa  26 20 0 3 130.00,Pakistan,Australia,2
+141,18,Mohammad Nawaz    st Josh Inglis b Zampa  14 16 0 1 87.50,Pakistan,Australia,2
+142,18,Usama Mir    c Starc b Hazlewood  0 3 0 0 0.00,Pakistan,Australia,2
+143,18,Shaheen Afridi    c Labuschagne b Cummins  10 8 2 0 125.00,Pakistan,Australia,2
+144,18,Hasan Ali    c Josh Inglis b Starc  8 8 2 0 100.00,Pakistan,Australia,2
+145,18,Haris Rauf    not out  0 1 0 0 0.00,Pakistan,Australia,2
+146,19,Pathum Nissanka    c Edwards b van Meekeren  54 52 9 0 103.85,Sri Lanka,Netherlands,2
+147,19,Kusal Perera    c Bas de Leede b Aryan Dutt  5 8 1 0 62.50,Sri Lanka,Netherlands,2
+148,19,Kusal Mendis (c & wk)    c van Meekeren b Aryan Dutt  11 17 2 0 64.71,Sri Lanka,Netherlands,2
+149,19,Sadeera Samarawickrama    not out  91 107 7 0 85.05,Sri Lanka,Netherlands,2
+150,19,Charith Asalanka    b Aryan Dutt  44 66 2 1 66.67,Sri Lanka,Netherlands,2
+151,19,Dhananjaya de Silva    b Ackermann  30 37 1 2 81.08,Sri Lanka,Netherlands,2
+152,19,Dushan Hemantha    not out  4 3 1 0 133.33,Sri Lanka,Netherlands,2
+153,20,Jonny Bairstow    c van der Dussen b Lungi Ngidi  10 12 1 1 83.33,England,South Africa,2
+154,20,Dawid Malan    c de Kock b Marco Jansen  6 11 1 0 54.55,England,South Africa,2
+155,20,Joe Root    c Miller b Marco Jansen  2 6 0 0 33.33,England,South Africa,2
+156,20,Ben Stokes    c and b Rabada  5 8 1 0 62.50,England,South Africa,2
+157,20,Harry Brook    lbw b Gerald Coetzee  17 25 2 1 68.00,England,South Africa,2
+158,20,Jos Buttler (c & wk)    c de Kock b Gerald Coetzee  15 7 2 1 214.29,England,South Africa,2
+159,20,David Willey    c Rabada b Lungi Ngidi  12 12 1 1 100.00,England,South Africa,2
+160,20,Adil Rashid    c Reeza Hendricks b Gerald Coetzee  10 14 1 0 71.43,England,South Africa,2
+161,20,Gus Atkinson    b Maharaj  35 21 7 0 166.67,England,South Africa,2
+162,20,Mark Wood    not out  43 17 2 5 252.94,England,South Africa,2
+163,20,Reece Topley    abs hurt  0 0 0 0 0.00,England,South Africa,2
+164,21,Rohit Sharma (c)    b Lockie Ferguson  46 40 4 4 115.00,India,New Zealand,2
+165,21,Shubman Gill    c Daryl Mitchell b Lockie Ferguson  26 31 5 0 83.87,India,New Zealand,2
+166,21,Virat Kohli    c Glenn Phillips b Matt Henry  95 104 8 2 91.35,India,New Zealand,2
+167,21,Shreyas Iyer    c Conway b Boult  33 29 6 0 113.79,India,New Zealand,2
+168,21,KL Rahul (wk)    lbw b Santner  27 35 3 0 77.14,India,New Zealand,2
+169,21,Suryakumar Yadav    run out (Santner/Boult/Latham)  2 4 0 0 50.00,India,New Zealand,2
+170,21,Ravindra Jadeja    not out  39 44 3 1 88.64,India,New Zealand,2
+171,21,Mohammed Shami    not out  1 1 0 0 100.00,India,New Zealand,2
+172,22,Rahmanullah Gurbaz    c Usama Mir b Shaheen Afridi  65 53 9 1 122.64,Afghanistan,Pakistan,2
+173,22,Ibrahim Zadran    c Rizwan b Hasan Ali  87 113 10 0 76.99,Afghanistan,Pakistan,2
+174,22,Rahmat Shah    not out  77 84 5 2 91.67,Afghanistan,Pakistan,2
+175,22,Hashmatullah Shahidi (c)    not out  48 45 4 0 106.67,Afghanistan,Pakistan,2
+176,23,Tanzid Hasan    c Klaasen b Marco Jansen  12 17 1 0 70.59,Bangladesh,South Africa,2
+177,23,Litton Das    lbw b Rabada  22 44 3 1 50.00,Bangladesh,South Africa,2
+178,23,Najmul Hossain Shanto    c Klaasen b Marco Jansen  0 1 0 0 0.00,Bangladesh,South Africa,2
+179,23,Shakib Al Hasan (c)    c Klaasen b Williams  1 4 0 0 25.00,Bangladesh,South Africa,2
+180,23,Mushfiqur Rahim (wk)    c (sub)Phehlukwayo b Gerald Coetzee  8 17 1 0 47.06,Bangladesh,South Africa,2
+181,23,Mahmudullah    c Marco Jansen b Gerald Coetzee  111 111 11 4 100.00,Bangladesh,South Africa,2
+182,23,Mehidy Hasan Miraz    c (sub)Phehlukwayo b Maharaj  11 19 1 0 57.89,Bangladesh,South Africa,2
+183,23,Nasum Ahmed    c and b Gerald Coetzee  19 19 3 0 100.00,Bangladesh,South Africa,2
+184,23,Hasan Mahmud    c Gerald Coetzee b Rabada  15 25 2 0 60.00,Bangladesh,South Africa,2
+185,23,Mustafizur Rahman    c Miller b Williams  11 21 2 0 52.38,Bangladesh,South Africa,2
+186,23,Shoriful Islam    not out  6 4 1 0 150.00,Bangladesh,South Africa,2
+187,24,Vikramjit Singh    run out (Maxwell)  25 25 6 0 100.00,Netherlands,Australia,2
+188,24,Max ODowd    b Starc  6 9 1 0 66.67,Netherlands,Australia,2
+189,24,Colin Ackermann    lbw b Hazlewood  10 11 2 0 90.91,Netherlands,Australia,2
+190,24,Sybrand Engelbrecht    c Warner b Mitchell Marsh  11 21 1 0 52.38,Netherlands,Australia,2
+191,24,Bas de Leede    lbw b Cummins  4 7 1 0 57.14,Netherlands,Australia,2
+192,24,Scott Edwards (c & wk)    not out  12 22 0 0 54.55,Netherlands,Australia,2
+193,24,Teja Nidamanuru    c Josh Inglis b Mitchell Marsh  14 18 2 0 77.78,Netherlands,Australia,2
+194,24,Logan van Beek    c Josh Inglis b Zampa  0 3 0 0 0.00,Netherlands,Australia,2
+195,24,Roelof van der Merwe    lbw b Zampa  0 1 0 0 0.00,Netherlands,Australia,2
+196,24,Aryan Dutt    lbw b Zampa  1 8 0 0 12.50,Netherlands,Australia,2
+197,24,Paul van Meekeren    st Josh Inglis b Zampa  0 1 0 0 0.00,Netherlands,Australia,2
+198,25,Pathum Nissanka    not out  77 83 7 2 92.77,Sri Lanka,England,2
+199,25,Kusal Perera    c Stokes b Willey  4 5 1 0 80.00,Sri Lanka,England,2
+200,25,Kusal Mendis (c & wk)    c Jos Buttler b Willey  11 12 2 0 91.67,Sri Lanka,England,2
+201,25,Sadeera Samarawickrama    not out  65 54 7 1 120.37,Sri Lanka,England,2
+202,26,Temba Bavuma (c)    c Saud Shakeel b Mohammad Wasim Jr  28 27 4 1 103.70,South Africa,Pakistan,2
+203,26,Quinton de Kock (wk)    c Mohammad Wasim Jr b Shaheen Afridi  24 14 5 0 171.43,South Africa,Pakistan,2
+204,26,Rassie van der Dussen    lbw b Usama Mir  21 39 0 0 53.85,South Africa,Pakistan,2
+205,26,Aiden Markram    c Babar Azam b Usama Mir  91 93 7 3 97.85,South Africa,Pakistan,2
+206,26,Heinrich Klaasen    c Usama Mir b Mohammad Wasim Jr  12 10 0 1 120.00,South Africa,Pakistan,2
+207,26,David Miller    c Rizwan b Shaheen Afridi  29 33 2 2 87.88,South Africa,Pakistan,2
+208,26,Marco Jansen    c Babar Azam b Haris Rauf  20 14 2 1 142.86,South Africa,Pakistan,2
+209,26,Gerald Coetzee    c Rizwan b Shaheen Afridi  10 13 0 0 76.92,South Africa,Pakistan,2
+210,26,Keshav Maharaj    not out  7 21 1 0 33.33,South Africa,Pakistan,2
+211,26,Lungi Ngidi    c and b Haris Rauf  4 14 0 0 28.57,South Africa,Pakistan,2
+212,26,Tabraiz Shamsi    not out  4 6 0 0 66.67,South Africa,Pakistan,2
+213,27,Devon Conway    c Starc b Hazlewood  28 17 6 0 164.71,New Zealand,Australia,2
+214,27,Will Young    c Starc b Hazlewood  32 37 4 1 86.49,New Zealand,Australia,2
+215,27,Rachin Ravindra    c Labuschagne b Cummins  116 89 9 5 130.34,New Zealand,Australia,2
+216,27,Daryl Mitchell    c Starc b Zampa  54 51 6 1 105.88,New Zealand,Australia,2
+217,27,Tom Latham (c & wk)    c Hazlewood b Zampa  21 22 2 0 95.45,New Zealand,Australia,2
+218,27,Glenn Phillips    c Labuschagne b Maxwell  12 16 1 0 75.00,New Zealand,Australia,2
+219,27,James Neesham    run out (Labuschagne/Josh Inglis)  58 39 3 3 148.72,New Zealand,Australia,2
+220,27,Mitchell Santner    c Maxwell b Zampa  17 12 1 1 141.67,New Zealand,Australia,2
+221,27,Matt Henry    c Hazlewood b Cummins  9 8 1 0 112.50,New Zealand,Australia,2
+222,27,Trent Boult    not out  10 8 0 1 125.00,New Zealand,Australia,2
+223,27,Lockie Ferguson    not out  0 1 0 0 0.00,New Zealand,Australia,2
+224,28,Litton Das    c Edwards b Aryan Dutt  3 12 0 0 25.00,Bangladesh,Netherlands,2
+225,28,Tanzid Hasan    c Edwards b van Beek  15 16 3 0 93.75,Bangladesh,Netherlands,2
+226,28,Mehidy Hasan Miraz    c Edwards b Bas de Leede  35 40 5 1 87.50,Bangladesh,Netherlands,2
+227,28,Najmul Hossain Shanto    c van Beek b van Meekeren  9 18 2 0 50.00,Bangladesh,Netherlands,2
+228,28,Shakib Al Hasan (c)    c Edwards b van Meekeren  5 14 0 0 35.71,Bangladesh,Netherlands,2
+229,28,Mushfiqur Rahim (wk)    b van Meekeren  1 5 0 0 20.00,Bangladesh,Netherlands,2
+230,28,Mahmudullah    c Aryan Dutt b Bas de Leede  20 41 2 0 48.78,Bangladesh,Netherlands,2
+231,28,Mahedi Hasan    run out (Bas de Leede)  17 38 1 0 44.74,Bangladesh,Netherlands,2
+232,28,Taskin Ahmed    c Bas de Leede b van Meekeren  11 35 1 0 31.43,Bangladesh,Netherlands,2
+233,28,Mustafizur Rahman    b Ackermann  20 35 2 1 57.14,Bangladesh,Netherlands,2
+234,28,Shoriful Islam    not out  0 0 0 0 0.00,Bangladesh,Netherlands,2
+235,29,Jonny Bairstow    b Shami  14 23 2 0 60.87,England,India,2
+236,29,Dawid Malan    b Bumrah  16 17 2 1 94.12,England,India,2
+237,29,Joe Root    lbw b Bumrah  0 1 0 0 0.00,England,India,2
+238,29,Ben Stokes    b Shami  0 10 0 0 0.00,England,India,2
+239,29,Jos Buttler (c & wk)    b Kuldeep Yadav  10 23 1 0 43.48,England,India,2
+240,29,Moeen Ali    c Rahul b Shami  15 31 0 0 48.39,England,India,2
+241,29,Liam Livingstone    lbw b Kuldeep Yadav  27 46 2 0 58.70,England,India,2
+242,29,Chris Woakes    st Rahul b Ravindra Jadeja  10 20 1 0 50.00,England,India,2
+243,29,David Willey    not out  16 17 0 2 94.12,England,India,2
+244,29,Adil Rashid    b Shami  13 20 2 0 65.00,England,India,2
+245,29,Mark Wood    b Bumrah  0 1 0 0 0.00,England,India,2
+246,30,Rahmanullah Gurbaz (wk)    b Dilshan Madushanka  0 4 0 0 0.00,Afghanistan,Sri Lanka,2
+247,30,Ibrahim Zadran    c Karunaratne b Dilshan Madushanka  39 57 4 1 68.42,Afghanistan,Sri Lanka,2
+248,30,Rahmat Shah    c Karunaratne b Rajitha  62 74 7 0 83.78,Afghanistan,Sri Lanka,2
+249,30,Hashmatullah Shahidi (c)    not out  58 74 2 1 78.38,Afghanistan,Sri Lanka,2
+250,30,Azmatullah Omarzai    not out  73 63 6 3 115.87,Afghanistan,Sri Lanka,2
+251,31,Abdullah Shafique    lbw b Mehidy Hasan Miraz  68 69 9 2 98.55,Pakistan,Bangladesh,2
+252,31,Fakhar Zaman    c Towhid Hridoy b Mehidy Hasan Miraz  81 74 3 7 109.46,Pakistan,Bangladesh,2
+253,31,Babar Azam (c)    c Mahmudullah b Mehidy Hasan Miraz  9 16 1 0 56.25,Pakistan,Bangladesh,2
+254,31,Mohammad Rizwan (wk)    not out  26 21 4 0 123.81,Pakistan,Bangladesh,2
+255,31,Iftikhar Ahmed    not out  17 15 2 0 113.33,Pakistan,Bangladesh,2
+256,32,Devon Conway    c Markram b Marco Jansen  2 6 0 0 33.33,New Zealand,South Africa,2
+257,32,Will Young    c de Kock b Gerald Coetzee  33 37 5 0 89.19,New Zealand,South Africa,2
+258,32,Rachin Ravindra    c Gerald Coetzee b Marco Jansen  9 16 1 0 56.25,New Zealand,South Africa,2
+259,32,Daryl Mitchell    c Miller b Maharaj  24 30 4 0 80.00,New Zealand,South Africa,2
+260,32,Tom Latham (c & wk)    c Maharaj b Rabada  4 15 0 0 26.67,New Zealand,South Africa,2
+261,32,Glenn Phillips    c Rabada b Gerald Coetzee  60 50 4 4 120.00,New Zealand,South Africa,2
+262,32,Mitchell Santner    b Maharaj  7 18 1 0 38.89,New Zealand,South Africa,2
+263,32,Tim Southee    lbw b Marco Jansen  7 11 1 0 63.64,New Zealand,South Africa,2
+264,32,James Neesham    b Maharaj  0 8 0 0 0.00,New Zealand,South Africa,2
+265,32,Trent Boult    c Miller b Maharaj  9 14 1 0 64.29,New Zealand,South Africa,2
+266,32,Matt Henry    not out  0 9 0 0 0.00,New Zealand,South Africa,2
+267,33,Pathum Nissanka    lbw b Bumrah  0 1 0 0 0.00,Sri Lanka,India,2
+268,33,Dimuth Karunaratne    lbw b Siraj  0 1 0 0 0.00,Sri Lanka,India,2
+269,33,Kusal Mendis (c & wk)    b Siraj  1 10 0 0 10.00,Sri Lanka,India,2
+270,33,Sadeera Samarawickrama    c Shreyas Iyer b Siraj  0 4 0 0 0.00,Sri Lanka,India,2
+271,33,Charith Asalanka    c Ravindra Jadeja b Shami  1 24 0 0 4.17,Sri Lanka,India,2
+272,33,Angelo Mathews    b Shami  12 25 1 0 48.00,Sri Lanka,India,2
+273,33,Dushan Hemantha    c Rahul b Shami  0 1 0 0 0.00,Sri Lanka,India,2
+274,33,Dushmantha Chameera    c Rahul b Shami  0 6 0 0 0.00,Sri Lanka,India,2
+275,33,Maheesh Theekshana    not out  12 23 2 0 52.17,Sri Lanka,India,2
+276,33,Kasun Rajitha    c Shubman Gill b Shami  14 17 2 0 82.35,Sri Lanka,India,2
+277,33,Dilshan Madushanka    c Shreyas Iyer b Ravindra Jadeja  5 6 1 0 83.33,Sri Lanka,India,2
+278,34,Rahmanullah Gurbaz    c Edwards b van Beek  10 11 2 0 90.91,Afghanistan,Netherlands,2
+279,34,Ibrahim Zadran    b van der Merwe  20 34 2 0 58.82,Afghanistan,Netherlands,2
+280,34,Rahmat Shah    c and b Saqib Zulfiqar  52 54 8 0 96.30,Afghanistan,Netherlands,2
+281,34,Hashmatullah Shahidi (c)    not out  56 64 6 0 87.50,Afghanistan,Netherlands,2
+282,34,Azmatullah Omarzai    not out  31 28 3 0 110.71,Afghanistan,Netherlands,2
+283,35,Abdullah Shafique    c Williamson b Southee  4 9 1 0 44.44,Pakistan,New Zealand,2
+284,35,Fakhar Zaman    not out  126 81 8 11 155.56,Pakistan,New Zealand,2
+285,35,Babar Azam (c)    not out  66 63 6 2 104.76,Pakistan,New Zealand,2
+286,36,Jonny Bairstow    c Josh Inglis b Starc  0 1 0 0 0.00,England,Australia,2
+287,36,Dawid Malan    c Head b Cummins  50 64 4 1 78.12,England,Australia,2
+288,36,Joe Root    c Josh Inglis b Starc  13 17 2 0 76.47,England,Australia,2
+289,36,Ben Stokes    c Stoinis b Zampa  64 90 2 3 71.11,England,Australia,2
+290,36,Jos Buttler (c & wk)    c Green b Zampa  1 7 0 0 14.29,England,Australia,2
+291,36,Moeen Ali    c Warner b Zampa  42 43 6 0 97.67,England,Australia,2
+292,36,Liam Livingstone    c (sub)Abbott b Cummins  2 5 0 0 40.00,England,Australia,2
+293,36,Chris Woakes    c Labuschagne b Stoinis  32 33 4 1 96.97,England,Australia,2
+294,36,David Willey    c Zampa b Hazlewood  15 14 3 0 107.14,England,Australia,2
+295,36,Adil Rashid    c Josh Inglis b Hazlewood  20 15 1 1 133.33,England,Australia,2
+296,36,Mark Wood    not out  0 0 0 0 0.00,England,Australia,2
+297,37,Quinton de Kock (wk)    b Siraj  5 10 1 0 50.00,South Africa,India,2
+298,37,Temba Bavuma (c)    b Ravindra Jadeja  11 19 1 0 57.89,South Africa,India,2
+299,37,Rassie van der Dussen    lbw b Shami  13 32 1 0 40.62,South Africa,India,2
+300,37,Aiden Markram    c Rahul b Shami  9 6 2 0 150.00,South Africa,India,2
+301,37,Heinrich Klaasen    lbw b Ravindra Jadeja  1 11 0 0 9.09,South Africa,India,2
+302,37,David Miller    b Ravindra Jadeja  11 11 2 0 100.00,South Africa,India,2
+303,37,Marco Jansen    c Ravindra Jadeja b Kuldeep Yadav  14 30 1 0 46.67,South Africa,India,2
+304,37,Keshav Maharaj    b Ravindra Jadeja  7 11 1 0 63.64,South Africa,India,2
+305,37,Kagiso Rabada    c and b Ravindra Jadeja  6 26 0 0 23.08,South Africa,India,2
+306,37,Lungi Ngidi    b Kuldeep Yadav  0 3 0 0 0.00,South Africa,India,2
+307,37,Tabraiz Shamsi    not out  4 4 1 0 100.00,South Africa,India,2
+308,38,Tanzid Hasan    c Pathum Nissanka b Dilshan Madushanka  9 5 2 0 180.00,Bangladesh,Sri Lanka,2
+309,38,Litton Das    lbw b Dilshan Madushanka  23 22 2 2 104.55,Bangladesh,Sri Lanka,2
+310,38,Najmul Hossain Shanto    b Mathews  90 101 12 0 89.11,Bangladesh,Sri Lanka,2
+311,38,Shakib Al Hasan (c)    c Asalanka b Mathews  82 65 12 2 126.15,Bangladesh,Sri Lanka,2
+312,38,Mahmudullah    b M Theekshana  22 23 3 1 95.65,Bangladesh,Sri Lanka,2
+313,38,Mushfiqur Rahim (wk)    b Dilshan Madushanka  10 13 1 0 76.92,Bangladesh,Sri Lanka,2
+314,38,Towhid Hridoy    not out  15 7 0 2 214.29,Bangladesh,Sri Lanka,2
+315,38,Mehidy Hasan Miraz    c Asalanka b M Theekshana  3 5 0 0 60.00,Bangladesh,Sri Lanka,2
+316,38,Tanzim Hasan Sakib    not out  5 6 1 0 83.33,Bangladesh,Sri Lanka,2
+317,39,David Warner    b Azmatullah  18 29 3 0 62.07,Australia,Afghanistan,2
+318,39,Travis Head    c Ikram Alikhil b Naveen-ul-Haq  0 2 0 0 0.00,Australia,Afghanistan,2
+319,39,Mitchell Marsh    lbw b Naveen-ul-Haq  24 11 2 2 218.18,Australia,Afghanistan,2
+320,39,Marnus Labuschagne    run out (Rahmat)  14 28 2 0 50.00,Australia,Afghanistan,2
+321,39,Josh Inglis (wk)    c Ibrahim Zadran b Azmatullah  0 1 0 0 0.00,Australia,Afghanistan,2
+322,39,Glenn Maxwell    not out  201 128 21 10 157.03,Australia,Afghanistan,2
+323,39,Marcus Stoinis    lbw b Rashid Khan  6 7 1 0 85.71,Australia,Afghanistan,2
+324,39,Mitchell Starc    c Ikram Alikhil b Rashid Khan  3 7 0 0 42.86,Australia,Afghanistan,2
+325,39,Pat Cummins (c)    not out  12 68 1 0 17.65,Australia,Afghanistan,2
+326,40,Wesley Barresi    run out (Chris Woakes/Moeen)  37 62 3 1 59.68,Netherlands,England,2
+327,40,Max ODowd    c Moeen b Chris Woakes  5 11 1 0 45.45,Netherlands,England,2
+328,40,Colin Ackermann    c Jos Buttler b Willey  0 2 0 0 0.00,Netherlands,England,2
+329,40,Sybrand Engelbrecht    c Chris Woakes b Willey  33 49 3 1 67.35,Netherlands,England,2
+330,40,Scott Edwards (c & wk)    c Malan b Moeen  38 42 3 1 90.48,Netherlands,England,2
+331,40,Bas de Leede    b Adil Rashid  10 12 2 0 83.33,Netherlands,England,2
+332,40,Teja Nidamanuru    not out  41 34 2 3 120.59,Netherlands,England,2
+333,40,Logan van Beek    c Malan b Adil Rashid  2 2 0 0 100.00,Netherlands,England,2
+334,40,Roelof van der Merwe    c Adil Rashid b Moeen  0 4 0 0 0.00,Netherlands,England,2
+335,40,Aryan Dutt    b Adil Rashid  1 3 0 0 33.33,Netherlands,England,2
+336,40,Paul van Meekeren    st Jos Buttler b Moeen  4 3 1 0 133.33,Netherlands,England,2
+337,41,Devon Conway    c Dhananjaya de Silva b Chameera  45 42 9 0 107.14,New Zealand,Sri Lanka,2
+338,41,Rachin Ravindra    c Dhananjaya de Silva b M Theekshana  42 34 3 3 123.53,New Zealand,Sri Lanka,2
+339,41,Kane Williamson (c)    b Mathews  14 15 2 0 93.33,New Zealand,Sri Lanka,2
+340,41,Daryl Mitchell    c Asalanka b Mathews  43 31 5 2 138.71,New Zealand,Sri Lanka,2
+341,41,Mark Chapman    run out (Samarawickrama/Mathews)  7 6 1 0 116.67,New Zealand,Sri Lanka,2
+342,41,Glenn Phillips    not out  17 10 3 0 170.00,New Zealand,Sri Lanka,2
+343,41,Tom Latham (wk)    not out  2 2 0 0 100.00,New Zealand,Sri Lanka,2
+344,42,Quinton de Kock (wk)    lbw b Nabi  41 47 2 3 87.23,South Africa,Afghanistan,2
+345,42,Temba Bavuma (c)    c Gurbaz b Mujeeb  23 28 3 0 82.14,South Africa,Afghanistan,2
+346,42,Rassie van der Dussen    not out  76 95 6 1 80.00,South Africa,Afghanistan,2
+347,42,Aiden Markram    c Naveen-ul-Haq b Rashid Khan  25 32 1 1 78.12,South Africa,Afghanistan,2
+348,42,Heinrich Klaasen    b Rashid Khan  10 13 1 0 76.92,South Africa,Afghanistan,2
+349,42,David Miller    c and b Nabi  24 33 1 1 72.73,South Africa,Afghanistan,2
+350,42,Andile Phehlukwayo    not out  39 37 1 3 105.41,South Africa,Afghanistan,2
+351,43,Travis Head    b Taskin Ahmed  10 11 2 0 90.91,Australia,Bangladesh,2
+352,43,David Warner    c Shanto b Mustafizur  53 61 6 0 86.89,Australia,Bangladesh,2
+353,43,Mitchell Marsh    not out  177 132 17 9 134.09,Australia,Bangladesh,2
+354,43,Steven Smith    not out  63 64 4 1 98.44,Australia,Bangladesh,2
+355,44,Abdullah Shafique    lbw b Willey  0 2 0 0 0.00,Pakistan,England,2
+356,44,Fakhar Zaman    c Stokes b Willey  1 9 0 0 11.11,Pakistan,England,2
+357,44,Babar Azam (c)    c Adil Rashid b Gus Atkinson  38 45 6 0 84.44,Pakistan,England,2
+358,44,Mohammad Rizwan (wk)    b Moeen  36 51 2 0 70.59,Pakistan,England,2
+359,44,Saud Shakeel    b Adil Rashid  29 37 4 0 78.38,Pakistan,England,2
+360,44,Agha Salman    c Stokes b Willey  51 45 6 1 113.33,Pakistan,England,2
+361,44,Iftikhar Ahmed    c Malan b Moeen  3 5 0 0 60.00,Pakistan,England,2
+362,44,Shadab Khan    b Adil Rashid  4 7 1 0 57.14,Pakistan,England,2
+363,44,Shaheen Afridi    lbw b Gus Atkinson  25 23 3 1 108.70,Pakistan,England,2
+364,44,Mohammad Wasim Jr    not out  16 14 2 1 114.29,Pakistan,England,2
+365,44,Haris Rauf    c Stokes b Chris Woakes  35 23 3 3 152.17,Pakistan,England,2
+366,45,Wesley Barresi    c Rahul b Siraj  4 5 0 0 80.00,Netherlands,India,2
+367,45,Max ODowd    b Ravindra Jadeja  30 42 3 1 71.43,Netherlands,India,2
+368,45,Colin Ackermann    lbw b Kuldeep Yadav  35 32 6 0 109.38,Netherlands,India,2
+369,45,Sybrand Engelbrecht    b Siraj  45 80 4 0 56.25,Netherlands,India,2
+370,45,Scott Edwards (c & wk)    c Rahul b Kohli  17 30 1 0 56.67,Netherlands,India,2
+371,45,Bas de Leede    b Bumrah  12 21 1 0 57.14,Netherlands,India,2
+372,45,Teja Nidamanuru    c Shami b Rohit  54 39 1 6 138.46,Netherlands,India,2
+373,45,Logan van Beek    b Kuldeep Yadav  16 15 2 0 106.67,Netherlands,India,2
+374,45,Roelof van der Merwe    c Shami b Ravindra Jadeja  16 8 1 2 200.00,Netherlands,India,2
+375,45,Aryan Dutt    b Bumrah  5 11 0 0 45.45,Netherlands,India,2
+376,45,Paul van Meekeren    not out  3 4 0 0 75.00,Netherlands,India,2
+377,46,Devon Conway    c Rahul b Shami  13 15 3 0 86.67,New Zealand,India,2
+378,46,Rachin Ravindra    c Rahul b Shami  13 22 3 0 59.09,New Zealand,India,2
+379,46,Kane Williamson (c)    c Suryakumar Yadav b Shami  69 73 9 1 94.52,New Zealand,India,2
+380,46,Daryl Mitchell    c Ravindra Jadeja b Shami  134 119 9 7 112.61,New Zealand,India,2
+381,46,Tom Latham (wk)    lbw b Shami  0 2 0 0 0.00,New Zealand,India,2
+382,46,Glenn Phillips    c Ravindra Jadeja b Bumrah  41 33 4 2 124.24,New Zealand,India,2
+383,46,Mark Chapman    c Ravindra Jadeja b Kuldeep Yadav  2 5 0 0 40.00,New Zealand,India,2
+384,46,Mitchell Santner    c Rohit b Siraj  9 10 0 0 90.00,New Zealand,India,2
+385,46,Tim Southee    c Rahul b Shami  9 10 1 0 90.00,New Zealand,India,2
+386,46,Trent Boult    not out  2 2 0 0 100.00,New Zealand,India,2
+387,46,Lockie Ferguson    c Rahul b Shami  6 3 0 1 200.00,New Zealand,India,2
+388,47,Travis Head    b Maharaj  62 48 9 2 129.17,Australia,South Africa,2
+389,47,David Warner    b Markram  29 18 1 4 161.11,Australia,South Africa,2
+390,47,Mitchell Marsh    c van der Dussen b Rabada  0 6 0 0 0.00,Australia,South Africa,2
+391,47,Steven Smith    c de Kock b Gerald Coetzee  30 62 2 0 48.39,Australia,South Africa,2
+392,47,Marnus Labuschagne    lbw b Shamsi  18 31 2 0 58.06,Australia,South Africa,2
+393,47,Glenn Maxwell    b Shamsi  1 5 0 0 20.00,Australia,South Africa,2
+394,47,Josh Inglis (wk)    b Gerald Coetzee  28 49 3 0 57.14,Australia,South Africa,2
+395,47,Mitchell Starc    not out  16 38 2 0 42.11,Australia,South Africa,2
+396,47,Pat Cummins (c)    not out  14 29 2 0 48.28,Australia,South Africa,2
+397,48,David Warner    c Kohli b Shami  7 3 1 0 233.33,Australia,India,2
+398,48,Travis Head    c Shubman Gill b Siraj  137 120 15 4 114.17,Australia,India,2
+399,48,Mitchell Marsh    c Rahul b Bumrah  15 15 1 1 100.00,Australia,India,2
+400,48,Steven Smith    lbw b Bumrah  4 9 1 0 44.44,Australia,India,2
+401,48,Marnus Labuschagne    not out  58 110 4 0 52.73,Australia,India,2
+402,48,Glenn Maxwell    not out  2 1 0 0 200.00,Australia,India,2
