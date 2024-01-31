@@ -24,7 +24,7 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 3,Afghanistan,Bangladesh,1,Rahmanullah Gurbaz,Catch,Tanzid Hasan,Mustafizur Rahman,47,62,4,1,75.81
 3,Afghanistan,Bangladesh,1,Ibrahim Zadran,Catch,Tanzid Hasan,Shakib,22,25,3,1,88.00
 3,Afghanistan,Bangladesh,1,Rahmat Shah,Catch,Litton Das,Shakib,18,25,1,0,72.00
-3,Afghanistan,Bangladesh,1,Hashmatullah Shahidi,Catch,Towhid Hridoy,Mehidy Hasan Miraz,18,38,2,0,47.37
+3,Afghanistan,Bangladesh,1,Hashmatullah Shahidi (c),Catch,Towhid Hridoy,Mehidy Hasan Miraz,18,38,2,0,47.37
 3,Afghanistan,Bangladesh,1,Najibullah Zadran,Bowled,-,Shakib,5,13,0,0,38.46
 3,Afghanistan,Bangladesh,1,Mohammad Nabi,Bowled,-,Taskin Ahmed,6,12,0,0,50.00
 3,Afghanistan,Bangladesh,1,Azmatullah Omarzai,Bowled,-,Shoriful Islam,22,20,4,0,110.00
@@ -83,7 +83,7 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 9,Afghanistan,India,1,Rahmanullah Gurbaz,Catch,Thakur,Hardik Pandya,21,28,3,1,75.00
 9,Afghanistan,India,1,Ibrahim Zadran,Catch,Rahul,Jasprit Bumrah,22,28,4,0,78.57
 9,Afghanistan,India,1,Rahmat Shah,lbw,-,Thakur,16,22,3,0,72.73
-9,Afghanistan,India,1,Hashmatullah Shahidi,lbw,-,Kuldeep Yadav,80,88,8,1,90.91
+9,Afghanistan,India,1,Hashmatullah Shahidi (c),lbw,-,Kuldeep Yadav,80,88,8,1,90.91
 9,Afghanistan,India,1,Azmatullah Omarzai,Bowled,-,Hardik Pandya,62,69,2,4,89.86
 9,Afghanistan,India,1,Mohammad Nabi,lbw,-,Jasprit Bumrah,19,27,1,0,70.37
 9,Afghanistan,India,1,Najibullah Zadran,Catch,Virat Kohli,Jasprit Bumrah,2,8,0,0,25.00
@@ -124,7 +124,7 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 13,Afghanistan,England,1,Gurbaz,Run out,(sub)Willey/Jos Buttler,-,80,57,8,4,140.35
 13,Afghanistan,England,1,Ibrahim Zadran,Catch,Joe Root,Adil Rashid,28,48,3,0,58.33
 13,Afghanistan,England,1,Rahmat Shah,Stump,Jos Buttler,Adil Rashid,3,8,0,0,37.50
-13,Afghanistan,England,1,Hashmatullah Shahidi,Bowled,-,Joe Root,14,36,0,0,38.89
+13,Afghanistan,England,1,Hashmatullah Shahidi (c),Bowled,-,Joe Root,14,36,0,0,38.89
 13,Afghanistan,England,1,Azmatullah Omarzai,Catch,Chris Woakes,Liam Livingstone,19,24,1,1,79.17
 13,Afghanistan,England,1,Ikram Alikhil,Catch,Sam Curran,Reece Topley,58,66,3,2,87.88
 13,Afghanistan,England,1,Mohammad Nabi,Catch,Joe Root,Mark Wood,9,15,1,0,60.00
@@ -380,7 +380,7 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 39,Afghanistan,Australia,1,Gurbaz,Catch,Mitchell Starc,Josh Hazlewood,21,25,2,0,84.00
 39,Afghanistan,Australia,1,Ibrahim Zadran,Not out,-,-,129,143,8,3,90.21
 39,Afghanistan,Australia,1,Rahmat Shah,Catch,Josh Hazlewood,Glenn Maxwell,30,44,1,0,68.18
-39,Afghanistan,Australia,1,Hashmatullah Shahidi,Bowled,-,Mitchell Starc,26,43,2,0,60.47
+39,Afghanistan,Australia,1,Hashmatullah Shahidi (c),Bowled,-,Mitchell Starc,26,43,2,0,60.47
 39,Afghanistan,Australia,1,Azmatullah Omarzai,Catch,Glenn Maxwell,Adam Zampa,22,18,1,2,122.22
 39,Afghanistan,Australia,1,Mohammad Nabi,Bowled,-,Josh Hazlewood,12,10,0,1,120.00
 39,Afghanistan,Australia,1,Rashid Khan,Not out,-,-,35,18,2,3,194.44
@@ -409,7 +409,7 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 42,Afghanistan,South Africa,1,Gurbaz,Catch,Heinrich Klaasen,Keshav Maharaj,25,22,3,1,113.64
 42,Afghanistan,South Africa,1,Ibrahim Zadran,Catch,Quinton de Kock,Gerald Coetzee,15,30,3,0,50.00
 42,Afghanistan,South Africa,1,Rahmat Shah,Catch,David Miller,Lungi Ngidi,26,46,2,0,56.52
-42,Afghanistan,South Africa,1,Hashmatullah Shahidi,Catch,Quinton de Kock,Keshav Maharaj,2,7,0,0,28.57
+42,Afghanistan,South Africa,1,Hashmatullah Shahidi (c),Catch,Quinton de Kock,Keshav Maharaj,2,7,0,0,28.57
 42,Afghanistan,South Africa,1,Azmatullah Omarzai,Not out,-,-,97,107,7,3,90.65
 42,Afghanistan,South Africa,1,Ikram Alikhil,Catch,Quinton de Kock,Gerald Coetzee,12,14,1,1,85.71
 42,Afghanistan,South Africa,1,Mohammad Nabi,Catch,Quinton de Kock,Lungi Ngidi,2,3,0,0,66.67
