@@ -10,86 +10,86 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 1,England,New Zealand,1,Chris Woakes,Catch,Will Young,Mitchell Santner,11,12,1,0,91.67
 1,England,New Zealand,1,Adil Rashid,Not out,-,-,15,13,0,1,115.38
 1,England,New Zealand,1,Mark Wood,Not out,-,-,13,14,0,0,92.86
-2,Pakistan,Netherlands,1,Fakhar Zaman,Caught and Bowled,-,Logan van Beek,12,15,3,0,80.00
+2,Pakistan,Netherlands,1,Fakhar Zaman,Caught and Bowled,-,Logan van Beek,12,15,3,0,80.0
 2,Pakistan,Netherlands,1,Imam-ul-Haq,Catch,Aryan Dutt,Paul van Meekeren,15,19,2,0,78.95
 2,Pakistan,Netherlands,1,Babar Azam,Catch,Saqib Zulfiqar,Colin Ackermann,5,18,0,0,27.78
 2,Pakistan,Netherlands,1,Mohammad Rizwan,Bowled,-,Bas de Leede,68,75,8,0,90.67
 2,Pakistan,Netherlands,1,Saud Shakeel,Catch,Saqib Zulfiqar,Aryan Dutt,68,52,9,1,130.77
 2,Pakistan,Netherlands,1,Iftikhar Ahmed,Catch,Edwards,Bas de Leede,9,11,1,0,81.82
-2,Pakistan,Netherlands,1,Mohammad Nawaz,Run out,van Meekeren/Ackermann,-,39,43,4,0,90.70
+2,Pakistan,Netherlands,1,Mohammad Nawaz,Run out,van Meekeren/Ackermann,-,39,43,4,0,90.7
 2,Pakistan,Netherlands,1,Shadab Khan,Bowled,-,Bas de Leede,32,34,2,1,94.12
-2,Pakistan,Netherlands,1,Hasan Ali,lbw,-,Bas de Leede,0,1,0,0,0.00
+2,Pakistan,Netherlands,1,Hasan Ali,lbw,-,Bas de Leede,0,1,0,0,0.0
 2,Pakistan,Netherlands,1,Shaheen Afridi,Not out,-,-,13,12,2,0,108.33
 2,Pakistan,Netherlands,1,Haris Rauf,Stump,Edwards,Colin Ackermann,16,14,2,1,114.29
 3,Afghanistan,Bangladesh,1,Rahmanullah Gurbaz,Catch,Tanzid Hasan,Mustafizur Rahman,47,62,4,1,75.81
-3,Afghanistan,Bangladesh,1,Ibrahim Zadran,Catch,Tanzid Hasan,Shakib,22,25,3,1,88.00
-3,Afghanistan,Bangladesh,1,Rahmat Shah,Catch,Litton Das,Shakib,18,25,1,0,72.00
-3,Afghanistan,Bangladesh,1,Hashmatullah Shahidi (c),Catch,Towhid Hridoy,Mehidy Hasan Miraz,18,38,2,0,47.37
+3,Afghanistan,Bangladesh,1,Ibrahim Zadran,Catch,Tanzid Hasan,Shakib,22,25,3,1,88.0
+3,Afghanistan,Bangladesh,1,Rahmat Shah,Catch,Litton Das,Shakib,18,25,1,0,72.0
+3,Afghanistan,Bangladesh,1,Hashmatullah Shahidi,Catch,Towhid Hridoy,Mehidy Hasan Miraz,18,38,2,0,47.37
 3,Afghanistan,Bangladesh,1,Najibullah Zadran,Bowled,-,Shakib,5,13,0,0,38.46
-3,Afghanistan,Bangladesh,1,Mohammad Nabi,Bowled,-,Taskin Ahmed,6,12,0,0,50.00
-3,Afghanistan,Bangladesh,1,Azmatullah Omarzai,Bowled,-,Shoriful Islam,22,20,4,0,110.00
+3,Afghanistan,Bangladesh,1,Mohammad Nabi,Bowled,-,Taskin Ahmed,6,12,0,0,50.0
+3,Afghanistan,Bangladesh,1,Azmatullah Omarzai,Bowled,-,Shoriful Islam,22,20,4,0,110.0
 3,Afghanistan,Bangladesh,1,Rashid Khan,Bowled,-,Mehidy Hasan Miraz,9,16,1,0,56.25
-3,Afghanistan,Bangladesh,1,Mujeeb Ur Rahman,Bowled,-,Mehidy Hasan Miraz,1,4,0,0,25.00
-3,Afghanistan,Bangladesh,1,Naveen-ul-Haq,Catch,Towhid Hridoy,Shoriful Islam,0,6,0,0,0.00
-3,Afghanistan,Bangladesh,1,Fazalhaq Farooqi,Not out,-,-,0,3,0,0,0.00
+3,Afghanistan,Bangladesh,1,Mujeeb Ur Rahman,Bowled,-,Mehidy Hasan Miraz,1,4,0,0,25.0
+3,Afghanistan,Bangladesh,1,Naveen-ul-Haq,Catch,Towhid Hridoy,Shoriful Islam,0,6,0,0,0.0
+3,Afghanistan,Bangladesh,1,Fazalhaq Farooqi,Not out,-,-,0,3,0,0,0.0
 4,South Africa,Sri Lanka,1,Quinton de Kock,Catch,Dhananjaya de Silva,Matheesha Pathirana,100,84,12,3,119.05
-4,South Africa,Sri Lanka,1,Temba Bavuma,lbw,-,Dilshan Madushanka,8,5,2,0,160.00
+4,South Africa,Sri Lanka,1,Temba Bavuma,lbw,-,Dilshan Madushanka,8,5,2,0,160.0
 4,South Africa,Sri Lanka,1,Rassie van der Dussen,Catch,Sadeera Samarawickrama,Dunith Wellalage,108,110,13,2,98.18
-4,South Africa,Sri Lanka,1,Aiden Markram,Catch,Kasun Rajitha,Dilshan Madushanka,106,54,14,3,196.30
-4,South Africa,Sri Lanka,1,Heinrich Klaasen,Catch,Shanaka,Kasun Rajitha,32,20,1,3,160.00
+4,South Africa,Sri Lanka,1,Aiden Markram,Catch,Kasun Rajitha,Dilshan Madushanka,106,54,14,3,196.3
+4,South Africa,Sri Lanka,1,Heinrich Klaasen,Catch,Shanaka,Kasun Rajitha,32,20,1,3,160.0
 4,South Africa,Sri Lanka,1,David Miller,Not out,-,-,39,21,3,2,185.71
 4,South Africa,Sri Lanka,1,Marco Jansen,Not out,-,-,12,7,0,1,171.43
 5,Australia,India,1,David Warner,Caught and Bowled,-,Kuldeep Yadav,41,52,6,0,78.85
-5,Australia,India,1,Mitchell Marsh,Catch,Virat Kohli,Jasprit Bumrah,0,6,0,0,0.00
+5,Australia,India,1,Mitchell Marsh,Catch,Virat Kohli,Jasprit Bumrah,0,6,0,0,0.0
 5,Australia,India,1,Steven Smith,Bowled,-,Ravindra Jadeja,46,71,5,0,64.79
 5,Australia,India,1,Marnus Labuschagne,Catch,Rahul,Ravindra Jadeja,27,41,1,0,65.85
-5,Australia,India,1,Glenn Maxwell,Bowled,-,Kuldeep Yadav,15,25,1,0,60.00
-5,Australia,India,1,Alex Carey,lbw,-,Ravindra Jadeja,0,2,0,0,0.00
-5,Australia,India,1,Cameron Green,Catch,Hardik Pandya,Ravichandran Ashwin,8,20,0,0,40.00
-5,Australia,India,1,Pat Cummins,Catch,Shreyas Iyer,Jasprit Bumrah,15,24,1,1,62.50
-5,Australia,India,1,Mitchell Starc,Catch,Shreyas Iyer,Mohammed Siraj,28,35,2,1,80.00
-5,Australia,India,1,Adam Zampa,Catch,Virat Kohli,Hardik Pandya,6,20,0,0,30.00
-5,Australia,India,1,Josh Hazlewood,Not out,-,-,1,1,0,0,100.00
-6,New Zealand,Netherlands,1,Devon Conway,Catch,Bas de Leede,Roelof van der Merwe,32,40,5,1,80.00
-6,New Zealand,Netherlands,1,Will Young,Catch,Bas de Leede,Paul van Meekeren,70,80,7,2,87.50
-6,New Zealand,Netherlands,1,Rachin Ravindra,Catch,Edwards,Roelof van der Merwe,51,51,3,1,100.00
+5,Australia,India,1,Glenn Maxwell,Bowled,-,Kuldeep Yadav,15,25,1,0,60.0
+5,Australia,India,1,Alex Carey,lbw,-,Ravindra Jadeja,0,2,0,0,0.0
+5,Australia,India,1,Cameron Green,Catch,Hardik Pandya,Ravichandran Ashwin,8,20,0,0,40.0
+5,Australia,India,1,Pat Cummins,Catch,Shreyas Iyer,Jasprit Bumrah,15,24,1,1,62.5
+5,Australia,India,1,Mitchell Starc,Catch,Shreyas Iyer,Mohammed Siraj,28,35,2,1,80.0
+5,Australia,India,1,Adam Zampa,Catch,Virat Kohli,Hardik Pandya,6,20,0,0,30.0
+5,Australia,India,1,Josh Hazlewood,Not out,-,-,1,1,0,0,100.0
+6,New Zealand,Netherlands,1,Devon Conway,Catch,Bas de Leede,Roelof van der Merwe,32,40,5,1,80.0
+6,New Zealand,Netherlands,1,Will Young,Catch,Bas de Leede,Paul van Meekeren,70,80,7,2,87.5
+6,New Zealand,Netherlands,1,Rachin Ravindra,Catch,Edwards,Roelof van der Merwe,51,51,3,1,100.0
 6,New Zealand,Netherlands,1,Daryl Mitchell,Bowled,-,Paul van Meekeren,48,47,5,2,102.13
 6,New Zealand,Netherlands,1,Tom Latham,Stump,Edwards,Aryan Dutt,53,46,6,1,115.22
-6,New Zealand,Netherlands,1,Glenn Phillips,Catch,Edwards,Bas de Leede,4,4,1,0,100.00
+6,New Zealand,Netherlands,1,Glenn Phillips,Catch,Edwards,Bas de Leede,4,4,1,0,100.0
 6,New Zealand,Netherlands,1,Mark Chapman,Catch,Roelof van der Merwe,Aryan Dutt,5,13,0,0,38.46
 6,New Zealand,Netherlands,1,Mitchell Santner,Not out,-,-,36,17,3,2,211.76
-6,New Zealand,Netherlands,1,Matt Henry,Not out,-,-,10,4,0,1,250.00
+6,New Zealand,Netherlands,1,Matt Henry,Not out,-,-,10,4,0,1,250.0
 7,England,Bangladesh,1,Jonny Bairstow,Bowled,-,Shakib,52,59,8,0,88.14
 7,England,Bangladesh,1,Dawid Malan,Bowled,-,Mahedi Hasan,140,107,16,5,130.84
 7,England,Bangladesh,1,Joe Root,Catch,Mushfiqur Rahim,Shoriful Islam,82,68,8,1,120.59
-7,England,Bangladesh,1,Jos Buttler,Bowled,-,Shoriful Islam,20,10,1,1,200.00
+7,England,Bangladesh,1,Jos Buttler,Bowled,-,Shoriful Islam,20,10,1,1,200.0
 7,England,Bangladesh,1,Harry Brook,Catch,Litton Das,Mahedi Hasan,20,15,3,0,133.33
-7,England,Bangladesh,1,Liam Livingstone,Bowled,-,Shoriful Islam,0,1,0,0,0.00
+7,England,Bangladesh,1,Liam Livingstone,Bowled,-,Shoriful Islam,0,1,0,0,0.0
 7,England,Bangladesh,1,Sam Curran,Catch,Najmul Hossain Shanto,Mahedi Hasan,11,15,1,0,73.33
 7,England,Bangladesh,1,Chris Woakes,Catch,Mahedi Hasan,Taskin Ahmed,14,11,2,0,127.27
 7,England,Bangladesh,1,Adil Rashid,Catch,Najmul Hossain Shanto,Mahedi Hasan,11,7,1,0,157.14
-7,England,Bangladesh,1,Mark Wood,Not out,-,-,6,5,1,0,120.00
-7,England,Bangladesh,1,Reece Topley,Not out,-,-,1,2,0,0,50.00
+7,England,Bangladesh,1,Mark Wood,Not out,-,-,6,5,1,0,120.0
+7,England,Bangladesh,1,Reece Topley,Not out,-,-,1,2,0,0,50.0
 8,Sri Lanka,Pakistan,1,Pathum Nissanka,Catch,Shafique,Shadab Khan,51,61,7,1,83.61
-8,Sri Lanka,Pakistan,1,Kusal Perera,Catch,Rizwan,Hasan Ali,0,4,0,0,0.00
+8,Sri Lanka,Pakistan,1,Kusal Perera,Catch,Rizwan,Hasan Ali,0,4,0,0,0.0
 8,Sri Lanka,Pakistan,1,Kusal Mendis,Catch,Imam-ul-Haq,Hasan Ali,122,77,14,6,158.44
 8,Sri Lanka,Pakistan,1,Sadeera Samarawickrama,Catch,Rizwan,Hasan Ali,108,89,11,2,121.35
 8,Sri Lanka,Pakistan,1,Charith Asalanka,Catch,Rizwan,Hasan Ali,1,3,0,0,33.33
 8,Sri Lanka,Pakistan,1,Dhananjaya de Silva,Catch,Shaheen Afridi,Mohammad Nawaz,25,34,3,0,73.53
 8,Sri Lanka,Pakistan,1,Dasun Shanaka,Catch,Babar Azam,Shaheen Afridi,12,18,0,0,66.67
-8,Sri Lanka,Pakistan,1,Dunith Wellalage,Catch,Shafique,Haris Rauf,10,8,1,0,125.00
-8,Sri Lanka,Pakistan,1,Maheesh Theekshana,Bowled,-,Haris Rauf,0,4,0,0,0.00
+8,Sri Lanka,Pakistan,1,Dunith Wellalage,Catch,Shafique,Haris Rauf,10,8,1,0,125.0
+8,Sri Lanka,Pakistan,1,Maheesh Theekshana,Bowled,-,Haris Rauf,0,4,0,0,0.0
 8,Sri Lanka,Pakistan,1,Matheesha Pathirana,Not out,-,-,1,3,0,0,33.33
-9,Afghanistan,India,1,Rahmanullah Gurbaz,Catch,Thakur,Hardik Pandya,21,28,3,1,75.00
+9,Afghanistan,India,1,Rahmanullah Gurbaz,Catch,Thakur,Hardik Pandya,21,28,3,1,75.0
 9,Afghanistan,India,1,Ibrahim Zadran,Catch,Rahul,Jasprit Bumrah,22,28,4,0,78.57
 9,Afghanistan,India,1,Rahmat Shah,lbw,-,Thakur,16,22,3,0,72.73
-9,Afghanistan,India,1,Hashmatullah Shahidi (c),lbw,-,Kuldeep Yadav,80,88,8,1,90.91
+9,Afghanistan,India,1,Hashmatullah Shahidi,lbw,-,Kuldeep Yadav,80,88,8,1,90.91
 9,Afghanistan,India,1,Azmatullah Omarzai,Bowled,-,Hardik Pandya,62,69,2,4,89.86
 9,Afghanistan,India,1,Mohammad Nabi,lbw,-,Jasprit Bumrah,19,27,1,0,70.37
-9,Afghanistan,India,1,Najibullah Zadran,Catch,Virat Kohli,Jasprit Bumrah,2,8,0,0,25.00
+9,Afghanistan,India,1,Najibullah Zadran,Catch,Virat Kohli,Jasprit Bumrah,2,8,0,0,25.0
 9,Afghanistan,India,1,Rashid Khan,Catch,Kuldeep Yadav,Jasprit Bumrah,16,12,1,1,133.33
 9,Afghanistan,India,1,Mujeeb Ur Rahman,Not out,-,-,10,12,2,0,83.33
-9,Afghanistan,India,1,Naveen-ul-Haq,Not out,-,-,9,8,1,0,112.50
+9,Afghanistan,India,1,Naveen-ul-Haq,Not out,-,-,9,8,1,0,112.5
 10,South Africa,Australia,1,Quinton de Kock,Bowled,-,Glenn Maxwell,109,106,8,5,102.83
 10,South Africa,Australia,1,Temba Bavuma,Catch,David Warner,Glenn Maxwell,35,55,2,0,63.64
 10,South Africa,Australia,1,Rassie van der Dussen,Catch,(sub)Abbott,Adam Zampa,26,30,2,0,86.67
@@ -97,58 +97,58 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 10,South Africa,Australia,1,Heinrich Klaasen,Catch,Josh Inglis,Josh Hazlewood,29,27,3,0,107.41
 10,South Africa,Australia,1,David Miller,Bowled,-,Mitchell Starc,17,13,1,1,130.77
 10,South Africa,Australia,1,Marco Jansen,Catch,David Warner,Mitchell Starc,26,22,3,1,118.18
-10,South Africa,Australia,1,Kagiso Rabada,Not out,-,-,0,1,0,0,0.00
-10,South Africa,Australia,1,Keshav Maharaj,Not out,-,-,0,2,0,0,0.00
-11,Bangladesh,New Zealand,1,Litton Das,Catch,Matt Henry,Trent Boult,0,1,0,0,0.00
+10,South Africa,Australia,1,Kagiso Rabada,Not out,-,-,0,1,0,0,0.0
+10,South Africa,Australia,1,Keshav Maharaj,Not out,-,-,0,2,0,0,0.0
+11,Bangladesh,New Zealand,1,Litton Das,Catch,Matt Henry,Trent Boult,0,1,0,0,0.0
 11,Bangladesh,New Zealand,1,Tanzid Hasan,Catch,Devon Conway,Lockie Ferguson,16,17,4,0,94.12
 11,Bangladesh,New Zealand,1,Mehidy Hasan Miraz,Catch,Matt Henry,Lockie Ferguson,30,46,4,0,65.22
-11,Bangladesh,New Zealand,1,Najmul Hossain Shanto,Catch,Devon Conway,Glenn Phillips,7,8,1,0,87.50
+11,Bangladesh,New Zealand,1,Najmul Hossain Shanto,Catch,Devon Conway,Glenn Phillips,7,8,1,0,87.5
 11,Bangladesh,New Zealand,1,Shakib Al Hasan,Catch,Latham,Lockie Ferguson,40,51,3,2,78.43
-11,Bangladesh,New Zealand,1,Mushfiqur Rahim,Bowled,-,Matt Henry,66,75,6,2,88.00
-11,Bangladesh,New Zealand,1,Towhid Hridoy,Catch,Mitchell Santner,Trent Boult,13,25,0,0,52.00
+11,Bangladesh,New Zealand,1,Mushfiqur Rahim,Bowled,-,Matt Henry,66,75,6,2,88.0
+11,Bangladesh,New Zealand,1,Towhid Hridoy,Catch,Mitchell Santner,Trent Boult,13,25,0,0,52.0
 11,Bangladesh,New Zealand,1,Mahmudullah,Not out,-,-,41,49,2,2,83.67
 11,Bangladesh,New Zealand,1,Taskin Ahmed,Catch,Daryl Mitchell,Mitchell Santner,17,19,0,2,89.47
-11,Bangladesh,New Zealand,1,Mustafizur Rahman,Catch,Latham,Matt Henry,4,10,0,0,40.00
+11,Bangladesh,New Zealand,1,Mustafizur Rahman,Catch,Latham,Matt Henry,4,10,0,0,40.0
 11,Bangladesh,New Zealand,1,Shoriful Islam,Not out,-,-,2,3,0,0,66.67
 12,Pakistan,India,1,Shafique,lbw,-,Mohammed Siraj,20,24,3,0,83.33
 12,Pakistan,India,1,Imam-ul-Haq,Catch,Rahul,Hardik Pandya,36,38,6,0,94.74
 12,Pakistan,India,1,Babar Azam,Bowled,-,Mohammed Siraj,50,58,7,0,86.21
 12,Pakistan,India,1,Mohammad Rizwan,Bowled,-,Jasprit Bumrah,49,69,7,0,71.01
-12,Pakistan,India,1,Saud Shakeel,lbw,-,Kuldeep Yadav,6,10,0,0,60.00
-12,Pakistan,India,1,Iftikhar Ahmed,Bowled,-,Kuldeep Yadav,4,4,1,0,100.00
-12,Pakistan,India,1,Shadab Khan,Bowled,-,Jasprit Bumrah,2,5,0,0,40.00
+12,Pakistan,India,1,Saud Shakeel,lbw,-,Kuldeep Yadav,6,10,0,0,60.0
+12,Pakistan,India,1,Iftikhar Ahmed,Bowled,-,Kuldeep Yadav,4,4,1,0,100.0
+12,Pakistan,India,1,Shadab Khan,Bowled,-,Jasprit Bumrah,2,5,0,0,40.0
 12,Pakistan,India,1,Mohammad Nawaz,Catch,Jasprit Bumrah,Hardik Pandya,4,14,0,0,28.57
 12,Pakistan,India,1,Hasan Ali,Catch,Shubman Gill,Ravindra Jadeja,12,19,2,0,63.16
-12,Pakistan,India,1,Shaheen Afridi,Not out,-,-,2,10,0,0,20.00
+12,Pakistan,India,1,Shaheen Afridi,Not out,-,-,2,10,0,0,20.0
 12,Pakistan,India,1,Haris Rauf,lbw,-,Ravindra Jadeja,2,6,0,0,33.33
 13,Afghanistan,England,1,Gurbaz,Run out,(sub)Willey/Jos Buttler,-,80,57,8,4,140.35
 13,Afghanistan,England,1,Ibrahim Zadran,Catch,Joe Root,Adil Rashid,28,48,3,0,58.33
-13,Afghanistan,England,1,Rahmat Shah,Stump,Jos Buttler,Adil Rashid,3,8,0,0,37.50
-13,Afghanistan,England,1,Hashmatullah Shahidi (c),Bowled,-,Joe Root,14,36,0,0,38.89
+13,Afghanistan,England,1,Rahmat Shah,Stump,Jos Buttler,Adil Rashid,3,8,0,0,37.5
+13,Afghanistan,England,1,Hashmatullah Shahidi,Bowled,-,Joe Root,14,36,0,0,38.89
 13,Afghanistan,England,1,Azmatullah Omarzai,Catch,Chris Woakes,Liam Livingstone,19,24,1,1,79.17
 13,Afghanistan,England,1,Ikram Alikhil,Catch,Sam Curran,Reece Topley,58,66,3,2,87.88
-13,Afghanistan,England,1,Mohammad Nabi,Catch,Joe Root,Mark Wood,9,15,1,0,60.00
+13,Afghanistan,England,1,Mohammad Nabi,Catch,Joe Root,Mark Wood,9,15,1,0,60.0
 13,Afghanistan,England,1,Rashid Khan,Catch,Joe Root,Adil Rashid,23,22,3,0,104.55
-13,Afghanistan,England,1,Mujeeb Ur Rahman,Catch,Joe Root,Mark Wood,28,16,3,1,175.00
+13,Afghanistan,England,1,Mujeeb Ur Rahman,Catch,Joe Root,Mark Wood,28,16,3,1,175.0
 13,Afghanistan,England,1,Naveen-ul-Haq,Run out,Jos Buttler,-,5,6,1,0,83.33
-13,Afghanistan,England,1,Fazalhaq Farooqi,Not out,-,-,2,4,0,0,50.00
+13,Afghanistan,England,1,Fazalhaq Farooqi,Not out,-,-,2,4,0,0,50.0
 14,Sri Lanka,Australia,1,Pathum Nissanka,Catch,David Warner,Cummins,61,67,8,0,91.04
 14,Sri Lanka,Australia,1,Kusal Perera,Bowled,-,Cummins,78,82,12,0,95.12
 14,Sri Lanka,Australia,1,Kusal Mendis,Catch,David Warner,Adam Zampa,9,13,0,0,69.23
-14,Sri Lanka,Australia,1,Sadeera Samarawickrama,lbw,-,Adam Zampa,8,8,1,0,100.00
-14,Sri Lanka,Australia,1,Charith Asalanka,Catch,Marnus Labuschagne,Glenn Maxwell,25,39,0,1,64.10
+14,Sri Lanka,Australia,1,Sadeera Samarawickrama,lbw,-,Adam Zampa,8,8,1,0,100.0
+14,Sri Lanka,Australia,1,Charith Asalanka,Catch,Marnus Labuschagne,Glenn Maxwell,25,39,0,1,64.1
 14,Sri Lanka,Australia,1,Dhananjaya de Silva,Bowled,-,Mitchell Starc,7,13,1,0,53.85
 14,Sri Lanka,Australia,1,Dunith Wellalage,Run out,Cummins,-,2,9,0,0,22.22
 14,Sri Lanka,Australia,1,Dimuth Karunaratne,lbw,-,Adam Zampa,2,11,0,0,18.18
-14,Sri Lanka,Australia,1,Maheesh Theekshana,lbw,-,Adam Zampa,0,5,0,0,0.00
-14,Sri Lanka,Australia,1,Lahiru Kumara,Bowled,-,Mitchell Starc,4,8,1,0,50.00
-14,Sri Lanka,Australia,1,Dilshan Madushanka,Not out,-,-,0,6,0,0,0.00
-15,Netherlands,South Africa,1,Vikramjit Singh,Catch,Heinrich Klaasen,Kagiso Rabada,2,16,0,0,12.50
-15,Netherlands,South Africa,1,Max ODowd,Catch,Quinton de Kock,Marco Jansen,18,25,4,0,72.00
-15,Netherlands,South Africa,1,Colin Ackermann,Bowled,-,Gerald Coetzee,13,25,1,0,52.00
+14,Sri Lanka,Australia,1,Maheesh Theekshana,lbw,-,Adam Zampa,0,5,0,0,0.0
+14,Sri Lanka,Australia,1,Lahiru Kumara,Bowled,-,Mitchell Starc,4,8,1,0,50.0
+14,Sri Lanka,Australia,1,Dilshan Madushanka,Not out,-,-,0,6,0,0,0.0
+15,Netherlands,South Africa,1,Vikramjit Singh,Catch,Heinrich Klaasen,Kagiso Rabada,2,16,0,0,12.5
+15,Netherlands,South Africa,1,Max ODowd,Catch,Quinton de Kock,Marco Jansen,18,25,4,0,72.0
+15,Netherlands,South Africa,1,Colin Ackermann,Bowled,-,Gerald Coetzee,13,25,1,0,52.0
 15,Netherlands,South Africa,1,Bas de Leede,lbw,-,Kagiso Rabada,2,7,0,0,28.57
 15,Netherlands,South Africa,1,Sybrand Engelbrecht,Catch,Marco Jansen,Lungi Ngidi,19,37,1,1,51.35
-15,Netherlands,South Africa,1,Teja Nidamanuru,lbw,-,Marco Jansen,20,25,3,0,80.00
+15,Netherlands,South Africa,1,Teja Nidamanuru,lbw,-,Marco Jansen,20,25,3,0,80.0
 15,Netherlands,South Africa,1,Scott Edwards,Not out,-,-,78,69,10,1,113.04
 15,Netherlands,South Africa,1,Logan van Beek,Stump,Quinton de Kock,Keshav Maharaj,10,27,1,0,37.04
 15,Netherlands,South Africa,1,Roelof van der Merwe,Catch,Quinton de Kock,Lungi Ngidi,29,19,3,1,152.63
@@ -160,8 +160,8 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 16,New Zealand,Afghanistan,1,Tom Latham,Bowled,-,Naveen-ul-Haq,68,74,3,2,91.89
 16,New Zealand,Afghanistan,1,Glenn Phillips,Catch,Rashid Khan,Naveen-ul-Haq,71,80,4,4,88.75
 16,New Zealand,Afghanistan,1,Mark Chapman,Not out,-,-,25,12,2,1,208.33
-16,New Zealand,Afghanistan,1,Mitchell Santner,Not out,-,-,7,5,1,0,140.00
-17,Bangladesh,India,1,Tanzid Hasan,lbw,-,Kuldeep Yadav,51,43,5,3,118.60
+16,New Zealand,Afghanistan,1,Mitchell Santner,Not out,-,-,7,5,1,0,140.0
+17,Bangladesh,India,1,Tanzid Hasan,lbw,-,Kuldeep Yadav,51,43,5,3,118.6
 17,Bangladesh,India,1,Litton Das,Catch,Shubman Gill,Ravindra Jadeja,66,82,7,0,80.49
 17,Bangladesh,India,1,Najmul Hossain Shanto,lbw,-,Ravindra Jadeja,8,17,0,0,47.06
 17,Bangladesh,India,1,Mehidy Hasan Miraz,Catch,Rahul,Mohammed Siraj,3,13,0,0,23.08
@@ -173,62 +173,62 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 17,Bangladesh,India,1,Shoriful Islam,Not out,-,-,7,3,0,1,233.33
 18,Australia,Pakistan,1,David Warner,Catch,(sub)Shadab Khan,Haris Rauf,163,124,14,9,131.45
 18,Australia,Pakistan,1,Mitchell Marsh,Catch,Usama Mir,Shaheen Afridi,121,108,10,9,112.04
-18,Australia,Pakistan,1,Glenn Maxwell,Catch,Babar Azam,Shaheen Afridi,0,1,0,0,0.00
+18,Australia,Pakistan,1,Glenn Maxwell,Catch,Babar Azam,Shaheen Afridi,0,1,0,0,0.0
 18,Australia,Pakistan,1,Steven Smith,Caught and Bowled,-,Usama Mir,7,9,0,0,77.78
-18,Australia,Pakistan,1,Marcus Stoinis,lbw,-,Shaheen Afridi,21,24,1,1,87.50
+18,Australia,Pakistan,1,Marcus Stoinis,lbw,-,Shaheen Afridi,21,24,1,1,87.5
 18,Australia,Pakistan,1,Josh Inglis,Catch,Rizwan,Haris Rauf,13,9,3,0,144.44
 18,Australia,Pakistan,1,Marnus Labuschagne,Catch,(sub)Shadab Khan,Haris Rauf,8,12,1,0,66.67
-18,Australia,Pakistan,1,Pat Cummins,Not out,-,-,6,8,0,0,75.00
+18,Australia,Pakistan,1,Pat Cummins,Not out,-,-,6,8,0,0,75.0
 18,Australia,Pakistan,1,Mitchell Starc,Catch,Saud Shakeel,Shaheen Afridi,2,3,0,0,66.67
-18,Australia,Pakistan,1,Josh Hazlewood,Catch,Rizwan,Shaheen Afridi,0,1,0,0,0.00
-18,Australia,Pakistan,1,Adam Zampa,Not out,-,-,1,1,0,0,100.00
+18,Australia,Pakistan,1,Josh Hazlewood,Catch,Rizwan,Shaheen Afridi,0,1,0,0,0.0
+18,Australia,Pakistan,1,Adam Zampa,Not out,-,-,1,1,0,0,100.0
 19,Netherlands,Sri Lanka,1,Vikramjit Singh,lbw,-,Kasun Rajitha,4,13,1,0,30.77
 19,Netherlands,Sri Lanka,1,Max ODowd,Bowled,-,Kasun Rajitha,16,27,1,1,59.26
 19,Netherlands,Sri Lanka,1,Colin Ackermann,Catch,Kusal Mendis,Kasun Rajitha,29,31,5,0,93.55
 19,Netherlands,Sri Lanka,1,Bas de Leede,Catch,Kusal Perera,Dilshan Madushanka,6,21,0,0,28.57
 19,Netherlands,Sri Lanka,1,Teja Nidamanuru,lbw,-,Dilshan Madushanka,9,16,0,0,56.25
-19,Netherlands,Sri Lanka,1,Scott Edwards,Bowled,-,Maheesh Theekshana,16,16,0,0,100.00
+19,Netherlands,Sri Lanka,1,Scott Edwards,Bowled,-,Maheesh Theekshana,16,16,0,0,100.0
 19,Netherlands,Sri Lanka,1,Sybrand Engelbrecht,Bowled,-,Dilshan Madushanka,70,82,4,1,85.37
 19,Netherlands,Sri Lanka,1,Logan van Beek,Catch,Charith Asalanka,Kasun Rajitha,59,75,1,1,78.67
-19,Netherlands,Sri Lanka,1,Roelof van der Merwe,Catch,Kusal Mendis,Dilshan Madushanka,7,7,0,0,100.00
-19,Netherlands,Sri Lanka,1,Aryan Dutt,Not out,-,-,9,6,1,0,150.00
-19,Netherlands,Sri Lanka,1,Paul van Meekeren,Run out,Kusal Mendis/Dilshan Madushanka,-,4,5,0,0,80.00
-20,South Africa,England,1,Quinton de Kock,Catch,Jos Buttler,Reece Topley,4,2,1,0,200.00
+19,Netherlands,Sri Lanka,1,Roelof van der Merwe,Catch,Kusal Mendis,Dilshan Madushanka,7,7,0,0,100.0
+19,Netherlands,Sri Lanka,1,Aryan Dutt,Not out,-,-,9,6,1,0,150.0
+19,Netherlands,Sri Lanka,1,Paul van Meekeren,Run out,Kusal Mendis/Dilshan Madushanka,-,4,5,0,0,80.0
+20,South Africa,England,1,Quinton de Kock,Catch,Jos Buttler,Reece Topley,4,2,1,0,200.0
 20,South Africa,England,1,Reeza Hendricks,Bowled,-,Adil Rashid,85,75,9,3,113.33
 20,South Africa,England,1,Rassie van der Dussen,Catch,Jonny Bairstow,Adil Rashid,60,61,8,0,98.36
 20,South Africa,England,1,Aiden Markram,Catch,Jonny Bairstow,Reece Topley,42,44,4,0,95.45
 20,South Africa,England,1,Heinrich Klaasen,Bowled,-,Gus Atkinson,109,67,12,4,162.69
 20,South Africa,England,1,David Miller,Catch,Ben Stokes,Reece Topley,5,6,1,0,83.33
 20,South Africa,England,1,Marco Jansen,Not out,-,-,75,42,3,6,178.57
-20,South Africa,England,1,Gerald Coetzee,Catch,(sub)Livingstone,Gus Atkinson,3,3,0,0,100.00
-20,South Africa,England,1,Keshav Maharaj,Not out,-,-,1,1,0,0,100.00
-21,New Zealand,India,1,Devon Conway,Catch,Shreyas Iyer,Mohammed Siraj,0,9,0,0,0.00
+20,South Africa,England,1,Gerald Coetzee,Catch,(sub)Livingstone,Gus Atkinson,3,3,0,0,100.0
+20,South Africa,England,1,Keshav Maharaj,Not out,-,-,1,1,0,0,100.0
+21,New Zealand,India,1,Devon Conway,Catch,Shreyas Iyer,Mohammed Siraj,0,9,0,0,0.0
 21,New Zealand,India,1,Will Young,Bowled,-,Mohammed Shami,17,27,3,0,62.96
 21,New Zealand,India,1,Rachin Ravindra,Catch,Shubman Gill,Mohammed Shami,75,87,6,1,86.21
 21,New Zealand,India,1,Daryl Mitchell,Catch,Virat Kohli,Mohammed Shami,130,127,9,5,102.36
 21,New Zealand,India,1,Tom Latham,lbw,-,Kuldeep Yadav,5,7,1,0,71.43
 21,New Zealand,India,1,Glenn Phillips,Catch,Rohit,Kuldeep Yadav,23,26,0,1,88.46
-21,New Zealand,India,1,Mark Chapman,Catch,Virat Kohli,Jasprit Bumrah,6,8,0,0,75.00
-21,New Zealand,India,1,Mitchell Santner,Bowled,-,Mohammed Shami,1,2,0,0,50.00
-21,New Zealand,India,1,Matt Henry,Bowled,-,Mohammed Shami,0,1,0,0,0.00
-21,New Zealand,India,1,Lockie Ferguson,Run out,Rahul,-,1,5,0,0,20.00
-21,New Zealand,India,1,Trent Boult,Not out,-,-,0,1,0,0,0.00
+21,New Zealand,India,1,Mark Chapman,Catch,Virat Kohli,Jasprit Bumrah,6,8,0,0,75.0
+21,New Zealand,India,1,Mitchell Santner,Bowled,-,Mohammed Shami,1,2,0,0,50.0
+21,New Zealand,India,1,Matt Henry,Bowled,-,Mohammed Shami,0,1,0,0,0.0
+21,New Zealand,India,1,Lockie Ferguson,Run out,Rahul,-,1,5,0,0,20.0
+21,New Zealand,India,1,Trent Boult,Not out,-,-,0,1,0,0,0.0
 22,Pakistan,Afghanistan,1,Shafique,lbw,-,Noor Ahmad,58,75,5,2,77.33
 22,Pakistan,Afghanistan,1,Imam-ul-Haq,Catch,Naveen-ul-Haq,Azmatullah Omarzai,17,22,2,0,77.27
 22,Pakistan,Afghanistan,1,Babar Azam,Catch,Mohammad Nabi,Noor Ahmad,74,92,4,1,80.43
-22,Pakistan,Afghanistan,1,Mohammad Rizwan,Catch,Mujeeb Ur Rahman,Noor Ahmad,8,10,0,1,80.00
+22,Pakistan,Afghanistan,1,Mohammad Rizwan,Catch,Mujeeb Ur Rahman,Noor Ahmad,8,10,0,1,80.0
 22,Pakistan,Afghanistan,1,Saud Shakeel,Catch,Rashid Khan,Mohammad Nabi,25,34,3,0,73.53
 22,Pakistan,Afghanistan,1,Shadab Khan,Catch,Mohammad Nabi,Naveen-ul-Haq,40,38,1,1,105.26
 22,Pakistan,Afghanistan,1,Iftikhar Ahmed,Catch,Azmatullah Omarzai,Naveen-ul-Haq,40,27,2,4,148.15
-22,Pakistan,Afghanistan,1,Shaheen Afridi,Not out,-,-,3,3,0,0,100.00
+22,Pakistan,Afghanistan,1,Shaheen Afridi,Not out,-,-,3,3,0,0,100.0
 23,South Africa,Bangladesh,1,Quinton de Kock,Catch,Nasum Ahmed,Hasan Mahmud,174,140,15,7,124.29
 23,South Africa,Bangladesh,1,Reeza Hendricks,Bowled,-,Shoriful Islam,12,19,1,0,63.16
 23,South Africa,Bangladesh,1,Rassie van der Dussen,lbw,-,Mehidy Hasan Miraz,1,7,0,0,14.29
 23,South Africa,Bangladesh,1,Aiden Markram,Catch,Litton Das,Shakib,60,69,7,0,86.96
 23,South Africa,Bangladesh,1,Heinrich Klaasen,Catch,Mahmudullah,Hasan Mahmud,90,49,2,8,183.67
 23,South Africa,Bangladesh,1,David Miller,Not out,-,-,34,15,1,4,226.67
-23,South Africa,Bangladesh,1,Marco Jansen,Not out,-,-,1,1,0,0,100.00
-24,Australia,Netherlands,1,Mitchell Marsh,Catch,Colin Ackermann,Logan van Beek,9,15,2,0,60.00
+23,South Africa,Bangladesh,1,Marco Jansen,Not out,-,-,1,1,0,0,100.0
+24,Australia,Netherlands,1,Mitchell Marsh,Catch,Colin Ackermann,Logan van Beek,9,15,2,0,60.0
 24,Australia,Netherlands,1,David Warner,Catch,Aryan Dutt,Logan van Beek,104,93,11,3,111.83
 24,Australia,Netherlands,1,Steven Smith,Catch,Roelof van der Merwe,Aryan Dutt,71,68,9,1,104.41
 24,Australia,Netherlands,1,Marnus Labuschagne,Catch,Aryan Dutt,Bas de Leede,62,47,7,2,131.91
@@ -236,16 +236,16 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 24,Australia,Netherlands,1,Glenn Maxwell,Catch,Sybrand Engelbrecht,Logan van Beek,106,44,9,8,240.91
 24,Australia,Netherlands,1,Cameron Green,Run out,Sybrand Engelbrecht,-,8,11,1,0,72.73
 24,Australia,Netherlands,1,Pat Cummins,Not out,-,-,12,9,2,0,133.33
-24,Australia,Netherlands,1,Mitchell Starc,Catch,Colin Ackermann,Logan van Beek,0,1,0,0,0.00
-24,Australia,Netherlands,1,Adam Zampa,Not out,-,-,1,1,0,0,100.00
+24,Australia,Netherlands,1,Mitchell Starc,Catch,Colin Ackermann,Logan van Beek,0,1,0,0,0.0
+24,Australia,Netherlands,1,Adam Zampa,Not out,-,-,1,1,0,0,100.0
 25,England,Sri Lanka,1,Jonny Bairstow,Catch,Dhananjaya de Silva,Kasun Rajitha,30,31,3,0,96.77
-25,England,Sri Lanka,1,Dawid Malan,Catch,Kusal Mendis,Angelo Mathews,28,25,6,0,112.00
-25,England,Sri Lanka,1,Joe Root,Run out,Mathews/Kusal Mendis,-,3,10,0,0,30.00
-25,England,Sri Lanka,1,Ben Stokes,Catch,(sub)Dushan Hemantha,Lahiru Kumara,43,73,6,0,58.90
+25,England,Sri Lanka,1,Dawid Malan,Catch,Kusal Mendis,Angelo Mathews,28,25,6,0,112.0
+25,England,Sri Lanka,1,Joe Root,Run out,Mathews/Kusal Mendis,-,3,10,0,0,30.0
+25,England,Sri Lanka,1,Ben Stokes,Catch,(sub)Dushan Hemantha,Lahiru Kumara,43,73,6,0,58.9
 25,England,Sri Lanka,1,Jos Buttler,Catch,Kusal Mendis,Lahiru Kumara,8,6,1,0,133.33
 25,England,Sri Lanka,1,Liam Livingstone,lbw,-,Lahiru Kumara,1,6,0,0,16.67
-25,England,Sri Lanka,1,Moeen Ali,Catch,Kusal Perera,Angelo Mathews,15,15,1,0,100.00
-25,England,Sri Lanka,1,Chris Woakes,Catch,Sadeera Samarawickrama,Kasun Rajitha,0,4,0,0,0.00
+25,England,Sri Lanka,1,Moeen Ali,Catch,Kusal Perera,Angelo Mathews,15,15,1,0,100.0
+25,England,Sri Lanka,1,Chris Woakes,Catch,Sadeera Samarawickrama,Kasun Rajitha,0,4,0,0,0.0
 25,England,Sri Lanka,1,David Willey,Not out,-,-,14,17,1,1,82.35
 25,England,Sri Lanka,1,Adil Rashid,Run out,Kusal Mendis,-,2,7,0,0,28.57
 25,England,Sri Lanka,1,Mark Wood,Stump,Kusal Mendis,Maheesh Theekshana,5,6,1,0,83.33
@@ -254,12 +254,12 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 26,Pakistan,South Africa,1,Babar Azam,Catch,Quinton de Kock,Tabraiz Shamsi,50,65,4,1,76.92
 26,Pakistan,South Africa,1,Mohammad Rizwan,Catch,Quinton de Kock,Gerald Coetzee,31,27,4,1,114.81
 26,Pakistan,South Africa,1,Iftikhar Ahmed,Catch,Heinrich Klaasen,Tabraiz Shamsi,21,31,1,1,67.74
-26,Pakistan,South Africa,1,Saud Shakeel,Catch,Quinton de Kock,Tabraiz Shamsi,52,52,7,0,100.00
+26,Pakistan,South Africa,1,Saud Shakeel,Catch,Quinton de Kock,Tabraiz Shamsi,52,52,7,0,100.0
 26,Pakistan,South Africa,1,Shadab Khan,Catch,Keshav Maharaj,Gerald Coetzee,43,36,3,2,119.44
-26,Pakistan,South Africa,1,Mohammad Nawaz,Catch,David Miller,Marco Jansen,24,24,1,2,100.00
-26,Pakistan,South Africa,1,Shaheen Afridi,Catch,Keshav Maharaj,Tabraiz Shamsi,2,4,0,0,50.00
+26,Pakistan,South Africa,1,Mohammad Nawaz,Catch,David Miller,Marco Jansen,24,24,1,2,100.0
+26,Pakistan,South Africa,1,Shaheen Afridi,Catch,Keshav Maharaj,Tabraiz Shamsi,2,4,0,0,50.0
 26,Pakistan,South Africa,1,Mohammad Wasim Jr,Catch,Quinton de Kock,Lungi Ngidi,7,9,0,1,77.78
-26,Pakistan,South Africa,1,Haris Rauf,Not out,-,-,0,1,0,0,0.00
+26,Pakistan,South Africa,1,Haris Rauf,Not out,-,-,0,1,0,0,0.0
 27,Australia,New Zealand,1,David Warner,Caught and Bowled,-,Glenn Phillips,81,65,5,6,124.62
 27,Australia,New Zealand,1,Travis Head,Bowled,-,Glenn Phillips,109,67,10,7,162.69
 27,Australia,New Zealand,1,Mitchell Marsh,Bowled,-,Mitchell Santner,36,51,2,0,70.59
@@ -269,73 +269,73 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 27,Australia,New Zealand,1,Josh Inglis,Catch,Glenn Phillips,Trent Boult,38,28,4,1,135.71
 27,Australia,New Zealand,1,Pat Cummins,lbw,-,Trent Boult,37,14,2,4,264.29
 27,Australia,New Zealand,1,Mitchell Starc,Catch,Neesham,Matt Henry,1,3,0,0,33.33
-27,Australia,New Zealand,1,Adam Zampa,Bowled,-,Trent Boult,0,3,0,0,0.00
-27,Australia,New Zealand,1,Josh Hazlewood,Not out,-,-,0,0,0,0,0.00
+27,Australia,New Zealand,1,Adam Zampa,Bowled,-,Trent Boult,0,3,0,0,0.0
+27,Australia,New Zealand,1,Josh Hazlewood,Not out,-,-,0,0,0,0,0.0
 28,Netherlands,Bangladesh,1,Vikramjit Singh,Catch,Shakib,Taskin Ahmed,3,9,0,0,33.33
-28,Netherlands,Bangladesh,1,Max ODowd,Catch,Tanzid Hasan,Shoriful Islam,0,3,0,0,0.00
-28,Netherlands,Bangladesh,1,Wesley Barresi,Catch,Shakib,Mustafizur Rahman,41,41,8,0,100.00
+28,Netherlands,Bangladesh,1,Max ODowd,Catch,Tanzid Hasan,Shoriful Islam,0,3,0,0,0.0
+28,Netherlands,Bangladesh,1,Wesley Barresi,Catch,Shakib,Mustafizur Rahman,41,41,8,0,100.0
 28,Netherlands,Bangladesh,1,Colin Ackermann,Catch,Mustafizur Rahman,Shakib,15,33,1,0,45.45
-28,Netherlands,Bangladesh,1,Scott Edwards,Catch,Mehidy Hasan Miraz,Mustafizur Rahman,68,89,6,0,76.40
+28,Netherlands,Bangladesh,1,Scott Edwards,Catch,Mehidy Hasan Miraz,Mustafizur Rahman,68,89,6,0,76.4
 28,Netherlands,Bangladesh,1,Bas de Leede,Catch,Mushfiqur Rahim,Taskin Ahmed,17,32,2,0,53.12
 28,Netherlands,Bangladesh,1,Sybrand Engelbrecht,lbw,-,Mahedi Hasan,35,61,3,0,57.38
 28,Netherlands,Bangladesh,1,Logan van Beek,Not out,-,-,23,16,2,1,143.75
-28,Netherlands,Bangladesh,1,Shariz Ahmad,Run out,Mahmudullah/Mushfiqur Rahim,-,6,8,0,0,75.00
-28,Netherlands,Bangladesh,1,Aryan Dutt,Catch,Mehidy Hasan Miraz,Shoriful Islam,9,6,0,1,150.00
-28,Netherlands,Bangladesh,1,Paul van Meekeren,lbw,-,Mahedi Hasan,0,2,0,0,0.00
+28,Netherlands,Bangladesh,1,Shariz Ahmad,Run out,Mahmudullah/Mushfiqur Rahim,-,6,8,0,0,75.0
+28,Netherlands,Bangladesh,1,Aryan Dutt,Catch,Mehidy Hasan Miraz,Shoriful Islam,9,6,0,1,150.0
+28,Netherlands,Bangladesh,1,Paul van Meekeren,lbw,-,Mahedi Hasan,0,2,0,0,0.0
 29,India,England,1,Rohit Sharma,Catch,Liam Livingstone,Adil Rashid,87,101,10,3,86.14
 29,India,England,1,Shubman Gill,Bowled,-,Chris Woakes,9,13,1,0,69.23
-29,India,England,1,Virat Kohli,Catch,Ben Stokes,David Willey,0,9,0,0,0.00
-29,India,England,1,Shreyas Iyer,Catch,Mark Wood,Chris Woakes,4,16,0,0,25.00
+29,India,England,1,Virat Kohli,Catch,Ben Stokes,David Willey,0,9,0,0,0.0
+29,India,England,1,Shreyas Iyer,Catch,Mark Wood,Chris Woakes,4,16,0,0,25.0
 29,India,England,1,KL Rahul,Catch,Jonny Bairstow,David Willey,39,58,3,0,67.24
 29,India,England,1,Suryakumar Yadav,Catch,Chris Woakes,David Willey,49,47,4,1,104.26
 29,India,England,1,Ravindra Jadeja,lbw,-,Adil Rashid,8,13,0,0,61.54
-29,India,England,1,Mohammed Shami,Catch,Jos Buttler,Mark Wood,1,5,0,0,20.00
-29,India,England,1,Jasprit Bumrah,Run out,Jos Buttler,-,16,25,1,0,64.00
+29,India,England,1,Mohammed Shami,Catch,Jos Buttler,Mark Wood,1,5,0,0,20.0
+29,India,England,1,Jasprit Bumrah,Run out,Jos Buttler,-,16,25,1,0,64.0
 29,India,England,1,Kuldeep Yadav,Not out,-,-,9,13,1,0,69.23
 30,Sri Lanka,Afghanistan,1,Pathum Nissanka,Catch,Gurbaz,Azmatullah Omarzai,46,60,5,0,76.67
 30,Sri Lanka,Afghanistan,1,Dimuth Karunaratne,lbw,-,Fazalhaq Farooqi,15,21,1,0,71.43
-30,Sri Lanka,Afghanistan,1,Kusal Mendis,Catch,(sub)Najibullah,Mujeeb Ur Rahman,39,50,3,0,78.00
-30,Sri Lanka,Afghanistan,1,Sadeera Samarawickrama,lbw,-,Mujeeb Ur Rahman,36,40,3,0,90.00
+30,Sri Lanka,Afghanistan,1,Kusal Mendis,Catch,(sub)Najibullah,Mujeeb Ur Rahman,39,50,3,0,78.0
+30,Sri Lanka,Afghanistan,1,Sadeera Samarawickrama,lbw,-,Mujeeb Ur Rahman,36,40,3,0,90.0
 30,Sri Lanka,Afghanistan,1,Charith Asalanka,Catch,Rashid Khan,Fazalhaq Farooqi,22,28,2,0,78.57
 30,Sri Lanka,Afghanistan,1,Dhananjaya de Silva,Bowled,-,Rashid Khan,14,26,1,0,53.85
 30,Sri Lanka,Afghanistan,1,Angelo Mathews,Catch,Mohammad Nabi,Fazalhaq Farooqi,23,26,1,1,88.46
-30,Sri Lanka,Afghanistan,1,Dushmantha Chameera,Run out,Ibrahim Zadran,-,1,4,0,0,25.00
+30,Sri Lanka,Afghanistan,1,Dushmantha Chameera,Run out,Ibrahim Zadran,-,1,4,0,0,25.0
 30,Sri Lanka,Afghanistan,1,Maheesh Theekshana,Bowled,-,Fazalhaq Farooqi,29,31,3,1,93.55
 30,Sri Lanka,Afghanistan,1,Kasun Rajitha,Run out,Gurbaz,-,5,7,0,0,71.43
-30,Sri Lanka,Afghanistan,1,Dilshan Madushanka,Not out,-,-,0,4,0,0,0.00
-31,Bangladesh,Pakistan,1,Tanzid Hasan,lbw,-,Shaheen Afridi,0,5,0,0,0.00
+30,Sri Lanka,Afghanistan,1,Dilshan Madushanka,Not out,-,-,0,4,0,0,0.0
+31,Bangladesh,Pakistan,1,Tanzid Hasan,lbw,-,Shaheen Afridi,0,5,0,0,0.0
 31,Bangladesh,Pakistan,1,Litton Das,Catch,Agha Salman,Iftikhar Ahmed,45,64,6,0,70.31
 31,Bangladesh,Pakistan,1,Najmul Hossain Shanto,Catch,Usama Mir,Shaheen Afridi,4,3,1,0,133.33
-31,Bangladesh,Pakistan,1,Mushfiqur Rahim,Catch,Rizwan,Haris Rauf,5,8,1,0,62.50
-31,Bangladesh,Pakistan,1,Mahmudullah,Bowled,-,Shaheen Afridi,56,70,6,1,80.00
+31,Bangladesh,Pakistan,1,Mushfiqur Rahim,Catch,Rizwan,Haris Rauf,5,8,1,0,62.5
+31,Bangladesh,Pakistan,1,Mahmudullah,Bowled,-,Shaheen Afridi,56,70,6,1,80.0
 31,Bangladesh,Pakistan,1,Shakib Al Hasan,Catch,Agha Salman,Haris Rauf,43,64,4,0,67.19
 31,Bangladesh,Pakistan,1,Towhid Hridoy,Catch,Iftikhar Ahmed,Usama Mir,7,3,0,1,233.33
 31,Bangladesh,Pakistan,1,Mehidy Hasan Miraz,Bowled,-,Mohammad Wasim Jr,25,30,1,1,83.33
 31,Bangladesh,Pakistan,1,Taskin Ahmed,Bowled,-,Mohammad Wasim Jr,6,13,0,0,46.15
 31,Bangladesh,Pakistan,1,Mustafizur Rahman,Bowled,-,Mohammad Wasim Jr,3,7,0,0,42.86
-31,Bangladesh,Pakistan,1,Shoriful Islam,Not out,-,-,1,4,0,0,25.00
+31,Bangladesh,Pakistan,1,Shoriful Islam,Not out,-,-,1,4,0,0,25.0
 32,South Africa,New Zealand,1,Quinton de Kock,Catch,Glenn Phillips,Southee,114,116,10,3,98.28
 32,South Africa,New Zealand,1,Temba Bavuma,Catch,Daryl Mitchell,Trent Boult,24,28,4,1,85.71
 32,South Africa,New Zealand,1,Rassie van der Dussen,Bowled,-,Southee,133,118,9,5,112.71
 32,South Africa,New Zealand,1,David Miller,Catch,Daryl Mitchell,Neesham,53,30,2,4,176.67
 32,South Africa,New Zealand,1,Heinrich Klaasen,Not out,-,-,15,7,1,1,214.29
-32,South Africa,New Zealand,1,Aiden Markram,Not out,-,-,6,1,0,1,600.00
-33,India,Sri Lanka,1,Rohit Sharma,Bowled,-,Dilshan Madushanka,4,2,1,0,200.00
-33,India,Sri Lanka,1,Shubman Gill,Catch,Kusal Mendis,Dilshan Madushanka,92,92,11,2,100.00
+32,South Africa,New Zealand,1,Aiden Markram,Not out,-,-,6,1,0,1,600.0
+33,India,Sri Lanka,1,Rohit Sharma,Bowled,-,Dilshan Madushanka,4,2,1,0,200.0
+33,India,Sri Lanka,1,Shubman Gill,Catch,Kusal Mendis,Dilshan Madushanka,92,92,11,2,100.0
 33,India,Sri Lanka,1,Virat Kohli,Catch,Pathum Nissanka,Dilshan Madushanka,88,94,11,0,93.62
 33,India,Sri Lanka,1,Shreyas Iyer,Catch,Maheesh Theekshana,Dilshan Madushanka,82,56,3,6,146.43
 33,India,Sri Lanka,1,KL Rahul,Catch,Dushan Hemantha,Dushmantha Chameera,21,19,2,0,110.53
 33,India,Sri Lanka,1,Suryakumar Yadav,Catch,Kusal Mendis,Dilshan Madushanka,12,9,2,0,133.33
 33,India,Sri Lanka,1,Ravindra Jadeja,Run out,Samarawickrama/Kusal Mendis,-,35,24,1,1,145.83
-33,India,Sri Lanka,1,Mohammed Shami,Run out,Kusal Mendis,-,2,4,0,0,50.00
-33,India,Sri Lanka,1,Jasprit Bumrah,Not out,-,-,1,1,0,0,100.00
-34,Netherlands,Afghanistan,1,Wesley Barresi,lbw,-,Mujeeb Ur Rahman,1,4,0,0,25.00
-34,Netherlands,Afghanistan,1,Max ODowd,Run out,Azmatullah Omarzai,-,42,40,9,0,105.00
+33,India,Sri Lanka,1,Mohammed Shami,Run out,Kusal Mendis,-,2,4,0,0,50.0
+33,India,Sri Lanka,1,Jasprit Bumrah,Not out,-,-,1,1,0,0,100.0
+34,Netherlands,Afghanistan,1,Wesley Barresi,lbw,-,Mujeeb Ur Rahman,1,4,0,0,25.0
+34,Netherlands,Afghanistan,1,Max ODowd,Run out,Azmatullah Omarzai,-,42,40,9,0,105.0
 34,Netherlands,Afghanistan,1,Colin Ackermann,Run out,Rashid Khan/Ikram Alikhil,-,29,35,4,0,82.86
 34,Netherlands,Afghanistan,1,Sybrand Engelbrecht,Run out,Nabi/Ikram Alikhil,-,58,86,6,0,67.44
-34,Netherlands,Afghanistan,1,Scott Edwards,Run out,Ikram Alikhil,-,0,1,0,0,0.00
-34,Netherlands,Afghanistan,1,Bas de Leede,Catch,Ikram Alikhil,Mohammad Nabi,3,6,0,0,50.00
-34,Netherlands,Afghanistan,1,Saqib Zulfiqar,Catch,Ikram Alikhil,Noor Ahmad,3,15,0,0,20.00
+34,Netherlands,Afghanistan,1,Scott Edwards,Run out,Ikram Alikhil,-,0,1,0,0,0.0
+34,Netherlands,Afghanistan,1,Bas de Leede,Catch,Ikram Alikhil,Mohammad Nabi,3,6,0,0,50.0
+34,Netherlands,Afghanistan,1,Saqib Zulfiqar,Catch,Ikram Alikhil,Noor Ahmad,3,15,0,0,20.0
 34,Netherlands,Afghanistan,1,Logan van Beek,Stump,Ikram Alikhil,Mohammad Nabi,2,13,0,0,15.38
 34,Netherlands,Afghanistan,1,Roelof van der Merwe,Catch,Ibrahim Zadran,Noor Ahmad,11,33,0,0,33.33
 34,Netherlands,Afghanistan,1,Aryan Dutt,Not out,-,-,10,22,0,0,45.45
@@ -345,20 +345,20 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 35,New Zealand,Pakistan,1,Kane Williamson,Catch,Fakhar Zaman,Iftikhar Ahmed,95,79,10,2,120.25
 35,New Zealand,Pakistan,1,Daryl Mitchell,Bowled,-,Haris Rauf,29,18,4,1,161.11
 35,New Zealand,Pakistan,1,Mark Chapman,Bowled,-,Mohammad Wasim Jr,39,27,7,0,144.44
-35,New Zealand,Pakistan,1,Glenn Phillips,Bowled,-,Mohammad Wasim Jr,41,25,4,2,164.00
+35,New Zealand,Pakistan,1,Glenn Phillips,Bowled,-,Mohammad Wasim Jr,41,25,4,2,164.0
 35,New Zealand,Pakistan,1,Mitchell Santner,Not out,-,-,26,17,0,2,152.94
-35,New Zealand,Pakistan,1,Tom Latham,Not out,-,-,2,2,0,0,100.00
-36,Australia,England,1,Travis Head,Catch,Joe Root,Chris Woakes,11,10,1,0,110.00
+35,New Zealand,Pakistan,1,Tom Latham,Not out,-,-,2,2,0,0,100.0
+36,Australia,England,1,Travis Head,Catch,Joe Root,Chris Woakes,11,10,1,0,110.0
 36,Australia,England,1,David Warner,Catch,David Willey,Chris Woakes,15,16,1,1,93.75
 36,Australia,England,1,Steven Smith,Catch,Moeen Ali,Adil Rashid,44,52,3,0,84.62
 36,Australia,England,1,Marnus Labuschagne,lbw,-,Mark Wood,71,83,7,0,85.54
-36,Australia,England,1,Josh Inglis,Catch,Moeen Ali,Adil Rashid,3,6,0,0,50.00
+36,Australia,England,1,Josh Inglis,Catch,Moeen Ali,Adil Rashid,3,6,0,0,50.0
 36,Australia,England,1,Cameron Green,Bowled,-,David Willey,47,52,5,0,90.38
 36,Australia,England,1,Marcus Stoinis,Catch,Jonny Bairstow,Liam Livingstone,35,32,3,2,109.38
 36,Australia,England,1,Pat Cummins,Catch,Dawid Malan,Mark Wood,10,13,1,0,76.92
 36,Australia,England,1,Mitchell Starc,Catch,Moeen Ali,Chris Woakes,10,13,0,0,76.92
 36,Australia,England,1,Adam Zampa,Catch,Jos Buttler,Chris Woakes,29,19,4,0,152.63
-36,Australia,England,1,Josh Hazlewood,Not out,-,-,1,1,0,0,100.00
+36,Australia,England,1,Josh Hazlewood,Not out,-,-,1,1,0,0,100.0
 37,India,South Africa,1,Rohit Sharma,Catch,Bavuma,Kagiso Rabada,40,24,6,2,166.67
 37,India,South Africa,1,Shubman Gill,Bowled,-,Keshav Maharaj,23,24,4,1,95.83
 37,India,South Africa,1,Virat Kohli,Not out,-,-,101,121,10,0,83.47
@@ -367,100 +367,100 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 37,India,South Africa,1,Suryakumar Yadav,Catch,Quinton de Kock,Tabraiz Shamsi,22,14,5,0,157.14
 37,India,South Africa,1,Ravindra Jadeja,Not out,-,-,29,15,3,1,193.33
 38,Sri Lanka,Bangladesh,1,Pathum Nissanka,Bowled,-,Tanzim Hasan Sakib,41,36,8,0,113.89
-38,Sri Lanka,Bangladesh,1,Kusal Perera,Catch,Mushfiqur Rahim,Shoriful Islam,4,5,1,0,80.00
+38,Sri Lanka,Bangladesh,1,Kusal Perera,Catch,Mushfiqur Rahim,Shoriful Islam,4,5,1,0,80.0
 38,Sri Lanka,Bangladesh,1,Kusal Mendis,Catch,Shoriful Islam,Shakib,19,30,1,1,63.33
 38,Sri Lanka,Bangladesh,1,Sadeera Samarawickrama,Catch,Mahmudullah,Shakib,41,42,4,0,97.62
 38,Sri Lanka,Bangladesh,1,Charith Asalanka,Catch,Litton Das,Tanzim Hasan Sakib,108,105,6,5,102.86
-38,Sri Lanka,Bangladesh,1,Angelo Mathews,Timed out,-,-,0,0,0,0,0.00
+38,Sri Lanka,Bangladesh,1,Angelo Mathews,Timed out,-,-,0,0,0,0,0.0
 38,Sri Lanka,Bangladesh,1,Dhananjaya de Silva,Stump,Mushfiqur Rahim,Mehidy Hasan Miraz,34,36,4,1,94.44
 38,Sri Lanka,Bangladesh,1,Maheesh Theekshana,Catch,(sub)Nasum Ahmed,Shoriful Islam,22,31,3,0,70.97
 38,Sri Lanka,Bangladesh,1,Dushmantha Chameera,Run out,Mushfiqur Rahim,-,4,9,0,0,44.44
-38,Sri Lanka,Bangladesh,1,Kasun Rajitha,Catch,Litton Das,Tanzim Hasan Sakib,0,2,0,0,0.00
-38,Sri Lanka,Bangladesh,1,Dilshan Madushanka,Not out,-,-,0,1,0,0,0.00
-39,Afghanistan,Australia,1,Gurbaz,Catch,Mitchell Starc,Josh Hazlewood,21,25,2,0,84.00
+38,Sri Lanka,Bangladesh,1,Kasun Rajitha,Catch,Litton Das,Tanzim Hasan Sakib,0,2,0,0,0.0
+38,Sri Lanka,Bangladesh,1,Dilshan Madushanka,Not out,-,-,0,1,0,0,0.0
+39,Afghanistan,Australia,1,Gurbaz,Catch,Mitchell Starc,Josh Hazlewood,21,25,2,0,84.0
 39,Afghanistan,Australia,1,Ibrahim Zadran,Not out,-,-,129,143,8,3,90.21
 39,Afghanistan,Australia,1,Rahmat Shah,Catch,Josh Hazlewood,Glenn Maxwell,30,44,1,0,68.18
-39,Afghanistan,Australia,1,Hashmatullah Shahidi (c),Bowled,-,Mitchell Starc,26,43,2,0,60.47
+39,Afghanistan,Australia,1,Hashmatullah Shahidi,Bowled,-,Mitchell Starc,26,43,2,0,60.47
 39,Afghanistan,Australia,1,Azmatullah Omarzai,Catch,Glenn Maxwell,Adam Zampa,22,18,1,2,122.22
-39,Afghanistan,Australia,1,Mohammad Nabi,Bowled,-,Josh Hazlewood,12,10,0,1,120.00
+39,Afghanistan,Australia,1,Mohammad Nabi,Bowled,-,Josh Hazlewood,12,10,0,1,120.0
 39,Afghanistan,Australia,1,Rashid Khan,Not out,-,-,35,18,2,3,194.44
 40,England,Netherlands,1,Jonny Bairstow,Catch,Paul van Meekeren,Aryan Dutt,15,17,2,0,88.24
 40,England,Netherlands,1,Dawid Malan,Run out,van Beek/Edwards,-,87,74,10,2,117.57
-40,England,Netherlands,1,Joe Root,Bowled,-,Logan van Beek,28,35,1,0,80.00
+40,England,Netherlands,1,Joe Root,Bowled,-,Logan van Beek,28,35,1,0,80.0
 40,England,Netherlands,1,Ben Stokes,Catch,Sybrand Engelbrecht,Logan van Beek,108,84,6,6,128.57
 40,England,Netherlands,1,Harry Brook,Catch,Colin Ackermann,Bas de Leede,11,16,2,0,68.75
 40,England,Netherlands,1,Jos Buttler,Catch,Teja Nidamanuru,Paul van Meekeren,5,11,0,0,45.45
 40,England,Netherlands,1,Moeen Ali,Catch,Bas de Leede,Aryan Dutt,4,15,0,0,26.67
 40,England,Netherlands,1,Chris Woakes,Catch,Edwards,Bas de Leede,51,45,5,1,113.33
-40,England,Netherlands,1,David Willey,Catch,Sybrand Engelbrecht,Bas de Leede,6,2,0,1,300.00
-40,England,Netherlands,1,Gus Atkinson,Not out,-,-,2,1,0,0,200.00
-40,England,Netherlands,1,Adil Rashid,Not out,-,-,1,1,0,0,100.00
-41,Sri Lanka,New Zealand,1,Pathum Nissanka,Catch,Latham,Southee,2,8,0,0,25.00
+40,England,Netherlands,1,David Willey,Catch,Sybrand Engelbrecht,Bas de Leede,6,2,0,1,300.0
+40,England,Netherlands,1,Gus Atkinson,Not out,-,-,2,1,0,0,200.0
+40,England,Netherlands,1,Adil Rashid,Not out,-,-,1,1,0,0,100.0
+41,Sri Lanka,New Zealand,1,Pathum Nissanka,Catch,Latham,Southee,2,8,0,0,25.0
 41,Sri Lanka,New Zealand,1,Kusal Perera,Catch,Mitchell Santner,Lockie Ferguson,51,28,9,2,182.14
 41,Sri Lanka,New Zealand,1,Kusal Mendis,Catch,Rachin Ravindra,Trent Boult,6,7,1,0,85.71
-41,Sri Lanka,New Zealand,1,Sadeera Samarawickrama,Catch,Daryl Mitchell,Trent Boult,1,2,0,0,50.00
-41,Sri Lanka,New Zealand,1,Charith Asalanka,lbw,-,Trent Boult,8,8,1,0,100.00
+41,Sri Lanka,New Zealand,1,Sadeera Samarawickrama,Catch,Daryl Mitchell,Trent Boult,1,2,0,0,50.0
+41,Sri Lanka,New Zealand,1,Charith Asalanka,lbw,-,Trent Boult,8,8,1,0,100.0
 41,Sri Lanka,New Zealand,1,Angelo Mathews,Catch,Daryl Mitchell,Mitchell Santner,16,27,2,0,59.26
 41,Sri Lanka,New Zealand,1,Dhananjaya de Silva,Catch,Daryl Mitchell,Mitchell Santner,19,24,2,1,79.17
 41,Sri Lanka,New Zealand,1,Dimuth Karunaratne,Catch,Latham,Lockie Ferguson,6,17,1,0,35.29
 41,Sri Lanka,New Zealand,1,Maheesh Theekshana,Not out,-,-,38,91,3,0,41.76
-41,Sri Lanka,New Zealand,1,Dushmantha Chameera,Catch,Trent Boult,Rachin Ravindra,1,20,0,0,5.00
+41,Sri Lanka,New Zealand,1,Dushmantha Chameera,Catch,Trent Boult,Rachin Ravindra,1,20,0,0,5.0
 41,Sri Lanka,New Zealand,1,Dilshan Madushanka,Catch,Latham,Rachin Ravindra,19,48,2,0,39.58
 42,Afghanistan,South Africa,1,Gurbaz,Catch,Heinrich Klaasen,Keshav Maharaj,25,22,3,1,113.64
-42,Afghanistan,South Africa,1,Ibrahim Zadran,Catch,Quinton de Kock,Gerald Coetzee,15,30,3,0,50.00
+42,Afghanistan,South Africa,1,Ibrahim Zadran,Catch,Quinton de Kock,Gerald Coetzee,15,30,3,0,50.0
 42,Afghanistan,South Africa,1,Rahmat Shah,Catch,David Miller,Lungi Ngidi,26,46,2,0,56.52
-42,Afghanistan,South Africa,1,Hashmatullah Shahidi (c),Catch,Quinton de Kock,Keshav Maharaj,2,7,0,0,28.57
+42,Afghanistan,South Africa,1,Hashmatullah Shahidi,Catch,Quinton de Kock,Keshav Maharaj,2,7,0,0,28.57
 42,Afghanistan,South Africa,1,Azmatullah Omarzai,Not out,-,-,97,107,7,3,90.65
 42,Afghanistan,South Africa,1,Ikram Alikhil,Catch,Quinton de Kock,Gerald Coetzee,12,14,1,1,85.71
 42,Afghanistan,South Africa,1,Mohammad Nabi,Catch,Quinton de Kock,Lungi Ngidi,2,3,0,0,66.67
 42,Afghanistan,South Africa,1,Rashid Khan,Catch,Quinton de Kock,Andile Phehlukwayo,14,30,0,0,46.67
 42,Afghanistan,South Africa,1,Noor Ahmad,Catch,Quinton de Kock,Gerald Coetzee,26,32,4,0,81.25
-42,Afghanistan,South Africa,1,Mujeeb Ur Rahman,Catch,Aiden Markram,Gerald Coetzee,8,5,0,1,160.00
-42,Afghanistan,South Africa,1,Naveen-ul-Haq,Run out,Kagiso Rabada,-,2,4,0,0,50.00
+42,Afghanistan,South Africa,1,Mujeeb Ur Rahman,Catch,Aiden Markram,Gerald Coetzee,8,5,0,1,160.0
+42,Afghanistan,South Africa,1,Naveen-ul-Haq,Run out,Kagiso Rabada,-,2,4,0,0,50.0
 43,Bangladesh,Australia,1,Tanzid Hasan,Caught and Bowled,-,Abbott,36,34,6,0,105.88
-43,Bangladesh,Australia,1,Litton Das,Catch,Marnus Labuschagne,Adam Zampa,36,45,5,0,80.00
+43,Bangladesh,Australia,1,Litton Das,Catch,Marnus Labuschagne,Adam Zampa,36,45,5,0,80.0
 43,Bangladesh,Australia,1,Najmul Hossain Shanto,Run out,Labuschagne/Josh Inglis,-,45,57,6,0,78.95
 43,Bangladesh,Australia,1,Towhid Hridoy,Catch,Marnus Labuschagne,Marcus Stoinis,74,79,5,2,93.67
 43,Bangladesh,Australia,1,Mahmudullah,Run out,Marnus Labuschagne,-,32,28,1,3,114.29
-43,Bangladesh,Australia,1,Mushfiqur Rahim,Catch,Cummins,Adam Zampa,21,24,0,1,87.50
-43,Bangladesh,Australia,1,Mehidy Hasan Miraz,Catch,Cummins,Abbott,29,20,4,0,145.00
+43,Bangladesh,Australia,1,Mushfiqur Rahim,Catch,Cummins,Adam Zampa,21,24,0,1,87.5
+43,Bangladesh,Australia,1,Mehidy Hasan Miraz,Catch,Cummins,Abbott,29,20,4,0,145.0
 43,Bangladesh,Australia,1,Nasum Ahmed,Run out,Abbott,-,7,11,0,0,63.64
 43,Bangladesh,Australia,1,Mahedi Hasan,Not out,-,-,2,3,0,0,66.67
-43,Bangladesh,Australia,1,Taskin Ahmed,Not out,-,-,0,1,0,0,0.00
+43,Bangladesh,Australia,1,Taskin Ahmed,Not out,-,-,0,1,0,0,0.0
 44,England,Pakistan,1,Dawid Malan,Catch,Rizwan,Iftikhar Ahmed,31,39,5,0,79.49
 44,England,Pakistan,1,Jonny Bairstow,Catch,Agha Salman,Haris Rauf,59,61,7,1,96.72
 44,England,Pakistan,1,Joe Root,Catch,Shadab Khan,Shaheen Afridi,60,72,4,0,83.33
 44,England,Pakistan,1,Ben Stokes,Bowled,-,Shaheen Afridi,84,76,11,2,110.53
-44,England,Pakistan,1,Jos Buttler,Run out,Haris Rauf,-,27,18,3,1,150.00
+44,England,Pakistan,1,Jos Buttler,Run out,Haris Rauf,-,27,18,3,1,150.0
 44,England,Pakistan,1,Harry Brook,Catch,Shaheen Afridi,Haris Rauf,30,17,2,2,176.47
 44,England,Pakistan,1,Moeen Ali,Bowled,-,Haris Rauf,8,6,0,1,133.33
-44,England,Pakistan,1,Chris Woakes,Not out,-,-,4,4,1,0,100.00
-44,England,Pakistan,1,David Willey,Catch,Iftikhar Ahmed,Mohammad Wasim Jr,15,5,2,1,300.00
-44,England,Pakistan,1,Gus Atkinson,Bowled,-,Mohammad Wasim Jr,0,1,0,0,0.00
-44,England,Pakistan,1,Adil Rashid,Not out,-,-,0,1,0,0,0.00
+44,England,Pakistan,1,Chris Woakes,Not out,-,-,4,4,1,0,100.0
+44,England,Pakistan,1,David Willey,Catch,Iftikhar Ahmed,Mohammad Wasim Jr,15,5,2,1,300.0
+44,England,Pakistan,1,Gus Atkinson,Bowled,-,Mohammad Wasim Jr,0,1,0,0,0.0
+44,England,Pakistan,1,Adil Rashid,Not out,-,-,0,1,0,0,0.0
 45,India,Netherlands,1,Rohit Sharma,Catch,Wesley Barresi,Bas de Leede,61,54,8,2,112.96
 45,India,Netherlands,1,Shubman Gill,Catch,Teja Nidamanuru,Paul van Meekeren,51,32,3,4,159.38
 45,India,Netherlands,1,Virat Kohli,Bowled,-,Roelof van der Merwe,51,56,5,1,91.07
 45,India,Netherlands,1,Shreyas Iyer,Not out,-,-,128,94,10,5,136.17
 45,India,Netherlands,1,KL Rahul,Catch,Sybrand Engelbrecht,Bas de Leede,102,64,11,4,159.38
-45,India,Netherlands,1,Suryakumar Yadav,Not out,-,-,2,1,0,0,200.00
+45,India,Netherlands,1,Suryakumar Yadav,Not out,-,-,2,1,0,0,200.0
 46,India,New Zealand,1,Rohit Sharma,Catch,Williamson,Southee,47,29,4,4,162.07
 46,India,New Zealand,1,Shubman Gill,Not out,-,-,80,66,8,3,121.21
 46,India,New Zealand,1,Virat Kohli,Catch,Devon Conway,Southee,117,113,9,2,103.54
-46,India,New Zealand,1,Shreyas Iyer,Catch,Daryl Mitchell,Trent Boult,105,70,4,8,150.00
-46,India,New Zealand,1,KL Rahul,Not out,-,-,39,20,5,2,195.00
-46,India,New Zealand,1,Suryakumar Yadav,Catch,Glenn Phillips,Southee,1,2,0,0,50.00
+46,India,New Zealand,1,Shreyas Iyer,Catch,Daryl Mitchell,Trent Boult,105,70,4,8,150.0
+46,India,New Zealand,1,KL Rahul,Not out,-,-,39,20,5,2,195.0
+46,India,New Zealand,1,Suryakumar Yadav,Catch,Glenn Phillips,Southee,1,2,0,0,50.0
 47,South Africa,Australia,1,Quinton de Kock,Catch,Cummins,Josh Hazlewood,3,14,0,0,21.43
-47,South Africa,Australia,1,Temba Bavuma,Catch,Josh Inglis,Mitchell Starc,0,4,0,0,0.00
+47,South Africa,Australia,1,Temba Bavuma,Catch,Josh Inglis,Mitchell Starc,0,4,0,0,0.0
 47,South Africa,Australia,1,Rassie van der Dussen,Catch,Steven Smith,Josh Hazlewood,6,31,0,0,19.35
-47,South Africa,Australia,1,Aiden Markram,Catch,David Warner,Mitchell Starc,10,20,2,0,50.00
+47,South Africa,Australia,1,Aiden Markram,Catch,David Warner,Mitchell Starc,10,20,2,0,50.0
 47,South Africa,Australia,1,Heinrich Klaasen,Bowled,-,Travis Head,47,48,4,2,97.92
 47,South Africa,Australia,1,David Miller,Catch,Travis Head,Cummins,101,116,8,5,87.07
-47,South Africa,Australia,1,Marco Jansen,lbw,-,Travis Head,0,1,0,0,0.00
+47,South Africa,Australia,1,Marco Jansen,lbw,-,Travis Head,0,1,0,0,0.0
 47,South Africa,Australia,1,Gerald Coetzee,Catch,Josh Inglis,Cummins,19,39,2,0,48.72
-47,South Africa,Australia,1,Keshav Maharaj,Catch,Steven Smith,Mitchell Starc,4,8,0,0,50.00
+47,South Africa,Australia,1,Keshav Maharaj,Catch,Steven Smith,Mitchell Starc,4,8,0,0,50.0
 47,South Africa,Australia,1,Kagiso Rabada,Catch,Glenn Maxwell,Cummins,10,12,0,1,83.33
-47,South Africa,Australia,1,Tabraiz Shamsi,Not out,-,-,1,5,0,0,20.00
+47,South Africa,Australia,1,Tabraiz Shamsi,Not out,-,-,1,5,0,0,20.0
 48,India,Australia,1,Rohit Sharma,Catch,Travis Head,Glenn Maxwell,47,31,4,3,151.61
 48,India,Australia,1,Shubman Gill,Catch,Adam Zampa,Mitchell Starc,4,7,0,0,57.14
 48,India,Australia,1,Virat Kohli,Bowled,-,Cummins,54,63,4,0,85.71
@@ -468,23 +468,23 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 48,India,Australia,1,KL Rahul,Catch,Josh Inglis,Mitchell Starc,66,107,1,0,61.68
 48,India,Australia,1,Ravindra Jadeja,Catch,Josh Inglis,Josh Hazlewood,9,22,0,0,40.91
 48,India,Australia,1,Suryakumar Yadav,Catch,Josh Inglis,Josh Hazlewood,18,28,1,0,64.29
-48,India,Australia,1,Mohammed Shami,Catch,Josh Inglis,Mitchell Starc,6,10,1,0,60.00
+48,India,Australia,1,Mohammed Shami,Catch,Josh Inglis,Mitchell Starc,6,10,1,0,60.0
 48,India,Australia,1,Jasprit Bumrah,lbw,-,Adam Zampa,1,3,0,0,33.33
 48,India,Australia,1,Kuldeep Yadav,Run out,Labuschagne/Cummins,-,10,18,0,0,55.56
-48,India,Australia,1,Mohammed Siraj,Not out,-,-,9,8,1,0,112.50
+48,India,Australia,1,Mohammed Siraj,Not out,-,-,9,8,1,0,112.5
 1,New Zealand,England,2,Devon Conway,Not out,-,-,152,121,19,3,125.62
-1,New Zealand,England,2,Will Young,Catch,Jos Buttler,Sam Curran,0,1,0,0,0.00
+1,New Zealand,England,2,Will Young,Catch,Jos Buttler,Sam Curran,0,1,0,0,0.0
 1,New Zealand,England,2,Rachin Ravindra,Not out,-,-,123,96,11,5,128.12
 2,Netherlands,Pakistan,2,Vikramjit Singh,Catch,Fakhar Zaman,Shadab Khan,52,67,4,1,77.61
 2,Netherlands,Pakistan,2,Max ODowd,Catch,Shaheen Afridi,Hasan Ali,5,12,1,0,41.67
 2,Netherlands,Pakistan,2,Colin Ackermann,Bowled,-,Iftikhar Ahmed,17,21,3,0,80.95
 2,Netherlands,Pakistan,2,Bas de Leede,Bowled,-,Mohammad Nawaz,67,68,6,2,98.53
 2,Netherlands,Pakistan,2,Teja Nidamanuru,Catch,Fakhar Zaman,Haris Rauf,5,9,1,0,55.56
-2,Netherlands,Pakistan,2,Scott Edwards,lbw,-,Haris Rauf,0,2,0,0,0.00
+2,Netherlands,Pakistan,2,Scott Edwards,lbw,-,Haris Rauf,0,2,0,0,0.0
 2,Netherlands,Pakistan,2,Saqib Zulfiqar,lbw,-,Shaheen Afridi,10,18,1,0,55.56
 2,Netherlands,Pakistan,2,Roelof van der Merwe,Run out,Babar Azam/Rizwan,-,4,7,0,0,57.14
-2,Netherlands,Pakistan,2,Logan van Beek,Not out,-,-,28,28,3,1,100.00
-2,Netherlands,Pakistan,2,Aryan Dutt,Bowled,-,Hasan Ali,1,2,0,0,50.00
+2,Netherlands,Pakistan,2,Logan van Beek,Not out,-,-,28,28,3,1,100.0
+2,Netherlands,Pakistan,2,Aryan Dutt,Bowled,-,Hasan Ali,1,2,0,0,50.0
 2,Netherlands,Pakistan,2,Paul van Meekeren,Bowled,-,Haris Rauf,7,12,1,0,58.33
 3,Bangladesh,Afghanistan,2,Tanzid Hasan,Run out,Najibullah Zadran,-,5,13,1,0,38.46
 3,Bangladesh,Afghanistan,2,Litton Das,Bowled,-,Fazalhaq Farooqi,13,18,2,0,72.22
@@ -492,69 +492,69 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 3,Bangladesh,Afghanistan,2,Najmul Hossain Shanto,Not out,-,-,59,83,3,1,71.08
 3,Bangladesh,Afghanistan,2,Shakib Al Hasan,Catch,Fazalhaq Farooqi,Azmatullah Omarzai,14,19,2,0,73.68
 3,Bangladesh,Afghanistan,2,Mushfiqur Rahim,Not out,-,-,2,3,0,0,66.67
-4,Sri Lanka,South Africa,2,Pathum Nissanka,Bowled,-,Marco Jansen,0,3,0,0,0.00
+4,Sri Lanka,South Africa,2,Pathum Nissanka,Bowled,-,Marco Jansen,0,3,0,0,0.0
 4,Sri Lanka,South Africa,2,Kusal Perera,Bowled,-,Marco Jansen,7,15,1,0,46.67
 4,Sri Lanka,South Africa,2,Kusal Mendis,Catch,Heinrich Klaasen,Kagiso Rabada,76,42,4,8,180.95
 4,Sri Lanka,South Africa,2,Sadeera Samarawickrama,Catch,Marco Jansen,Gerald Coetzee,23,19,3,1,121.05
 4,Sri Lanka,South Africa,2,Charith Asalanka,Catch,(sub)R Hendricks,Lungi Ngidi,79,65,8,4,121.54
 4,Sri Lanka,South Africa,2,Dhananjaya de Silva,Catch,(sub)Phehlukwayo,Keshav Maharaj,11,14,1,0,78.57
 4,Sri Lanka,South Africa,2,Dasun Shanaka,Bowled,-,Keshav Maharaj,68,62,6,3,109.68
-4,Sri Lanka,South Africa,2,Dunith Wellalage,Catch,Heinrich Klaasen,Gerald Coetzee,0,1,0,0,0.00
+4,Sri Lanka,South Africa,2,Dunith Wellalage,Catch,Heinrich Klaasen,Gerald Coetzee,0,1,0,0,0.0
 4,Sri Lanka,South Africa,2,Kasun Rajitha,Catch,Aiden Markram,Gerald Coetzee,33,31,4,1,106.45
 4,Sri Lanka,South Africa,2,Matheesha Pathirana,Bowled,-,Kagiso Rabada,5,16,1,0,31.25
-4,Sri Lanka,South Africa,2,Dilshan Madushanka,Not out,-,-,4,2,1,0,200.00
-5,India,Australia,2,Rohit Sharma,lbw,-,Josh Hazlewood,0,6,0,0,0.00
-5,India,Australia,2,Ishan Kishan,Catch,Cameron Green,Mitchell Starc,0,1,0,0,0.00
+4,Sri Lanka,South Africa,2,Dilshan Madushanka,Not out,-,-,4,2,1,0,200.0
+5,India,Australia,2,Rohit Sharma,lbw,-,Josh Hazlewood,0,6,0,0,0.0
+5,India,Australia,2,Ishan Kishan,Catch,Cameron Green,Mitchell Starc,0,1,0,0,0.0
 5,India,Australia,2,Virat Kohli,Catch,Marnus Labuschagne,Josh Hazlewood,85,116,6,0,73.28
-5,India,Australia,2,Shreyas Iyer,Catch,David Warner,Josh Hazlewood,0,3,0,0,0.00
+5,India,Australia,2,Shreyas Iyer,Catch,David Warner,Josh Hazlewood,0,3,0,0,0.0
 5,India,Australia,2,KL Rahul,Not out,-,-,97,115,8,2,84.35
-5,India,Australia,2,Hardik Pandya,Not out,-,-,11,8,0,1,137.50
-6,Netherlands,New Zealand,2,Vikramjit Singh,Bowled,-,Matt Henry,12,20,1,0,60.00
+5,India,Australia,2,Hardik Pandya,Not out,-,-,11,8,0,1,137.5
+6,Netherlands,New Zealand,2,Vikramjit Singh,Bowled,-,Matt Henry,12,20,1,0,60.0
 6,Netherlands,New Zealand,2,Max ODowd,lbw,-,Mitchell Santner,16,31,2,0,51.61
 6,Netherlands,New Zealand,2,Colin Ackermann,Catch,Matt Henry,Mitchell Santner,69,73,5,0,94.52
-6,Netherlands,New Zealand,2,Bas de Leede,Catch,Trent Boult,Rachin Ravindra,18,25,3,0,72.00
+6,Netherlands,New Zealand,2,Bas de Leede,Catch,Trent Boult,Rachin Ravindra,18,25,3,0,72.0
 6,Netherlands,New Zealand,2,Teja Nidamanuru,Run out,Lockie Ferguson/Latham,-,21,26,2,1,80.77
 6,Netherlands,New Zealand,2,Scott Edwards,Caught and Bowled,-,Mitchell Santner,30,27,2,1,111.11
 6,Netherlands,New Zealand,2,Sybrand Engelbrecht,Catch,Devon Conway,Matt Henry,29,34,3,0,85.29
 6,Netherlands,New Zealand,2,Roelof van der Merwe,Catch,Matt Henry,Mitchell Santner,1,6,0,0,16.67
 6,Netherlands,New Zealand,2,Ryan Klein,lbw,-,Mitchell Santner,8,15,0,0,53.33
-6,Netherlands,New Zealand,2,Aryan Dutt,Bowled,-,Matt Henry,11,20,0,1,55.00
+6,Netherlands,New Zealand,2,Aryan Dutt,Bowled,-,Matt Henry,11,20,0,1,55.0
 6,Netherlands,New Zealand,2,Paul van Meekeren,Not out,-,-,4,3,1,0,133.33
 7,Bangladesh,England,2,Litton Das,Catch,Jos Buttler,Chris Woakes,76,66,7,2,115.15
-7,Bangladesh,England,2,Tanzid Hasan,Catch,Jonny Bairstow,Reece Topley,1,2,0,0,50.00
-7,Bangladesh,England,2,Najmul Hossain Shanto,Catch,Liam Livingstone,Reece Topley,0,1,0,0,0.00
+7,Bangladesh,England,2,Tanzid Hasan,Catch,Jonny Bairstow,Reece Topley,1,2,0,0,50.0
+7,Bangladesh,England,2,Najmul Hossain Shanto,Catch,Liam Livingstone,Reece Topley,0,1,0,0,0.0
 7,Bangladesh,England,2,Shakib Al Hasan,Bowled,-,Reece Topley,1,9,0,0,11.11
 7,Bangladesh,England,2,Mehidy Hasan Miraz,Catch,Jos Buttler,Chris Woakes,8,7,1,0,114.29
 7,Bangladesh,England,2,Mushfiqur Rahim,Catch,Adil Rashid,Reece Topley,51,64,4,0,79.69
 7,Bangladesh,England,2,Towhid Hridoy,Catch,Jos Buttler,Liam Livingstone,39,61,2,0,63.93
 7,Bangladesh,England,2,Mahedi Hasan,Bowled,-,Adil Rashid,14,32,1,0,43.75
-7,Bangladesh,England,2,Taskin Ahmed,Bowled,-,Sam Curran,15,25,0,1,60.00
+7,Bangladesh,England,2,Taskin Ahmed,Bowled,-,Sam Curran,15,25,0,1,60.0
 7,Bangladesh,England,2,Shoriful Islam,Bowled,-,Mark Wood,12,14,2,0,85.71
 7,Bangladesh,England,2,Mustafizur Rahman,Not out,-,-,3,9,0,0,33.33
 8,Pakistan,Sri Lanka,2,Abdullah Shafique,Catch,(sub)Dushan Hemantha,Matheesha Pathirana,113,103,10,3,109.71
-8,Pakistan,Sri Lanka,2,Imam-ul-Haq,Catch,Kusal Perera,Dilshan Madushanka,12,12,1,0,100.00
+8,Pakistan,Sri Lanka,2,Imam-ul-Haq,Catch,Kusal Perera,Dilshan Madushanka,12,12,1,0,100.0
 8,Pakistan,Sri Lanka,2,Babar Azam,Catch,Sadeera Samarawickrama,Dilshan Madushanka,10,15,1,0,66.67
 8,Pakistan,Sri Lanka,2,Mohammad Rizwan,Not out,-,-,131,121,8,3,108.26
 8,Pakistan,Sri Lanka,2,Saud Shakeel,Catch,Dunith Wellalage,Maheesh Theekshana,31,30,2,0,103.33
-8,Pakistan,Sri Lanka,2,Iftikhar Ahmed,Not out,-,-,22,10,4,0,220.00
+8,Pakistan,Sri Lanka,2,Iftikhar Ahmed,Not out,-,-,22,10,4,0,220.0
 9,India,Afghanistan,2,Rohit Sharma,Bowled,-,Rashid Khan,131,84,16,5,155.95
-9,India,Afghanistan,2,Ishan Kishan,Catch,Ibrahim Zadran,Rashid Khan,47,47,5,2,100.00
+9,India,Afghanistan,2,Ishan Kishan,Catch,Ibrahim Zadran,Rashid Khan,47,47,5,2,100.0
 9,India,Afghanistan,2,Virat Kohli,Not out,-,-,55,56,6,0,98.21
-9,India,Afghanistan,2,Shreyas Iyer,Not out,-,-,25,23,1,1,108.70
+9,India,Afghanistan,2,Shreyas Iyer,Not out,-,-,25,23,1,1,108.7
 10,Australia,South Africa,2,Mitchell Marsh,Catch,Bavuma,Marco Jansen,7,15,0,0,46.67
 10,Australia,South Africa,2,David Warner,Catch,Rassie van der Dussen,Lungi Ngidi,13,27,2,0,48.15
 10,Australia,South Africa,2,Steven Smith,lbw,-,Kagiso Rabada,19,16,4,0,118.75
 10,Australia,South Africa,2,Marnus Labuschagne,Catch,Bavuma,Keshav Maharaj,46,74,3,0,62.16
-10,Australia,South Africa,2,Josh Inglis,Bowled,-,Kagiso Rabada,5,4,1,0,125.00
+10,Australia,South Africa,2,Josh Inglis,Bowled,-,Kagiso Rabada,5,4,1,0,125.0
 10,Australia,South Africa,2,Glenn Maxwell,Caught and Bowled,-,Keshav Maharaj,3,17,0,0,17.65
-10,Australia,South Africa,2,Marcus Stoinis,Catch,Quinton de Kock,Kagiso Rabada,5,4,1,0,125.00
+10,Australia,South Africa,2,Marcus Stoinis,Catch,Quinton de Kock,Kagiso Rabada,5,4,1,0,125.0
 10,Australia,South Africa,2,Mitchell Starc,Catch,Quinton de Kock,Marco Jansen,27,51,3,0,52.94
 10,Australia,South Africa,2,Pat Cummins,Catch,David Miller,Tabraiz Shamsi,22,21,4,0,104.76
 10,Australia,South Africa,2,Adam Zampa,Not out,-,-,11,16,1,0,68.75
-10,Australia,South Africa,2,Josh Hazlewood,Catch,Kagiso Rabada,Tabraiz Shamsi,2,2,0,0,100.00
+10,Australia,South Africa,2,Josh Hazlewood,Catch,Kagiso Rabada,Tabraiz Shamsi,2,2,0,0,100.0
 11,New Zealand,Bangladesh,2,Devon Conway,lbw,-,Shakib,45,59,3,0,76.27
 11,New Zealand,Bangladesh,2,Rachin Ravindra,Catch,Mushfiqur Rahim,Mustafizur Rahman,9,13,2,0,69.23
-11,New Zealand,Bangladesh,2,Kane Williamson,Retired hurt,-,-,78,107,8,1,72.90
+11,New Zealand,Bangladesh,2,Kane Williamson,Retired hurt,-,-,78,107,8,1,72.9
 11,New Zealand,Bangladesh,2,Daryl Mitchell,Not out,-,-,89,67,6,4,132.84
 11,New Zealand,Bangladesh,2,Glenn Phillips,Not out,-,-,16,11,1,1,145.45
 12,India,Pakistan,2,Rohit Sharma,Catch,Iftikhar Ahmed,Shaheen Afridi,86,63,6,6,136.51
@@ -562,11 +562,11 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 12,India,Pakistan,2,Virat Kohli,Catch,Mohammad Nawaz,Hasan Ali,16,18,3,0,88.89
 12,India,Pakistan,2,Shreyas Iyer,Not out,-,-,53,62,3,2,85.48
 12,India,Pakistan,2,KL Rahul,Not out,-,-,19,29,2,0,65.52
-13,England,Afghanistan,2,Jonny Bairstow,lbw,-,Fazalhaq Farooqi,2,4,0,0,50.00
+13,England,Afghanistan,2,Jonny Bairstow,lbw,-,Fazalhaq Farooqi,2,4,0,0,50.0
 13,England,Afghanistan,2,Dawid Malan,Catch,Ibrahim Zadran,Mohammad Nabi,32,39,4,0,82.05
 13,England,Afghanistan,2,Joe Root,Bowled,-,Mujeeb Ur Rahman,11,17,2,0,64.71
-13,England,Afghanistan,2,Harry Brook,Catch,Ikram Alikhil,Mujeeb Ur Rahman,66,61,7,1,108.20
-13,England,Afghanistan,2,Jos Buttler,Bowled,-,Naveen-ul-Haq,9,18,1,0,50.00
+13,England,Afghanistan,2,Harry Brook,Catch,Ikram Alikhil,Mujeeb Ur Rahman,66,61,7,1,108.2
+13,England,Afghanistan,2,Jos Buttler,Bowled,-,Naveen-ul-Haq,9,18,1,0,50.0
 13,England,Afghanistan,2,Liam Livingstone,lbw,-,Rashid Khan,10,14,1,0,71.43
 13,England,Afghanistan,2,Sam Curran,Catch,Rahmat Shah,Mohammad Nabi,10,23,0,0,43.48
 13,England,Afghanistan,2,Chris Woakes,Bowled,-,Mujeeb Ur Rahman,9,26,1,0,34.62
@@ -575,21 +575,21 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 13,England,Afghanistan,2,Reece Topley,Not out,-,-,15,7,3,0,214.29
 14,Australia,Sri Lanka,2,Mitchell Marsh,Run out,C Karunaratne/Kusal Mendis,-,52,51,9,0,101.96
 14,Australia,Sri Lanka,2,David Warner,lbw,-,Dilshan Madushanka,11,6,0,1,183.33
-14,Australia,Sri Lanka,2,Steven Smith,lbw,-,Dilshan Madushanka,0,5,0,0,0.00
+14,Australia,Sri Lanka,2,Steven Smith,lbw,-,Dilshan Madushanka,0,5,0,0,0.0
 14,Australia,Sri Lanka,2,Marnus Labuschagne,Catch,Dimuth Karunaratne,Dilshan Madushanka,40,60,2,0,66.67
 14,Australia,Sri Lanka,2,Josh Inglis,Catch,Maheesh Theekshana,Dunith Wellalage,58,59,5,1,98.31
 14,Australia,Sri Lanka,2,Glenn Maxwell,Not out,-,-,31,21,4,2,147.62
-14,Australia,Sri Lanka,2,Marcus Stoinis,Not out,-,-,20,10,2,1,200.00
+14,Australia,Sri Lanka,2,Marcus Stoinis,Not out,-,-,20,10,2,1,200.0
 15,South Africa,Netherlands,2,Temba Bavuma,Bowled,-,Roelof van der Merwe,16,31,2,1,51.61
 15,South Africa,Netherlands,2,Quinton de Kock,Catch,Edwards,Colin Ackermann,20,22,3,0,90.91
 15,South Africa,Netherlands,2,Rassie van der Dussen,Catch,Aryan Dutt,Roelof van der Merwe,4,7,0,0,57.14
 15,South Africa,Netherlands,2,Aiden Markram,Bowled,-,Paul van Meekeren,1,3,0,0,33.33
-15,South Africa,Netherlands,2,Heinrich Klaasen,Catch,Vikramjit Singh,Logan van Beek,28,28,4,0,100.00
+15,South Africa,Netherlands,2,Heinrich Klaasen,Catch,Vikramjit Singh,Logan van Beek,28,28,4,0,100.0
 15,South Africa,Netherlands,2,David Miller,Bowled,-,Logan van Beek,43,52,4,1,82.69
-15,South Africa,Netherlands,2,Marco Jansen,Bowled,-,Paul van Meekeren,9,25,0,0,36.00
+15,South Africa,Netherlands,2,Marco Jansen,Bowled,-,Paul van Meekeren,9,25,0,0,36.0
 15,South Africa,Netherlands,2,Gerald Coetzee,Catch,Edwards,Bas de Leede,22,23,2,1,95.65
 15,South Africa,Netherlands,2,Keshav Maharaj,Catch,Edwards,Logan van Beek,40,37,5,1,108.11
-15,South Africa,Netherlands,2,Kagiso Rabada,Catch,Sybrand Engelbrecht,Bas de Leede,9,6,0,1,150.00
+15,South Africa,Netherlands,2,Kagiso Rabada,Catch,Sybrand Engelbrecht,Bas de Leede,9,6,0,1,150.0
 15,South Africa,Netherlands,2,Lungi Ngidi,Not out,-,-,7,24,0,0,29.17
 16,Afghanistan,New Zealand,2,Rahmanullah Gurbaz,Bowled,-,Matt Henry,11,21,0,1,52.38
 16,Afghanistan,New Zealand,2,Ibrahim Zadran,Catch,Mitchell Santner,Trent Boult,14,15,2,0,93.33
@@ -600,26 +600,26 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 16,Afghanistan,New Zealand,2,Mohammad Nabi,Bowled,-,Mitchell Santner,7,9,1,0,77.78
 16,Afghanistan,New Zealand,2,Rashid Khan,Catch,Daryl Mitchell,Lockie Ferguson,8,13,0,1,61.54
 16,Afghanistan,New Zealand,2,Mujeeb Ur Rahman,Catch,Will Young,Lockie Ferguson,4,3,1,0,133.33
-16,Afghanistan,New Zealand,2,Naveen-ul-Haq,Catch,Mark Chapman,Mitchell Santner,0,1,0,0,0.00
-16,Afghanistan,New Zealand,2,Fazalhaq Farooqi,Catch,Daryl Mitchell,Mitchell Santner,0,2,0,0,0.00
-17,India,Bangladesh,2,Rohit Sharma,Catch,Towhid Hridoy,Hasan Mahmud,48,40,7,2,120.00
+16,Afghanistan,New Zealand,2,Naveen-ul-Haq,Catch,Mark Chapman,Mitchell Santner,0,1,0,0,0.0
+16,Afghanistan,New Zealand,2,Fazalhaq Farooqi,Catch,Daryl Mitchell,Mitchell Santner,0,2,0,0,0.0
+17,India,Bangladesh,2,Rohit Sharma,Catch,Towhid Hridoy,Hasan Mahmud,48,40,7,2,120.0
 17,India,Bangladesh,2,Shubman Gill,Catch,Mahmudullah,Mehidy Hasan Miraz,53,55,5,2,96.36
 17,India,Bangladesh,2,Virat Kohli,Not out,-,-,103,97,6,4,106.19
-17,India,Bangladesh,2,Shreyas Iyer,Catch,Mahmudullah,Mehidy Hasan Miraz,19,25,2,0,76.00
-17,India,Bangladesh,2,KL Rahul,Not out,-,-,34,34,3,1,100.00
+17,India,Bangladesh,2,Shreyas Iyer,Catch,Mahmudullah,Mehidy Hasan Miraz,19,25,2,0,76.0
+17,India,Bangladesh,2,KL Rahul,Not out,-,-,34,34,3,1,100.0
 18,Pakistan,Australia,2,Abdullah Shafique,Catch,Glenn Maxwell,Marcus Stoinis,64,61,7,2,104.92
 18,Pakistan,Australia,2,Imam-ul-Haq,Catch,Mitchell Starc,Marcus Stoinis,70,71,10,0,98.59
 18,Pakistan,Australia,2,Babar Azam,Catch,Cummins,Adam Zampa,18,14,3,0,128.57
-18,Pakistan,Australia,2,Mohammad Rizwan,lbw,-,Adam Zampa,46,40,5,0,115.00
+18,Pakistan,Australia,2,Mohammad Rizwan,lbw,-,Adam Zampa,46,40,5,0,115.0
 18,Pakistan,Australia,2,Saud Shakeel,Catch,Marcus Stoinis,Cummins,30,31,5,0,96.77
-18,Pakistan,Australia,2,Iftikhar Ahmed,lbw,-,Adam Zampa,26,20,0,3,130.00
-18,Pakistan,Australia,2,Mohammad Nawaz,Stump,Josh Inglis,Adam Zampa,14,16,0,1,87.50
-18,Pakistan,Australia,2,Usama Mir,Catch,Mitchell Starc,Josh Hazlewood,0,3,0,0,0.00
-18,Pakistan,Australia,2,Shaheen Afridi,Catch,Marnus Labuschagne,Cummins,10,8,2,0,125.00
-18,Pakistan,Australia,2,Hasan Ali,Catch,Josh Inglis,Mitchell Starc,8,8,2,0,100.00
-18,Pakistan,Australia,2,Haris Rauf,Not out,-,-,0,1,0,0,0.00
+18,Pakistan,Australia,2,Iftikhar Ahmed,lbw,-,Adam Zampa,26,20,0,3,130.0
+18,Pakistan,Australia,2,Mohammad Nawaz,Stump,Josh Inglis,Adam Zampa,14,16,0,1,87.5
+18,Pakistan,Australia,2,Usama Mir,Catch,Mitchell Starc,Josh Hazlewood,0,3,0,0,0.0
+18,Pakistan,Australia,2,Shaheen Afridi,Catch,Marnus Labuschagne,Cummins,10,8,2,0,125.0
+18,Pakistan,Australia,2,Hasan Ali,Catch,Josh Inglis,Mitchell Starc,8,8,2,0,100.0
+18,Pakistan,Australia,2,Haris Rauf,Not out,-,-,0,1,0,0,0.0
 19,Sri Lanka,Netherlands,2,Pathum Nissanka,Catch,Edwards,Paul van Meekeren,54,52,9,0,103.85
-19,Sri Lanka,Netherlands,2,Kusal Perera,Catch,Bas de Leede,Aryan Dutt,5,8,1,0,62.50
+19,Sri Lanka,Netherlands,2,Kusal Perera,Catch,Bas de Leede,Aryan Dutt,5,8,1,0,62.5
 19,Sri Lanka,Netherlands,2,Kusal Mendis,Catch,Paul van Meekeren,Aryan Dutt,11,17,2,0,64.71
 19,Sri Lanka,Netherlands,2,Sadeera Samarawickrama,Not out,-,-,91,107,7,0,85.05
 19,Sri Lanka,Netherlands,2,Charith Asalanka,Bowled,-,Aryan Dutt,44,66,2,1,66.67
@@ -628,57 +628,57 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 20,England,South Africa,2,Jonny Bairstow,Catch,Rassie van der Dussen,Lungi Ngidi,10,12,1,1,83.33
 20,England,South Africa,2,Dawid Malan,Catch,Quinton de Kock,Marco Jansen,6,11,1,0,54.55
 20,England,South Africa,2,Joe Root,Catch,David Miller,Marco Jansen,2,6,0,0,33.33
-20,England,South Africa,2,Ben Stokes,Caught and Bowled,-,Kagiso Rabada,5,8,1,0,62.50
-20,England,South Africa,2,Harry Brook,lbw,-,Gerald Coetzee,17,25,2,1,68.00
+20,England,South Africa,2,Ben Stokes,Caught and Bowled,-,Kagiso Rabada,5,8,1,0,62.5
+20,England,South Africa,2,Harry Brook,lbw,-,Gerald Coetzee,17,25,2,1,68.0
 20,England,South Africa,2,Jos Buttler,Catch,Quinton de Kock,Gerald Coetzee,15,7,2,1,214.29
-20,England,South Africa,2,David Willey,Catch,Kagiso Rabada,Lungi Ngidi,12,12,1,1,100.00
+20,England,South Africa,2,David Willey,Catch,Kagiso Rabada,Lungi Ngidi,12,12,1,1,100.0
 20,England,South Africa,2,Adil Rashid,Catch,Reeza Hendricks,Gerald Coetzee,10,14,1,0,71.43
 20,England,South Africa,2,Gus Atkinson,Bowled,-,Keshav Maharaj,35,21,7,0,166.67
 20,England,South Africa,2,Mark Wood,Not out,-,-,43,17,2,5,252.94
-20,England,South Africa,2,Reece Topley,Absent out,-,-,0,0,0,0,0.00
-21,India,New Zealand,2,Rohit Sharma,Bowled,-,Lockie Ferguson,46,40,4,4,115.00
+20,England,South Africa,2,Reece Topley,Absent out,-,-,0,0,0,0,0.0
+21,India,New Zealand,2,Rohit Sharma,Bowled,-,Lockie Ferguson,46,40,4,4,115.0
 21,India,New Zealand,2,Shubman Gill,Catch,Daryl Mitchell,Lockie Ferguson,26,31,5,0,83.87
 21,India,New Zealand,2,Virat Kohli,Catch,Glenn Phillips,Matt Henry,95,104,8,2,91.35
 21,India,New Zealand,2,Shreyas Iyer,Catch,Devon Conway,Trent Boult,33,29,6,0,113.79
 21,India,New Zealand,2,KL Rahul,lbw,-,Mitchell Santner,27,35,3,0,77.14
-21,India,New Zealand,2,Suryakumar Yadav,Run out,Santner/Boult/Latham,-,2,4,0,0,50.00
+21,India,New Zealand,2,Suryakumar Yadav,Run out,Santner/Boult/Latham,-,2,4,0,0,50.0
 21,India,New Zealand,2,Ravindra Jadeja,Not out,-,-,39,44,3,1,88.64
-21,India,New Zealand,2,Mohammed Shami,Not out,-,-,1,1,0,0,100.00
+21,India,New Zealand,2,Mohammed Shami,Not out,-,-,1,1,0,0,100.0
 22,Afghanistan,Pakistan,2,Rahmanullah Gurbaz,Catch,Usama Mir,Shaheen Afridi,65,53,9,1,122.64
 22,Afghanistan,Pakistan,2,Ibrahim Zadran,Catch,Rizwan,Hasan Ali,87,113,10,0,76.99
 22,Afghanistan,Pakistan,2,Rahmat Shah,Not out,-,-,77,84,5,2,91.67
 22,Afghanistan,Pakistan,2,Hashmatullah Shahidi,Not out,-,-,48,45,4,0,106.67
 23,Bangladesh,South Africa,2,Tanzid Hasan,Catch,Heinrich Klaasen,Marco Jansen,12,17,1,0,70.59
-23,Bangladesh,South Africa,2,Litton Das,lbw,-,Kagiso Rabada,22,44,3,1,50.00
-23,Bangladesh,South Africa,2,Najmul Hossain Shanto,Catch,Heinrich Klaasen,Marco Jansen,0,1,0,0,0.00
-23,Bangladesh,South Africa,2,Shakib Al Hasan,Catch,Heinrich Klaasen,Williams,1,4,0,0,25.00
+23,Bangladesh,South Africa,2,Litton Das,lbw,-,Kagiso Rabada,22,44,3,1,50.0
+23,Bangladesh,South Africa,2,Najmul Hossain Shanto,Catch,Heinrich Klaasen,Marco Jansen,0,1,0,0,0.0
+23,Bangladesh,South Africa,2,Shakib Al Hasan,Catch,Heinrich Klaasen,Williams,1,4,0,0,25.0
 23,Bangladesh,South Africa,2,Mushfiqur Rahim,Catch,(sub)Phehlukwayo,Gerald Coetzee,8,17,1,0,47.06
-23,Bangladesh,South Africa,2,Mahmudullah,Catch,Marco Jansen,Gerald Coetzee,111,111,11,4,100.00
+23,Bangladesh,South Africa,2,Mahmudullah,Catch,Marco Jansen,Gerald Coetzee,111,111,11,4,100.0
 23,Bangladesh,South Africa,2,Mehidy Hasan Miraz,Catch,(sub)Phehlukwayo,Keshav Maharaj,11,19,1,0,57.89
-23,Bangladesh,South Africa,2,Nasum Ahmed,Caught and Bowled,-,Gerald Coetzee,19,19,3,0,100.00
-23,Bangladesh,South Africa,2,Hasan Mahmud,Catch,Gerald Coetzee,Kagiso Rabada,15,25,2,0,60.00
+23,Bangladesh,South Africa,2,Nasum Ahmed,Caught and Bowled,-,Gerald Coetzee,19,19,3,0,100.0
+23,Bangladesh,South Africa,2,Hasan Mahmud,Catch,Gerald Coetzee,Kagiso Rabada,15,25,2,0,60.0
 23,Bangladesh,South Africa,2,Mustafizur Rahman,Catch,David Miller,Williams,11,21,2,0,52.38
-23,Bangladesh,South Africa,2,Shoriful Islam,Not out,-,-,6,4,1,0,150.00
-24,Netherlands,Australia,2,Vikramjit Singh,Run out,Glenn Maxwell,-,25,25,6,0,100.00
+23,Bangladesh,South Africa,2,Shoriful Islam,Not out,-,-,6,4,1,0,150.0
+24,Netherlands,Australia,2,Vikramjit Singh,Run out,Glenn Maxwell,-,25,25,6,0,100.0
 24,Netherlands,Australia,2,Max ODowd,Bowled,-,Mitchell Starc,6,9,1,0,66.67
 24,Netherlands,Australia,2,Colin Ackermann,lbw,-,Josh Hazlewood,10,11,2,0,90.91
 24,Netherlands,Australia,2,Sybrand Engelbrecht,Catch,David Warner,Mitchell Marsh,11,21,1,0,52.38
 24,Netherlands,Australia,2,Bas de Leede,lbw,-,Cummins,4,7,1,0,57.14
 24,Netherlands,Australia,2,Scott Edwards,Not out,-,-,12,22,0,0,54.55
 24,Netherlands,Australia,2,Teja Nidamanuru,Catch,Josh Inglis,Mitchell Marsh,14,18,2,0,77.78
-24,Netherlands,Australia,2,Logan van Beek,Catch,Josh Inglis,Adam Zampa,0,3,0,0,0.00
-24,Netherlands,Australia,2,Roelof van der Merwe,lbw,-,Adam Zampa,0,1,0,0,0.00
-24,Netherlands,Australia,2,Aryan Dutt,lbw,-,Adam Zampa,1,8,0,0,12.50
-24,Netherlands,Australia,2,Paul van Meekeren,Stump,Josh Inglis,Adam Zampa,0,1,0,0,0.00
+24,Netherlands,Australia,2,Logan van Beek,Catch,Josh Inglis,Adam Zampa,0,3,0,0,0.0
+24,Netherlands,Australia,2,Roelof van der Merwe,lbw,-,Adam Zampa,0,1,0,0,0.0
+24,Netherlands,Australia,2,Aryan Dutt,lbw,-,Adam Zampa,1,8,0,0,12.5
+24,Netherlands,Australia,2,Paul van Meekeren,Stump,Josh Inglis,Adam Zampa,0,1,0,0,0.0
 25,Sri Lanka,England,2,Pathum Nissanka,Not out,-,-,77,83,7,2,92.77
-25,Sri Lanka,England,2,Kusal Perera,Catch,Ben Stokes,David Willey,4,5,1,0,80.00
+25,Sri Lanka,England,2,Kusal Perera,Catch,Ben Stokes,David Willey,4,5,1,0,80.0
 25,Sri Lanka,England,2,Kusal Mendis,Catch,Jos Buttler,David Willey,11,12,2,0,91.67
 25,Sri Lanka,England,2,Sadeera Samarawickrama,Not out,-,-,65,54,7,1,120.37
-26,South Africa,Pakistan,2,Temba Bavuma,Catch,Saud Shakeel,Mohammad Wasim Jr,28,27,4,1,103.70
+26,South Africa,Pakistan,2,Temba Bavuma,Catch,Saud Shakeel,Mohammad Wasim Jr,28,27,4,1,103.7
 26,South Africa,Pakistan,2,Quinton de Kock,Catch,Mohammad Wasim Jr,Shaheen Afridi,24,14,5,0,171.43
 26,South Africa,Pakistan,2,Rassie van der Dussen,lbw,-,Usama Mir,21,39,0,0,53.85
 26,South Africa,Pakistan,2,Aiden Markram,Catch,Babar Azam,Usama Mir,91,93,7,3,97.85
-26,South Africa,Pakistan,2,Heinrich Klaasen,Catch,Usama Mir,Mohammad Wasim Jr,12,10,0,1,120.00
+26,South Africa,Pakistan,2,Heinrich Klaasen,Catch,Usama Mir,Mohammad Wasim Jr,12,10,0,1,120.0
 26,South Africa,Pakistan,2,David Miller,Catch,Rizwan,Shaheen Afridi,29,33,2,2,87.88
 26,South Africa,Pakistan,2,Marco Jansen,Catch,Babar Azam,Haris Rauf,20,14,2,1,142.86
 26,South Africa,Pakistan,2,Gerald Coetzee,Catch,Rizwan,Shaheen Afridi,10,13,0,0,76.92
@@ -690,35 +690,35 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 27,New Zealand,Australia,2,Rachin Ravindra,Catch,Marnus Labuschagne,Cummins,116,89,9,5,130.34
 27,New Zealand,Australia,2,Daryl Mitchell,Catch,Mitchell Starc,Adam Zampa,54,51,6,1,105.88
 27,New Zealand,Australia,2,Tom Latham,Catch,Josh Hazlewood,Adam Zampa,21,22,2,0,95.45
-27,New Zealand,Australia,2,Glenn Phillips,Catch,Marnus Labuschagne,Glenn Maxwell,12,16,1,0,75.00
+27,New Zealand,Australia,2,Glenn Phillips,Catch,Marnus Labuschagne,Glenn Maxwell,12,16,1,0,75.0
 27,New Zealand,Australia,2,James Neesham,Run out,Labuschagne/Josh Inglis,-,58,39,3,3,148.72
 27,New Zealand,Australia,2,Mitchell Santner,Catch,Glenn Maxwell,Adam Zampa,17,12,1,1,141.67
-27,New Zealand,Australia,2,Matt Henry,Catch,Josh Hazlewood,Cummins,9,8,1,0,112.50
-27,New Zealand,Australia,2,Trent Boult,Not out,-,-,10,8,0,1,125.00
-27,New Zealand,Australia,2,Lockie Ferguson,Not out,-,-,0,1,0,0,0.00
-28,Bangladesh,Netherlands,2,Litton Das,Catch,Edwards,Aryan Dutt,3,12,0,0,25.00
+27,New Zealand,Australia,2,Matt Henry,Catch,Josh Hazlewood,Cummins,9,8,1,0,112.5
+27,New Zealand,Australia,2,Trent Boult,Not out,-,-,10,8,0,1,125.0
+27,New Zealand,Australia,2,Lockie Ferguson,Not out,-,-,0,1,0,0,0.0
+28,Bangladesh,Netherlands,2,Litton Das,Catch,Edwards,Aryan Dutt,3,12,0,0,25.0
 28,Bangladesh,Netherlands,2,Tanzid Hasan,Catch,Edwards,Logan van Beek,15,16,3,0,93.75
-28,Bangladesh,Netherlands,2,Mehidy Hasan Miraz,Catch,Edwards,Bas de Leede,35,40,5,1,87.50
-28,Bangladesh,Netherlands,2,Najmul Hossain Shanto,Catch,Logan van Beek,Paul van Meekeren,9,18,2,0,50.00
+28,Bangladesh,Netherlands,2,Mehidy Hasan Miraz,Catch,Edwards,Bas de Leede,35,40,5,1,87.5
+28,Bangladesh,Netherlands,2,Najmul Hossain Shanto,Catch,Logan van Beek,Paul van Meekeren,9,18,2,0,50.0
 28,Bangladesh,Netherlands,2,Shakib Al Hasan,Catch,Edwards,Paul van Meekeren,5,14,0,0,35.71
-28,Bangladesh,Netherlands,2,Mushfiqur Rahim,Bowled,-,Paul van Meekeren,1,5,0,0,20.00
+28,Bangladesh,Netherlands,2,Mushfiqur Rahim,Bowled,-,Paul van Meekeren,1,5,0,0,20.0
 28,Bangladesh,Netherlands,2,Mahmudullah,Catch,Aryan Dutt,Bas de Leede,20,41,2,0,48.78
 28,Bangladesh,Netherlands,2,Mahedi Hasan,Run out,Bas de Leede,-,17,38,1,0,44.74
 28,Bangladesh,Netherlands,2,Taskin Ahmed,Catch,Bas de Leede,Paul van Meekeren,11,35,1,0,31.43
 28,Bangladesh,Netherlands,2,Mustafizur Rahman,Bowled,-,Colin Ackermann,20,35,2,1,57.14
-28,Bangladesh,Netherlands,2,Shoriful Islam,Not out,-,-,0,0,0,0,0.00
+28,Bangladesh,Netherlands,2,Shoriful Islam,Not out,-,-,0,0,0,0,0.0
 29,England,India,2,Jonny Bairstow,Bowled,-,Mohammed Shami,14,23,2,0,60.87
 29,England,India,2,Dawid Malan,Bowled,-,Jasprit Bumrah,16,17,2,1,94.12
-29,England,India,2,Joe Root,lbw,-,Jasprit Bumrah,0,1,0,0,0.00
-29,England,India,2,Ben Stokes,Bowled,-,Mohammed Shami,0,10,0,0,0.00
+29,England,India,2,Joe Root,lbw,-,Jasprit Bumrah,0,1,0,0,0.0
+29,England,India,2,Ben Stokes,Bowled,-,Mohammed Shami,0,10,0,0,0.0
 29,England,India,2,Jos Buttler,Bowled,-,Kuldeep Yadav,10,23,1,0,43.48
 29,England,India,2,Moeen Ali,Catch,Rahul,Mohammed Shami,15,31,0,0,48.39
-29,England,India,2,Liam Livingstone,lbw,-,Kuldeep Yadav,27,46,2,0,58.70
-29,England,India,2,Chris Woakes,Stump,Rahul,Ravindra Jadeja,10,20,1,0,50.00
+29,England,India,2,Liam Livingstone,lbw,-,Kuldeep Yadav,27,46,2,0,58.7
+29,England,India,2,Chris Woakes,Stump,Rahul,Ravindra Jadeja,10,20,1,0,50.0
 29,England,India,2,David Willey,Not out,-,-,16,17,0,2,94.12
-29,England,India,2,Adil Rashid,Bowled,-,Mohammed Shami,13,20,2,0,65.00
-29,England,India,2,Mark Wood,Bowled,-,Jasprit Bumrah,0,1,0,0,0.00
-30,Afghanistan,Sri Lanka,2,Rahmanullah Gurbaz,Bowled,-,Dilshan Madushanka,0,4,0,0,0.00
+29,England,India,2,Adil Rashid,Bowled,-,Mohammed Shami,13,20,2,0,65.0
+29,England,India,2,Mark Wood,Bowled,-,Jasprit Bumrah,0,1,0,0,0.0
+30,Afghanistan,Sri Lanka,2,Rahmanullah Gurbaz,Bowled,-,Dilshan Madushanka,0,4,0,0,0.0
 30,Afghanistan,Sri Lanka,2,Ibrahim Zadran,Catch,Dimuth Karunaratne,Dilshan Madushanka,39,57,4,1,68.42
 30,Afghanistan,Sri Lanka,2,Rahmat Shah,Catch,Dimuth Karunaratne,Kasun Rajitha,62,74,7,0,83.78
 30,Afghanistan,Sri Lanka,2,Hashmatullah Shahidi,Not out,-,-,58,74,2,1,78.38
@@ -731,82 +731,82 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 32,New Zealand,South Africa,2,Devon Conway,Catch,Aiden Markram,Marco Jansen,2,6,0,0,33.33
 32,New Zealand,South Africa,2,Will Young,Catch,Quinton de Kock,Gerald Coetzee,33,37,5,0,89.19
 32,New Zealand,South Africa,2,Rachin Ravindra,Catch,Gerald Coetzee,Marco Jansen,9,16,1,0,56.25
-32,New Zealand,South Africa,2,Daryl Mitchell,Catch,David Miller,Keshav Maharaj,24,30,4,0,80.00
+32,New Zealand,South Africa,2,Daryl Mitchell,Catch,David Miller,Keshav Maharaj,24,30,4,0,80.0
 32,New Zealand,South Africa,2,Tom Latham,Catch,Keshav Maharaj,Kagiso Rabada,4,15,0,0,26.67
-32,New Zealand,South Africa,2,Glenn Phillips,Catch,Kagiso Rabada,Gerald Coetzee,60,50,4,4,120.00
+32,New Zealand,South Africa,2,Glenn Phillips,Catch,Kagiso Rabada,Gerald Coetzee,60,50,4,4,120.0
 32,New Zealand,South Africa,2,Mitchell Santner,Bowled,-,Keshav Maharaj,7,18,1,0,38.89
 32,New Zealand,South Africa,2,Tim Southee,lbw,-,Marco Jansen,7,11,1,0,63.64
-32,New Zealand,South Africa,2,James Neesham,Bowled,-,Keshav Maharaj,0,8,0,0,0.00
+32,New Zealand,South Africa,2,James Neesham,Bowled,-,Keshav Maharaj,0,8,0,0,0.0
 32,New Zealand,South Africa,2,Trent Boult,Catch,David Miller,Keshav Maharaj,9,14,1,0,64.29
-32,New Zealand,South Africa,2,Matt Henry,Not out,-,-,0,9,0,0,0.00
-33,Sri Lanka,India,2,Pathum Nissanka,lbw,-,Jasprit Bumrah,0,1,0,0,0.00
-33,Sri Lanka,India,2,Dimuth Karunaratne,lbw,-,Mohammed Siraj,0,1,0,0,0.00
-33,Sri Lanka,India,2,Kusal Mendis,Bowled,-,Mohammed Siraj,1,10,0,0,10.00
-33,Sri Lanka,India,2,Sadeera Samarawickrama,Catch,Shreyas Iyer,Mohammed Siraj,0,4,0,0,0.00
+32,New Zealand,South Africa,2,Matt Henry,Not out,-,-,0,9,0,0,0.0
+33,Sri Lanka,India,2,Pathum Nissanka,lbw,-,Jasprit Bumrah,0,1,0,0,0.0
+33,Sri Lanka,India,2,Dimuth Karunaratne,lbw,-,Mohammed Siraj,0,1,0,0,0.0
+33,Sri Lanka,India,2,Kusal Mendis,Bowled,-,Mohammed Siraj,1,10,0,0,10.0
+33,Sri Lanka,India,2,Sadeera Samarawickrama,Catch,Shreyas Iyer,Mohammed Siraj,0,4,0,0,0.0
 33,Sri Lanka,India,2,Charith Asalanka,Catch,Ravindra Jadeja,Mohammed Shami,1,24,0,0,4.17
-33,Sri Lanka,India,2,Angelo Mathews,Bowled,-,Mohammed Shami,12,25,1,0,48.00
-33,Sri Lanka,India,2,Dushan Hemantha,Catch,Rahul,Mohammed Shami,0,1,0,0,0.00
-33,Sri Lanka,India,2,Dushmantha Chameera,Catch,Rahul,Mohammed Shami,0,6,0,0,0.00
+33,Sri Lanka,India,2,Angelo Mathews,Bowled,-,Mohammed Shami,12,25,1,0,48.0
+33,Sri Lanka,India,2,Dushan Hemantha,Catch,Rahul,Mohammed Shami,0,1,0,0,0.0
+33,Sri Lanka,India,2,Dushmantha Chameera,Catch,Rahul,Mohammed Shami,0,6,0,0,0.0
 33,Sri Lanka,India,2,Maheesh Theekshana,Not out,-,-,12,23,2,0,52.17
 33,Sri Lanka,India,2,Kasun Rajitha,Catch,Shubman Gill,Mohammed Shami,14,17,2,0,82.35
 33,Sri Lanka,India,2,Dilshan Madushanka,Catch,Shreyas Iyer,Ravindra Jadeja,5,6,1,0,83.33
 34,Afghanistan,Netherlands,2,Rahmanullah Gurbaz,Catch,Edwards,Logan van Beek,10,11,2,0,90.91
 34,Afghanistan,Netherlands,2,Ibrahim Zadran,Bowled,-,Roelof van der Merwe,20,34,2,0,58.82
-34,Afghanistan,Netherlands,2,Rahmat Shah,Caught and Bowled,-,Saqib Zulfiqar,52,54,8,0,96.30
-34,Afghanistan,Netherlands,2,Hashmatullah Shahidi,Not out,-,-,56,64,6,0,87.50
+34,Afghanistan,Netherlands,2,Rahmat Shah,Caught and Bowled,-,Saqib Zulfiqar,52,54,8,0,96.3
+34,Afghanistan,Netherlands,2,Hashmatullah Shahidi,Not out,-,-,56,64,6,0,87.5
 34,Afghanistan,Netherlands,2,Azmatullah Omarzai,Not out,-,-,31,28,3,0,110.71
 35,Pakistan,New Zealand,2,Abdullah Shafique,Catch,Williamson,Southee,4,9,1,0,44.44
 35,Pakistan,New Zealand,2,Fakhar Zaman,Not out,-,-,126,81,8,11,155.56
 35,Pakistan,New Zealand,2,Babar Azam,Not out,-,-,66,63,6,2,104.76
-36,England,Australia,2,Jonny Bairstow,Catch,Josh Inglis,Mitchell Starc,0,1,0,0,0.00
+36,England,Australia,2,Jonny Bairstow,Catch,Josh Inglis,Mitchell Starc,0,1,0,0,0.0
 36,England,Australia,2,Dawid Malan,Catch,Travis Head,Cummins,50,64,4,1,78.12
 36,England,Australia,2,Joe Root,Catch,Josh Inglis,Mitchell Starc,13,17,2,0,76.47
 36,England,Australia,2,Ben Stokes,Catch,Marcus Stoinis,Adam Zampa,64,90,2,3,71.11
 36,England,Australia,2,Jos Buttler,Catch,Cameron Green,Adam Zampa,1,7,0,0,14.29
 36,England,Australia,2,Moeen Ali,Catch,David Warner,Adam Zampa,42,43,6,0,97.67
-36,England,Australia,2,Liam Livingstone,Catch,(sub)Abbott,Cummins,2,5,0,0,40.00
+36,England,Australia,2,Liam Livingstone,Catch,(sub)Abbott,Cummins,2,5,0,0,40.0
 36,England,Australia,2,Chris Woakes,Catch,Marnus Labuschagne,Marcus Stoinis,32,33,4,1,96.97
 36,England,Australia,2,David Willey,Catch,Adam Zampa,Josh Hazlewood,15,14,3,0,107.14
 36,England,Australia,2,Adil Rashid,Catch,Josh Inglis,Josh Hazlewood,20,15,1,1,133.33
-36,England,Australia,2,Mark Wood,Not out,-,-,0,0,0,0,0.00
-37,South Africa,India,2,Quinton de Kock,Bowled,-,Mohammed Siraj,5,10,1,0,50.00
+36,England,Australia,2,Mark Wood,Not out,-,-,0,0,0,0,0.0
+37,South Africa,India,2,Quinton de Kock,Bowled,-,Mohammed Siraj,5,10,1,0,50.0
 37,South Africa,India,2,Temba Bavuma,Bowled,-,Ravindra Jadeja,11,19,1,0,57.89
 37,South Africa,India,2,Rassie van der Dussen,lbw,-,Mohammed Shami,13,32,1,0,40.62
-37,South Africa,India,2,Aiden Markram,Catch,Rahul,Mohammed Shami,9,6,2,0,150.00
+37,South Africa,India,2,Aiden Markram,Catch,Rahul,Mohammed Shami,9,6,2,0,150.0
 37,South Africa,India,2,Heinrich Klaasen,lbw,-,Ravindra Jadeja,1,11,0,0,9.09
-37,South Africa,India,2,David Miller,Bowled,-,Ravindra Jadeja,11,11,2,0,100.00
+37,South Africa,India,2,David Miller,Bowled,-,Ravindra Jadeja,11,11,2,0,100.0
 37,South Africa,India,2,Marco Jansen,Catch,Ravindra Jadeja,Kuldeep Yadav,14,30,1,0,46.67
 37,South Africa,India,2,Keshav Maharaj,Bowled,-,Ravindra Jadeja,7,11,1,0,63.64
 37,South Africa,India,2,Kagiso Rabada,Caught and Bowled,-,Ravindra Jadeja,6,26,0,0,23.08
-37,South Africa,India,2,Lungi Ngidi,Bowled,-,Kuldeep Yadav,0,3,0,0,0.00
-37,South Africa,India,2,Tabraiz Shamsi,Not out,-,-,4,4,1,0,100.00
-38,Bangladesh,Sri Lanka,2,Tanzid Hasan,Catch,Pathum Nissanka,Dilshan Madushanka,9,5,2,0,180.00
+37,South Africa,India,2,Lungi Ngidi,Bowled,-,Kuldeep Yadav,0,3,0,0,0.0
+37,South Africa,India,2,Tabraiz Shamsi,Not out,-,-,4,4,1,0,100.0
+38,Bangladesh,Sri Lanka,2,Tanzid Hasan,Catch,Pathum Nissanka,Dilshan Madushanka,9,5,2,0,180.0
 38,Bangladesh,Sri Lanka,2,Litton Das,lbw,-,Dilshan Madushanka,23,22,2,2,104.55
 38,Bangladesh,Sri Lanka,2,Najmul Hossain Shanto,Bowled,-,Angelo Mathews,90,101,12,0,89.11
 38,Bangladesh,Sri Lanka,2,Shakib Al Hasan,Catch,Charith Asalanka,Angelo Mathews,82,65,12,2,126.15
 38,Bangladesh,Sri Lanka,2,Mahmudullah,Bowled,-,Maheesh Theekshana,22,23,3,1,95.65
 38,Bangladesh,Sri Lanka,2,Mushfiqur Rahim,Bowled,-,Dilshan Madushanka,10,13,1,0,76.92
 38,Bangladesh,Sri Lanka,2,Towhid Hridoy,Not out,-,-,15,7,0,2,214.29
-38,Bangladesh,Sri Lanka,2,Mehidy Hasan Miraz,Catch,Charith Asalanka,Maheesh Theekshana,3,5,0,0,60.00
+38,Bangladesh,Sri Lanka,2,Mehidy Hasan Miraz,Catch,Charith Asalanka,Maheesh Theekshana,3,5,0,0,60.0
 38,Bangladesh,Sri Lanka,2,Tanzim Hasan Sakib,Not out,-,-,5,6,1,0,83.33
 39,Australia,Afghanistan,2,David Warner,Bowled,-,Azmatullah Omarzai,18,29,3,0,62.07
-39,Australia,Afghanistan,2,Travis Head,Catch,Ikram Alikhil,Naveen-ul-Haq,0,2,0,0,0.00
+39,Australia,Afghanistan,2,Travis Head,Catch,Ikram Alikhil,Naveen-ul-Haq,0,2,0,0,0.0
 39,Australia,Afghanistan,2,Mitchell Marsh,lbw,-,Naveen-ul-Haq,24,11,2,2,218.18
-39,Australia,Afghanistan,2,Marnus Labuschagne,Run out,Rahmat Shah,-,14,28,2,0,50.00
-39,Australia,Afghanistan,2,Josh Inglis,Catch,Ibrahim Zadran,Azmatullah Omarzai,0,1,0,0,0.00
+39,Australia,Afghanistan,2,Marnus Labuschagne,Run out,Rahmat Shah,-,14,28,2,0,50.0
+39,Australia,Afghanistan,2,Josh Inglis,Catch,Ibrahim Zadran,Azmatullah Omarzai,0,1,0,0,0.0
 39,Australia,Afghanistan,2,Glenn Maxwell,Not out,-,-,201,128,21,10,157.03
 39,Australia,Afghanistan,2,Marcus Stoinis,lbw,-,Rashid Khan,6,7,1,0,85.71
 39,Australia,Afghanistan,2,Mitchell Starc,Catch,Ikram Alikhil,Rashid Khan,3,7,0,0,42.86
 39,Australia,Afghanistan,2,Pat Cummins,Not out,-,-,12,68,1,0,17.65
 40,Netherlands,England,2,Wesley Barresi,Run out,Chris Woakes/Moeen,-,37,62,3,1,59.68
 40,Netherlands,England,2,Max ODowd,Catch,Moeen Ali,Chris Woakes,5,11,1,0,45.45
-40,Netherlands,England,2,Colin Ackermann,Catch,Jos Buttler,David Willey,0,2,0,0,0.00
+40,Netherlands,England,2,Colin Ackermann,Catch,Jos Buttler,David Willey,0,2,0,0,0.0
 40,Netherlands,England,2,Sybrand Engelbrecht,Catch,Chris Woakes,David Willey,33,49,3,1,67.35
 40,Netherlands,England,2,Scott Edwards,Catch,Dawid Malan,Moeen Ali,38,42,3,1,90.48
 40,Netherlands,England,2,Bas de Leede,Bowled,-,Adil Rashid,10,12,2,0,83.33
 40,Netherlands,England,2,Teja Nidamanuru,Not out,-,-,41,34,2,3,120.59
-40,Netherlands,England,2,Logan van Beek,Catch,Dawid Malan,Adil Rashid,2,2,0,0,100.00
-40,Netherlands,England,2,Roelof van der Merwe,Catch,Adil Rashid,Moeen Ali,0,4,0,0,0.00
+40,Netherlands,England,2,Logan van Beek,Catch,Dawid Malan,Adil Rashid,2,2,0,0,100.0
+40,Netherlands,England,2,Roelof van der Merwe,Catch,Adil Rashid,Moeen Ali,0,4,0,0,0.0
 40,Netherlands,England,2,Aryan Dutt,Bowled,-,Adil Rashid,1,3,0,0,33.33
 40,Netherlands,England,2,Paul van Meekeren,Stump,Jos Buttler,Moeen Ali,4,3,1,0,133.33
 41,New Zealand,Sri Lanka,2,Devon Conway,Catch,Dhananjaya de Silva,Dushmantha Chameera,45,42,9,0,107.14
@@ -814,11 +814,11 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 41,New Zealand,Sri Lanka,2,Kane Williamson,Bowled,-,Angelo Mathews,14,15,2,0,93.33
 41,New Zealand,Sri Lanka,2,Daryl Mitchell,Catch,Charith Asalanka,Angelo Mathews,43,31,5,2,138.71
 41,New Zealand,Sri Lanka,2,Mark Chapman,Run out,Samarawickrama/Mathews,-,7,6,1,0,116.67
-41,New Zealand,Sri Lanka,2,Glenn Phillips,Not out,-,-,17,10,3,0,170.00
-41,New Zealand,Sri Lanka,2,Tom Latham,Not out,-,-,2,2,0,0,100.00
+41,New Zealand,Sri Lanka,2,Glenn Phillips,Not out,-,-,17,10,3,0,170.0
+41,New Zealand,Sri Lanka,2,Tom Latham,Not out,-,-,2,2,0,0,100.0
 42,South Africa,Afghanistan,2,Quinton de Kock,lbw,-,Mohammad Nabi,41,47,2,3,87.23
 42,South Africa,Afghanistan,2,Temba Bavuma,Catch,Gurbaz,Mujeeb Ur Rahman,23,28,3,0,82.14
-42,South Africa,Afghanistan,2,Rassie van der Dussen,Not out,-,-,76,95,6,1,80.00
+42,South Africa,Afghanistan,2,Rassie van der Dussen,Not out,-,-,76,95,6,1,80.0
 42,South Africa,Afghanistan,2,Aiden Markram,Catch,Naveen-ul-Haq,Rashid Khan,25,32,1,1,78.12
 42,South Africa,Afghanistan,2,Heinrich Klaasen,Bowled,-,Rashid Khan,10,13,1,0,76.92
 42,South Africa,Afghanistan,2,David Miller,Caught and Bowled,-,Mohammad Nabi,24,33,1,1,72.73
@@ -827,18 +827,18 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 43,Australia,Bangladesh,2,David Warner,Catch,Najmul Hossain Shanto,Mustafizur Rahman,53,61,6,0,86.89
 43,Australia,Bangladesh,2,Mitchell Marsh,Not out,-,-,177,132,17,9,134.09
 43,Australia,Bangladesh,2,Steven Smith,Not out,-,-,63,64,4,1,98.44
-44,Pakistan,England,2,Abdullah Shafique,lbw,-,David Willey,0,2,0,0,0.00
+44,Pakistan,England,2,Abdullah Shafique,lbw,-,David Willey,0,2,0,0,0.0
 44,Pakistan,England,2,Fakhar Zaman,Catch,Ben Stokes,David Willey,1,9,0,0,11.11
 44,Pakistan,England,2,Babar Azam,Catch,Adil Rashid,Gus Atkinson,38,45,6,0,84.44
 44,Pakistan,England,2,Mohammad Rizwan,Bowled,-,Moeen Ali,36,51,2,0,70.59
 44,Pakistan,England,2,Saud Shakeel,Bowled,-,Adil Rashid,29,37,4,0,78.38
 44,Pakistan,England,2,Agha Salman,Catch,Ben Stokes,David Willey,51,45,6,1,113.33
-44,Pakistan,England,2,Iftikhar Ahmed,Catch,Dawid Malan,Moeen Ali,3,5,0,0,60.00
+44,Pakistan,England,2,Iftikhar Ahmed,Catch,Dawid Malan,Moeen Ali,3,5,0,0,60.0
 44,Pakistan,England,2,Shadab Khan,Bowled,-,Adil Rashid,4,7,1,0,57.14
-44,Pakistan,England,2,Shaheen Afridi,lbw,-,Gus Atkinson,25,23,3,1,108.70
+44,Pakistan,England,2,Shaheen Afridi,lbw,-,Gus Atkinson,25,23,3,1,108.7
 44,Pakistan,England,2,Mohammad Wasim Jr,Not out,-,-,16,14,2,1,114.29
 44,Pakistan,England,2,Haris Rauf,Catch,Ben Stokes,Chris Woakes,35,23,3,3,152.17
-45,Netherlands,India,2,Wesley Barresi,Catch,Rahul,Mohammed Siraj,4,5,0,0,80.00
+45,Netherlands,India,2,Wesley Barresi,Catch,Rahul,Mohammed Siraj,4,5,0,0,80.0
 45,Netherlands,India,2,Max ODowd,Bowled,-,Ravindra Jadeja,30,42,3,1,71.43
 45,Netherlands,India,2,Colin Ackermann,lbw,-,Kuldeep Yadav,35,32,6,0,109.38
 45,Netherlands,India,2,Sybrand Engelbrecht,Bowled,-,Mohammed Siraj,45,80,4,0,56.25
@@ -846,32 +846,32 @@ Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,B
 45,Netherlands,India,2,Bas de Leede,Bowled,-,Jasprit Bumrah,12,21,1,0,57.14
 45,Netherlands,India,2,Teja Nidamanuru,Catch,Mohammed Shami,Rohit,54,39,1,6,138.46
 45,Netherlands,India,2,Logan van Beek,Bowled,-,Kuldeep Yadav,16,15,2,0,106.67
-45,Netherlands,India,2,Roelof van der Merwe,Catch,Mohammed Shami,Ravindra Jadeja,16,8,1,2,200.00
+45,Netherlands,India,2,Roelof van der Merwe,Catch,Mohammed Shami,Ravindra Jadeja,16,8,1,2,200.0
 45,Netherlands,India,2,Aryan Dutt,Bowled,-,Jasprit Bumrah,5,11,0,0,45.45
-45,Netherlands,India,2,Paul van Meekeren,Not out,-,-,3,4,0,0,75.00
+45,Netherlands,India,2,Paul van Meekeren,Not out,-,-,3,4,0,0,75.0
 46,New Zealand,India,2,Devon Conway,Catch,Rahul,Mohammed Shami,13,15,3,0,86.67
 46,New Zealand,India,2,Rachin Ravindra,Catch,Rahul,Mohammed Shami,13,22,3,0,59.09
 46,New Zealand,India,2,Kane Williamson,Catch,Suryakumar Yadav,Mohammed Shami,69,73,9,1,94.52
 46,New Zealand,India,2,Daryl Mitchell,Catch,Ravindra Jadeja,Mohammed Shami,134,119,9,7,112.61
-46,New Zealand,India,2,Tom Latham,lbw,-,Mohammed Shami,0,2,0,0,0.00
+46,New Zealand,India,2,Tom Latham,lbw,-,Mohammed Shami,0,2,0,0,0.0
 46,New Zealand,India,2,Glenn Phillips,Catch,Ravindra Jadeja,Jasprit Bumrah,41,33,4,2,124.24
-46,New Zealand,India,2,Mark Chapman,Catch,Ravindra Jadeja,Kuldeep Yadav,2,5,0,0,40.00
-46,New Zealand,India,2,Mitchell Santner,Catch,Rohit,Mohammed Siraj,9,10,0,0,90.00
-46,New Zealand,India,2,Tim Southee,Catch,Rahul,Mohammed Shami,9,10,1,0,90.00
-46,New Zealand,India,2,Trent Boult,Not out,-,-,2,2,0,0,100.00
-46,New Zealand,India,2,Lockie Ferguson,Catch,Rahul,Mohammed Shami,6,3,0,1,200.00
+46,New Zealand,India,2,Mark Chapman,Catch,Ravindra Jadeja,Kuldeep Yadav,2,5,0,0,40.0
+46,New Zealand,India,2,Mitchell Santner,Catch,Rohit,Mohammed Siraj,9,10,0,0,90.0
+46,New Zealand,India,2,Tim Southee,Catch,Rahul,Mohammed Shami,9,10,1,0,90.0
+46,New Zealand,India,2,Trent Boult,Not out,-,-,2,2,0,0,100.0
+46,New Zealand,India,2,Lockie Ferguson,Catch,Rahul,Mohammed Shami,6,3,0,1,200.0
 47,Australia,South Africa,2,Travis Head,Bowled,-,Keshav Maharaj,62,48,9,2,129.17
 47,Australia,South Africa,2,David Warner,Bowled,-,Aiden Markram,29,18,1,4,161.11
-47,Australia,South Africa,2,Mitchell Marsh,Catch,Rassie van der Dussen,Kagiso Rabada,0,6,0,0,0.00
+47,Australia,South Africa,2,Mitchell Marsh,Catch,Rassie van der Dussen,Kagiso Rabada,0,6,0,0,0.0
 47,Australia,South Africa,2,Steven Smith,Catch,Quinton de Kock,Gerald Coetzee,30,62,2,0,48.39
 47,Australia,South Africa,2,Marnus Labuschagne,lbw,-,Tabraiz Shamsi,18,31,2,0,58.06
-47,Australia,South Africa,2,Glenn Maxwell,Bowled,-,Tabraiz Shamsi,1,5,0,0,20.00
+47,Australia,South Africa,2,Glenn Maxwell,Bowled,-,Tabraiz Shamsi,1,5,0,0,20.0
 47,Australia,South Africa,2,Josh Inglis,Bowled,-,Gerald Coetzee,28,49,3,0,57.14
 47,Australia,South Africa,2,Mitchell Starc,Not out,-,-,16,38,2,0,42.11
 47,Australia,South Africa,2,Pat Cummins,Not out,-,-,14,29,2,0,48.28
 48,Australia,India,2,David Warner,Catch,Virat Kohli,Mohammed Shami,7,3,1,0,233.33
 48,Australia,India,2,Travis Head,Catch,Shubman Gill,Mohammed Siraj,137,120,15,4,114.17
-48,Australia,India,2,Mitchell Marsh,Catch,Rahul,Jasprit Bumrah,15,15,1,1,100.00
+48,Australia,India,2,Mitchell Marsh,Catch,Rahul,Jasprit Bumrah,15,15,1,1,100.0
 48,Australia,India,2,Steven Smith,lbw,-,Jasprit Bumrah,4,9,1,0,44.44
 48,Australia,India,2,Marnus Labuschagne,Not out,-,-,58,110,4,0,52.73
-48,Australia,India,2,Glenn Maxwell,Not out,-,-,2,1,0,0,200.00
+48,Australia,India,2,Glenn Maxwell,Not out,-,-,2,1,0,0,200.0
